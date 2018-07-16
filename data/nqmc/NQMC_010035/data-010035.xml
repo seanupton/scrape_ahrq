@@ -1,0 +1,274 @@
+<version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlsource>
+  <section secid="560" ordby="10" name="General">
+    <field fieldid="11" ordby="20" id="561" name="Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Self-injury: age-standardized rate of hospitalization in a general hospital due to self-injury per 100,000 population age 15 and older.</div>"/>
+    </field>
+    <field fieldid="1" ordby="30" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Canadian Institute for Health Information (CIHI). Indicator metadata: self-injury hospitalization. [internet]. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2015 May&amp;nbsp;[accessed 2015 Jul 13]. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="563" ordby="40" name="Measure Domain">
+    <field fieldid="3025" ordby="50" id="564" name="Primary Measure Domain" type="picklist-one">
+      <fieldvalue value="Related Population Health Measures: Population Use of Services"/>
+    </field>
+    <field fieldid="3026" ordby="60" id="565" name="Secondary Measure Domain" type="picklist-one">
+      <fieldvalue value="Related Population Health Measure: Population Health State"/>
+    </field>
+  </section>
+  <section secid="566" ordby="70" name="Brief Abstract">
+    <field fieldid="34" ordby="80" id="567" name="Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is used to assess the age-standardized rate of hospitalization in a general hospital due to self-injury per 100,000 population.</p>
+<p><em>Calculation Description</em>: (Total number of discharges for a self-injury for patients age 15 and older &amp;divide; Total mid-year population age 15 and older) &amp;times; 100,000 (age-adjusted)</p></div>"/>
+    </field>
+    <field fieldid="21" ordby="90" id="568" name="Rationale" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Self-injury is defined as a deliberate bodily injury that may or may not result in death. This type of injury is the result of either suicidal or self-harming behaviours, or both. Self-injury can be prevented, in many cases, by early recognition, intervention and treatment of mental illnesses. While some risk factors for self-injury are beyond the control of the health system, high rates of self-injury hospitalization can be interpreted as the result of a failure of the system to prevent self-injuries that are severe enough to require hospitalization.</p></div>"/>
+    </field>
+    <field fieldid="3500" ordby="100" id="569" name="Evidence for Rationale" type="citation">
+      <fieldvalue value="<table><tr><td>Canadian Institute for Health Information (CIHI). Indicator metadata: self-injury hospitalization. [internet]. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2015 May&amp;nbsp;[accessed 2015 Jul 13]. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Canadian Institute for Health Information (CIHI). National Trauma Registry Analytic Bulletin: hospitalizations due to suicide attempts and self-inflicted injury in Canada, 2001-2002. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2004. </td></tr></table>"/>
+    </field>
+    <field fieldid="3022" ordby="110" id="570" name="Primary Health Components" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Self-injury; hospitalization</p></div>"/>
+    </field>
+    <field fieldid="23" ordby="120" id="571" name="Denominator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Total mid-year population age 15 and older</p></div>"/>
+    </field>
+    <field fieldid="24" ordby="130" id="572" name="Numerator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Total number of discharges for a self-injury for patients age 15 and older (see the related &quot;Numerator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+  </section>
+  <section secid="573" ordby="140" name="Evidence Supporting the Measure">
+    <field fieldid="3027" ordby="150" id="574" name="Type of Evidence Supporting the Criterion of Quality for the Measure" type="picklist-choice">
+      <fieldvalue value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences"/>
+    </field>
+    <field fieldid="3501" ordby="160" id="575" name="Additional Information Supporting Need for the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3072" ordby="180" id="577" name="Extent of Measure Testing" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+  </section>
+  <section secid="580" ordby="210" name="State of Use of the Measure">
+    <field fieldid="3029" ordby="220" id="581" name="State of Use" type="picklist-one">
+      <fieldvalue value="Current routine use"/>
+    </field>
+    <field fieldid="3030" ordby="230" id="582" name="Current Use" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="583" ordby="240" name="Application of the Measure in its Current Use">
+    <field fieldid="3031" ordby="250" id="584" name="Measurement Setting" type="picklist-choice">
+      <fieldvalue value="Hospital Inpatient"/>
+    </field>
+    <field fieldid="3032" ordby="260" id="585" name="Professionals Involved in Delivery of Health Services" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3033" ordby="270" id="586" name="Least Aggregated Level of Services Delivery Addressed" type="picklist-one">
+      <fieldvalue value="Regional, County or City"/>
+    </field>
+    <field fieldid="3505" ordby="280" id="587" name="Statement of Acceptable Minimum Sample Size" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="41" ordby="290" id="588" name="Target Population Age" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Age greater than or equal to 15 years</p></div>"/>
+    </field>
+    <field fieldid="42" ordby="300" id="589" name="Target Population Gender" type="picklist-one">
+      <fieldvalue value="Either male or female"/>
+    </field>
+  </section>
+  <section secid="700" ordby="304" name="National Framework for Public Health Quality">
+    <field fieldid="4620" ordby="305" id="701" name="Public Health Aims for Quality" type="picklist-many">
+      <fieldvalue value="Population-centered"/>
+      <fieldvalue value="Risk Reducing"/>
+      <fieldvalue value="Transparency"/>
+    </field>
+  </section>
+  <section secid="660" ordby="310" name="National Strategy for Quality Improvement in Health Care">
+    <field fieldid="3525" ordby="330" id="662" name="National Quality Strategy Priority" type="text">
+      <fieldvalue value="<ul></ul>"/>
+    </field>
+  </section>
+  <section secid="590" ordby="340" name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <field fieldid="3163" ordby="350" id="591" name="IOM Care Need" type="picklist-choice">
+      <fieldvalue value="Not within an IOM Care Need"/>
+    </field>
+    <field fieldid="3164" ordby="360" id="592" name="IOM Domain" type="picklist-choice">
+      <fieldvalue value="Not within an IOM Domain"/>
+    </field>
+  </section>
+  <section secid="593" ordby="370" name="Data Collection for the Measure">
+    <field fieldid="3506" ordby="380" id="594" name="Case Finding Period" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>April 1 to March 31</p></div>"/>
+    </field>
+    <field fieldid="3054" ordby="390" id="595" name="Denominator Sampling Frame" type="picklist-one">
+      <fieldvalue value="Geographically defined"/>
+    </field>
+    <field fieldid="3057" ordby="400" id="598" name="Denominator (Index) Event or Characteristic" type="picklist-choice">
+      <fieldvalue value="Geographic Location"/>
+      <fieldvalue value="Patient/Individual (Consumer) Characteristic"/>
+    </field>
+    <field fieldid="3058" ordby="410" id="599" name="Denominator Time Window" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="55" ordby="420" id="596" name="Denominator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Total mid-year population age 15 and older</p>
+<p><strong>Exclusions</strong><br />
+Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3507" ordby="430" id="597" name="Exclusions/Exceptions" type="picklist-choice-4">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="59" ordby="440" id="600" name="Numerator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Total number of discharges for a self-injury for patients age 15 and older</p>
+<p>Include:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Self-injury is identified by external cause of injury codes with a diagnosis type of 9. </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: Refer to the original measure documentation for the administrative codes.</p>
+<p><strong>Exclusions</strong></p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Cases of self-injury involving outpatient treatment in hospital emergency departments or other medical facilities or completed suicide prior to hospital admission </li>
+    <li>Patients who were institutionalized in a psychiatric hospital and were self-injured during their stay but did not require admission to a general hospital </li>
+    <li>Cadaveric donor or stillbirth records (Admission Category = R or S) </li>
+</ol></div>"/>
+    </field>
+    <field fieldid="3061" ordby="450" id="601" name="Numerator Search Strategy" type="picklist-one">
+      <fieldvalue value="Institutionalization"/>
+    </field>
+    <field fieldid="3062" ordby="460" id="602" name="Data Source" type="picklist-many">
+      <fieldvalue value="Administrative clinical data"/>
+    </field>
+    <field fieldid="3065" ordby="470" id="603" name="Type of Health State" type="picklist-one">
+      <fieldvalue value="Adverse Health State"/>
+    </field>
+    <field fieldid="3066" ordby="480" id="604" name="Instruments Used and/or Associated with the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+  </section>
+  <section secid="605" ordby="490" name="Computation of the Measure">
+    <field fieldid="3508" ordby="500" id="606" name="Measure Specifies Disaggregation" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3067" ordby="520" id="608" name="Scoring" type="picklist-many">
+      <fieldvalue value="Rate/Proportion"/>
+    </field>
+    <field fieldid="3068" ordby="530" id="609" name="Interpretation of Score" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)"/>
+    </field>
+    <field fieldid="3090" ordby="540" id="610" name="Allowance for Patient or Population Factors" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3069" ordby="550" id="611" name="Description of Allowance for Patient or Population Factors" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Indicators are reported at the national, provincial/territorial, and regional levels. </li>
+    <li>Unless otherwise specified, for indicators based on place of residence, data is reported based on the region of the patient's residence, not region of hospitalization. Consequently, these figures reflect the hospitalization experience of residents of the region wherever they are treated, including out of province, as opposed to the comprehensive activity of the region's hospitals (that will also treat people from outside of the region). Hospitalizations occurring in the U.S. or abroad are not included. </li>
+    <li>For indicators based on place of service (where the patient was treated), data is reported based on the administrative region of the facility (e.g., region of hospitalization). </li>
+    <li>Rates are standardized or risk-adjusted wherever possible to facilitate comparability across provinces/regions/facilities and over time. </li>
+    <li>Standardized rates are adjusted by age (collapsed to five-year groupings) using a direct method of standardization based on the July 1, 1991, Canadian population. </li>
+</ul>"/>
+    </field>
+    <field fieldid="3070" ordby="560" id="612" name="Standard of Comparison" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="615" ordby="590" name="Identifying Information">
+    <field fieldid="73" ordby="600" id="616" name="Original Title" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Self-injury hospitalization.</p></div>"/>
+    </field>
+    <field fieldid="74" ordby="610" id="617" name="Measure Collection Name" type="text">
+      <fieldvalue value="Health Indicators ePublication 2015"/>
+    </field>
+    <field fieldid="16" ordby="650" id="621" name="Submitter" type="orglist">
+      <fieldvalue value="Canadian Institute for Health Information - Nonprofit Organization"/>
+    </field>
+    <field fieldid="17" ordby="660" id="622" name="Developer" type="orglist-p">
+      <fieldvalue value="Canadian Institute for Health Information - Nonprofit Organization"/>
+    </field>
+    <field fieldid="79" ordby="670" id="623" name="Funding Source(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Canadian Government</p></div>"/>
+    </field>
+    <field fieldid="80" ordby="680" id="624" name="Composition of the Group that Developed the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Employees</em>: Canadian Institute for Health Information (CIHI) Health Indicators</p></div>"/>
+    </field>
+    <field fieldid="81" ordby="690" id="625" name="Financial Disclosures/Other Potential Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None</p></div>"/>
+    </field>
+    <field fieldid="19" ordby="730" id="629" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="3086" ordby="740" id="630" name="Date of Most Current Version in NQMC" type="date">
+      <fieldvalue value="2015 May"/>
+    </field>
+    <field fieldid="3511" ordby="750" id="631" name="Measure Maintenance" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Annually</p></div>"/>
+    </field>
+    <field fieldid="3512" ordby="760" id="632" name="Date of Next Anticipated Revision" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="20" ordby="770" id="633" name="Measure Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: Canadian Institute for Health Information (CIHI). Health indicators 2013: definitions, data sources and rationale. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2013 May. 89 p. </p>
+<p>The measure developer reaffirmed the currency of this measure in April 2016. </p></div>"/>
+    </field>
+    <field fieldid="14" ordby="780" id="634" name="Measure Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Source available from the <a href=&quot;http://indicatorlibrary.cihi.ca/pages/viewpage.action?pageId=1114197&quot; title=&quot;CIHI Web site&quot;>Canadian Institute for Health Information (CIHI) Web site</a>.</p>
+<p>For more information, contact CIHI at 4110 Yonge Street, Suite 300, Toronto, Ontario, Canada, M2P 2B7; Phone: 416-481-2002; Fax: 416-481-2950; E-mail: <a href=&quot;mailto:hsp@cihi.ca&quot;>hsp@cihi.ca</a>; Web site: <a href=&quot;http://www.cihi.ca/&quot; title=&quot;CIHI Web site&quot;>www.cihi.ca</a>.</p></div>"/>
+    </field>
+    <field fieldid="15" ordby="790" id="635" name="Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Canadian Institute for Health Information (CIHI). Indicator library: general methodology notes - clinical indicators, March 2015. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2015 Mar. 19 p. This document is available from the <a href=&quot;http://indicatorlibrary.cihi.ca/download/attachments/1114124/General%20Methodology%20Notes.pdf?version=1&amp;amp;modificationDate=1424974232000&amp;amp;api=v2&quot; title=&quot;CIHI Web site&quot;>Canadian Institute for Health Information (CIHI) Web site</a>. </li>
+    <li>Canadian Institute for Health Information (CIHI). Canadian coding standards for version 2015 ICD-10-CA and CCI. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2015. 511 p. This document is available from the <a href=&quot;https://secure.cihi.ca/free_products/Coding%20standard_EN_web.pdf&quot; title=&quot;CIHI Web site&quot;>CIHI Web site</a>. </li>
+    <li>Canadian Institute for Health Information (CIHI). Health indicators interactive tool. [internet]. Ottawa (ON): Canadian Institute for Health Information (CIHI); [accessed 2015 Jan 20]. This tool is available from the <a href=&quot;http://www.cihi.ca/hirpt/?language=en&quot; title=&quot;CIHI Web site&quot;>CIHI Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="87" ordby="800" id="636" name="NQMC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary was completed by ECRI Institute on March 18, 2013. The information was verified by the measure developer on May 17, 2013.</p>
+<p>The CIHI informed NQMC that this measure was updated on October 31, 2013 and provided an updated version of the NQMC summary. This NQMC summary was reviewed and updated accordingly by ECRI Institute on February 21, 2014.</p>
+<p>This NQMC summary was updated again by ECRI Institute on September 4, 2015. The information was verified by the measure developer on November 6, 2015.</p>
+<p>The information was reaffirmed by the measure developer on April 29, 2016. </p></div>"/>
+    </field>
+    <field fieldid="88" ordby="810" id="637" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. </p>
+<p>Use of Canadian Institute for Health Information's (CIHI) quality measure for research, private study, education, or other non-commercial purposes is permitted where full credit is given to CIHI as author and owner of the quality measure. Any use that is wholly or partly commercial in nature requires CIHI's express written permission.</p>
+<p>Questions and inquiries may be directed to: CIHI, Health Indicators, 4110 Yonge Street, Suite 300, Toronto, Ontario, Canada, M2P 2B7; Phone: 416-481-2002; Fax: 416-481-2950.</p></div>"/>
+    </field>
+  </section>
+  <section secid="641" ordby="850" name="Production">
+    <field fieldid="1" ordby="1366" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Canadian Institute for Health Information (CIHI). Indicator metadata: self-injury hospitalization. [internet]. Ottawa (ON): Canadian Institute for Health Information (CIHI); 2015 May&amp;nbsp;[accessed 2015 Jul 13]. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NQMC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 02:09:41 Jul 06, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:37:24 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 45.336 (3)
+  esindex: 0.007
+  captures_list: 57.598
+  CDXLines.iter: 9.57 (3)
+  PetaboxLoader3.datanode: 45.541 (4)
+  exclusion.robots: 0.124
+  exclusion.robots.policy: 0.116
+  RedisCDXSource: 0.443
+  PetaboxLoader3.resolve: 125.705
+  load_resource: 163.239
+-->

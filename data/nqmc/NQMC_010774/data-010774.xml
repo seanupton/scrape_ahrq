@@ -1,0 +1,347 @@
+<version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlsource>
+  <section secid="560" ordby="10" name="General">
+    <field fieldid="11" ordby="20" id="561" name="Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Adult depression in primary care: percentage of patients with a diagnosis of major depression or persistent depressive disorder with documentation of DSM-5 criteria at the time of the diagnosis.</div>"/>
+    </field>
+    <field fieldid="1" ordby="30" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Trangle M, Gursky J, Haight R, Hardwig J, Hinnenkamp T, Kessler D, Mack N, Myszkowski M. Adult depression in primary care. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2016 Mar. 131 p.  [394 references]</td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="563" ordby="40" name="Measure Domain">
+    <field fieldid="3025" ordby="50" id="564" name="Primary Measure Domain" type="picklist-one">
+      <fieldvalue value="Clinical Quality Measures: Process"/>
+    </field>
+    <field fieldid="3026" ordby="60" id="565" name="Secondary Measure Domain" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+  </section>
+  <section secid="566" ordby="70" name="Brief Abstract">
+    <field fieldid="34" ordby="80" id="567" name="Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is used to assess the percentage of patients age 18 years and older with a diagnosis of major depression or persistent depressive disorder with documentation of Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria at the time of the diagnosis.</p></div>"/>
+    </field>
+    <field fieldid="21" ordby="90" id="568" name="Rationale" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The priority aim addressed by this measure is to increase the percentage of patients accurately diagnosed with major depression or persistent depressive disorder.</p>
+<p>At any given time, 9% of the population has a depressive disorder, and 3.4% has major depression (Strine et al., 2008). In a 12-month time period, 6.6% of the U.S. population will have experienced major depression, and 16.6% of the population will experience depression in their lifetime (Kessler et al., 2005).</p>
+<p>Major depression is a treatable cause of pain, suffering, disability and death, yet primary care clinicians detect major depression in only one-third to one-half of their patients with major depression (Williams et al., 2002; Schonfeld et al., 1997). Additionally, more than 80% of patients with depression have a medical comorbidity (Klinkman, 2003). Usual care for depression in the primary care setting has resulted in only about half of depressed adults getting treated (Kessler et al., 2005) and only 20% to 40% showing substantial improvement over 12 months (Un&amp;uuml;tzer et al., 2002; Katon et al., 1999). Approximately 70% to 80% of antidepressants are prescribed in primary care, making it critical that clinicians know how to use them and have a system that supports best practices (Mojtabai &amp;amp; Olfson, 2008).</p></div>"/>
+    </field>
+    <field fieldid="3500" ordby="100" id="569" name="Evidence for Rationale" type="citation">
+      <fieldvalue value="<table><tr><td>Katon W, Von Korff M, Lin E, Simon G, Walker E, Unutzer J, Bush T, Russo J, Ludman E. Stepped collaborative care for primary care patients with persistent symptoms of  depression: a randomized trial. Arch Gen Psychiatry. 1999 Dec;56(12):1109-15. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10591288&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kessler RC, Chiu WT, Demler O, Merikangas KR, Walters EE. Prevalence, severity, and comorbidity of 12-month DSM-IV disorders in the National Comorbidity Survey Replication. Arch Gen Psychiatry. 2005 Jun;62(6):617-27. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15939839&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Klinkman MS. The role of algorithms in the detection and treatment of depression in primary care. J Clin Psychiatry. 2003;64 Suppl 2:19-23. [24 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12625795&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mojtabai R, Olfson M. National patterns in antidepressant treatment by psychiatrists and general medical providers: results from the national comorbidity survey replication. J Clin Psychiatry. 2008 Jul;69(7):1064-74. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18399725&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Schonfeld WH, Verboncoeur CJ, Fifer SK, Lipschutz RC, Lubeck DP, Buesching DP. The functioning and well-being of patients with unrecognized anxiety disorders and major depressive disorder. J Affect Disord. 1997 Apr;43(2):105-19. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9165380&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Strine TW, Mokdad AH, Balluz LS, Gonzalez O, Crider R, Berry JT, Kroenke K. Depression and anxiety in the United States: findings from the 2006 Behavioral Risk Factor Surveillance System. Psychiatr Serv. 2008 Dec;59(12):1383-90. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19033164&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Trangle M, Gursky J, Haight R, Hardwig J, Hinnenkamp T, Kessler D, Mack N, Myszkowski M. Adult depression in primary care. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2016 Mar. 131 p.  [394 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Unützer J, Katon W, Callahan CM, Williams JW Jr, Hunkeler E, Harpole L, Hoffing M, Della Penna RD, Noel PH, Lin EH, Arean PA, Hegel MT, Tang L, Belin TR, Oishi S, Langston C. Collaborative care management of late-life depression in the primary care setting: a randomized controlled trial. JAMA. 2002 Dec 11;288(22):2836-45. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12472325&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Williams JW Jr, Noel PH, Cordes JA, Ramirez G, Pignone M. Is this patient clinically depressed. JAMA. 2002 Mar 6;287(9):1160-70. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11879114&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="3022" ordby="110" id="570" name="Primary Health Components" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Major depression; persistent depressive disorder; Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria</p></div>"/>
+    </field>
+    <field fieldid="23" ordby="120" id="571" name="Denominator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Number of primary care patients age 18 years and older with new diagnosis of major depression or persistent depressive disorder during the measurement period and patient has not been treated for depression (see the related &quot;Denominator Inclusions/Exclusions&quot; field) </p></div>"/>
+    </field>
+    <field fieldid="24" ordby="130" id="572" name="Numerator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Number of medical records containing documentation of Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria documentation at the time of the initial diagnosis (see the related &quot;Numerator Inclusions/Exclusions&quot; field) </p></div>"/>
+    </field>
+  </section>
+  <section secid="573" ordby="140" name="Evidence Supporting the Measure">
+    <field fieldid="3027" ordby="150" id="574" name="Type of Evidence Supporting the Criterion of Quality for the Measure" type="picklist-choice">
+      <fieldvalue value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence"/>
+    </field>
+    <field fieldid="3501" ordby="160" id="575" name="Additional Information Supporting Need for the Measure" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Major depression was second only to back and neck pain for having the greatest effect on disability days, at 386.6 million United States (U.S.) days per year (Merikangas et al., 2007). </li>
+    <li>In a World Health Organization (WHO) study of more than 240,000 people across 60 countries, depression was shown to produce the greatest decrease in quality of health compared to several other chronic diseases. Health scores worsened when depression was a comorbid condition, and the most disabling combination was depression and diabetes (Moussavi et al., 2007). </li>
+    <li>A 2011 study showed a relationship between the severity of depression symptoms and work function. Data was analyzed from 771 depressed patients who were currently employed. The data showed that for every 1-point increase in Patient Health Questionnaire-9 (PHQ-9) score, patients experienced an additional mean productivity loss of 1.65%. And, even minor levels of depression symptoms were associated with decrements in work function (Beck et al., 2011). </li>
+    <li>In the U.S., depression costs employers $24 billion in lost productive work time (Stewart et al., 2003). </li>
+    <li>There is evidence that non-majority racial and cultural groups in the U.S. are less likely to be treated for depression than European Americans. In an epidemiological study that compared rates of diagnosing and treating depression in the early 1990s to patterns 10 years later, only 4.9% of minorities were treated with antidepressants compared to 12.4% of non-Hispanic Caucasians (Mojtabai &amp;amp; Olfson, 2008). </li>
+    <li>Depression in the elderly is widespread, often undiagnosed and usually untreated. It is a common misperception that it is a part of normal aging. Losses, social isolation and chronic medical problems that older patients experience can contribute to depression. </li>
+    <li>The rate of depression in adults older than 65 years of age treated in primary care settings ranges from 17% to 37% (Birrer &amp;amp; Vemuri, 2004) and is between 14% and 42% in patients who live in long-term care facilities (Robinson et al., 2014). Comorbidities are more common in the elderly. The highest rates of depression are found in those with strokes (30% to 60%), coronary artery disease (up to 44%), cancer (up to 40%), Parkinson's disease (40%), Alzheimer's disease (20% to 40%), and dementia (17% to 31%) (Birrer &amp;amp; Vemuri, 2004). The recurrence rate is also extremely high at 40% (Birrer &amp;amp; Vemuri, 2004). </li>
+    <li>Between 14% and 23% of pregnant women and 10% to 15% of postpartum women will experience a depressive disorder (Gaynes et al., 2005). A review by Milgrom and Gemmill (2014) cites a point prevalence of 13% at three months after delivery and an average of 9% during each trimester of pregnancy. According to a large-scale epidemiological study by Vesga-L&amp;oacute;pez et al. (2008), depression during the postpartum period may be more common than at other times in a woman's life. </li>
+    <li>With growing understanding of the systemic impact of perinatal stressors, there is a new body of research examining paternal depression. A recent meta-analysis shows a 10% to 14% incidence of paternal depression during the perinatal period, with a moderate positive correlation with maternal depression (Paulson &amp;amp; Bazemore, 2010). </li>
+    <li>From 50% to 85% of people who suffer an episode of major depression will have a recurrence, usually within two or three years (American Psychiatric Association, 2010). Patients who have had three or more episodes of major depression are at 90% risk of having another episode. </li>
+</ul>"/>
+    </field>
+    <field fieldid="3502" ordby="170" id="576" name="Evidence for Additional Information Supporting Need for the Measure" type="citation">
+      <fieldvalue value="<table><tr><td>American Psychiatric Association (APA). Practice guideline for the treatment of patients with panic disorder, 2nd edition. Arlington (VA): American Psychiatric Association (APA); 2010. various p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Beck A, Crain AL, Solberg LI, Unutzer J, Glasgow RE, Maciosek MV, Whitebird R. Severity of depression and magnitude of productivity loss. Ann Fam Med. 2011 Jul-Aug;9(4):305-11. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21747101&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Birrer RB, Vemuri SP. Depression in later life: a diagnostic and therapeutic challenge. Am Fam Physician. 2004 May 15;69(10):2375-82. [25 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15168957&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gaynes BN, Gavin N, Meltzer-Brody S, Lohr KN, Swinson T, Gartlehner G, Brody S, Miller WC. Perinatal depression: prevalence, screening accuracy, and screening outcomes. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2005 Feb. &amp;nbsp;(Evidence report/technology assessment; no. 119).&amp;nbsp; [77 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Merikangas KR, Ames M, Cui L, Stang PE, Ustun TB, Von Korff M, Kessler RC. The impact of comorbidity of mental and physical conditions on role disability in the US adult household population. Arch Gen Psychiatry. 2007 Oct;64(10):1180-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17909130&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Milgrom J, Gemmill AW. Screening for perinatal depression. Best Pract Res Clin Obstet Gynaecol. 2014 Jan;28(1):13-23. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24095728&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mojtabai R, Olfson M. National patterns in antidepressant treatment by psychiatrists and general medical providers: results from the national comorbidity survey replication. J Clin Psychiatry. 2008 Jul;69(7):1064-74. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18399725&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Moussavi S, Chatterji S, Verdes E, Tandon A, Patel V, Ustun B. Depression, chronic diseases, and decrements in health: results from the World Health Surveys. Lancet. 2007 Sep 8;370(9590):851-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17826170&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Paulson JF, Bazemore SD. Prenatal and postpartum depression in fathers and its association with maternal depression: a meta-analysis. JAMA. 2010 May 19;303(19):1961-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20483973&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Robinson M, Oakes TM, Raskin J, Liu P, Shoemaker S, Nelson JC. Acute and long-term treatment of late-life major depressive disorder: duloxetine versus placebo. Am J Geriatr Psychiatry. 2014 Jan;22(1):34-45. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=24314888&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Stewart WF, Ricci JA, Chee E, Hahn SR, Morganstein D. Cost of lost productive work time among US workers with depression. JAMA. 2003 Jun 18;289(23):3135-44. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12813119&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Trangle M, Gursky J, Haight R, Hardwig J, Hinnenkamp T, Kessler D, Mack N, Myszkowski M. Adult depression in primary care. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2016 Mar. 131 p.  [394 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Vesga-López O, Blanco C, Keyes K, Olfson M, Grant BF, Hasin DS. Psychiatric disorders in pregnant and postpartum women in the United States. Arch Gen Psychiatry. 2008 Jul;65(7):805-15. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18606953&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="3072" ordby="180" id="577" name="Extent of Measure Testing" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="37" ordby="200" id="579" name="National Guideline Clearinghouse Link" type="xref">
+      <fieldvalue value="<a href=&quot;http://www.guideline.gov/content.aspx?id=50406&quot; target=&quot;_blank&quot;>Adult depression in primary care.</a>"/>
+    </field>
+  </section>
+  <section secid="580" ordby="210" name="State of Use of the Measure">
+    <field fieldid="3029" ordby="220" id="581" name="State of Use" type="picklist-one">
+      <fieldvalue value="Current routine use"/>
+    </field>
+    <field fieldid="3030" ordby="230" id="582" name="Current Use" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="583" ordby="240" name="Application of the Measure in its Current Use">
+    <field fieldid="3031" ordby="250" id="584" name="Measurement Setting" type="picklist-choice">
+      <fieldvalue value="Ambulatory/Office-based Care"/>
+    </field>
+    <field fieldid="3032" ordby="260" id="585" name="Professionals Involved in Delivery of Health Services" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3033" ordby="270" id="586" name="Least Aggregated Level of Services Delivery Addressed" type="picklist-one">
+      <fieldvalue value="Clinical Practice or Public Health Sites"/>
+    </field>
+    <field fieldid="3505" ordby="280" id="587" name="Statement of Acceptable Minimum Sample Size" type="picklist-one">
+      <fieldvalue value="Unspecified"/>
+    </field>
+    <field fieldid="41" ordby="290" id="588" name="Target Population Age" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Age greater than or equal to 18 years</p></div>"/>
+    </field>
+    <field fieldid="42" ordby="300" id="589" name="Target Population Gender" type="picklist-one">
+      <fieldvalue value="Either male or female"/>
+    </field>
+  </section>
+  <section secid="660" ordby="310" name="National Strategy for Quality Improvement in Health Care">
+    <field fieldid="3522" ordby="320" id="661" name="National Quality Strategy Aim" type="text">
+      <fieldvalue value="<ul><li>Better Care</li></ul>"/>
+    </field>
+    <field fieldid="3525" ordby="330" id="662" name="National Quality Strategy Priority" type="text">
+      <fieldvalue value="<ul><li>Prevention and Treatment of Leading Causes of Mortality</li></ul>"/>
+    </field>
+  </section>
+  <section secid="590" ordby="340" name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <field fieldid="3163" ordby="350" id="591" name="IOM Care Need" type="picklist-choice">
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="3164" ordby="360" id="592" name="IOM Domain" type="picklist-choice">
+      <fieldvalue value="Effectiveness"/>
+    </field>
+  </section>
+  <section secid="593" ordby="370" name="Data Collection for the Measure">
+    <field fieldid="3506" ordby="380" id="594" name="Case Finding Period" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The time frame pertaining to the data collection is monthly.</p></div>"/>
+    </field>
+    <field fieldid="3054" ordby="390" id="595" name="Denominator Sampling Frame" type="picklist-one">
+      <fieldvalue value="Patients associated with provider"/>
+    </field>
+    <field fieldid="3057" ordby="400" id="598" name="Denominator (Index) Event or Characteristic" type="picklist-choice">
+      <fieldvalue value="Clinical Condition"/>
+      <fieldvalue value="Patient/Individual (Consumer) Characteristic"/>
+    </field>
+    <field fieldid="3058" ordby="410" id="599" name="Denominator Time Window" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="55" ordby="420" id="596" name="Denominator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Number of primary care patients age 18 years and older with new diagnosis* of major depression or persistent depressive disorder during the measurement period and patient has not been treated for depression</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: Major depression and persistent depressive disorder International Classification of Diseases, Tenth Revision (ICD-10) codes include F32.x, F33.x and F34.1.</p>
+<p class=&quot;Note&quot;>*<em>New Diagnosis</em>: Patients diagnosed with major depression or persistent depressive disorder during the measurement period. Measurement period can be weekly, monthly, quarterly, annually or any other period that clinic determines needs to be for quality improvement. </p>
+<p><strong>Exclusions</strong><br />
+Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3507" ordby="430" id="597" name="Exclusions/Exceptions" type="picklist-choice-4">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="59" ordby="440" id="600" name="Numerator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Number of medical records containing documentation of Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria* at the time of initial diagnosis</p>
+<p class=&quot;Note&quot;><strong>Data Collection</strong>: The presence of narrative comments reflecting application of DSM-5 criteria in making the diagnosis is acceptable evidence for this measure.</p>
+<p class=&quot;Note&quot;>*Must have a total of five symptoms for at least two weeks. One of the symptoms must be depressed mood or loss of interest.</p>
+<ol class=&quot;Note&quot; style=&quot;list-style-type: decimal;&quot;>
+    <li>Depressed mood </li>
+    <li>Markedly diminished interest or pleasure in all or almost all activities </li>
+    <li>Significant (more than 5% body weight) weight loss or gain, or decrease or increase in appetite </li>
+    <li>Insomnia or hypersomnia </li>
+    <li>Psychomotor agitation or retardation </li>
+    <li>Fatigue or loss of energy </li>
+    <li>Feeling of worthlessness or inappropriate guilt </li>
+    <li>Diminished concentration, or indecisiveness </li>
+    <li>Recurrent thoughts of death or suicide </li>
+</ol>
+<p><strong>Exclusions</strong><br />
+Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3061" ordby="450" id="601" name="Numerator Search Strategy" type="picklist-one">
+      <fieldvalue value="Fixed time period or point in time"/>
+    </field>
+    <field fieldid="3062" ordby="460" id="602" name="Data Source" type="picklist-many">
+      <fieldvalue value="Administrative clinical data"/>
+      <fieldvalue value="Electronic health/medical record"/>
+    </field>
+    <field fieldid="3065" ordby="470" id="603" name="Type of Health State" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3066" ordby="480" id="604" name="Instruments Used and/or Associated with the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5)</p></div>"/>
+    </field>
+  </section>
+  <section secid="605" ordby="490" name="Computation of the Measure">
+    <field fieldid="3508" ordby="500" id="606" name="Measure Specifies Disaggregation" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3067" ordby="520" id="608" name="Scoring" type="picklist-many">
+      <fieldvalue value="Rate/Proportion"/>
+    </field>
+    <field fieldid="3068" ordby="530" id="609" name="Interpretation of Score" type="picklist-one">
+      <fieldvalue value="Desired value is a higher score"/>
+    </field>
+    <field fieldid="3090" ordby="540" id="610" name="Allowance for Patient or Population Factors" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3070" ordby="560" id="612" name="Standard of Comparison" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="615" ordby="590" name="Identifying Information">
+    <field fieldid="73" ordby="600" id="616" name="Original Title" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Percentage of patients with a diagnosis of major depression or persistent depressive disorder with documentation of DSM-5 criteria at the time of the diagnosis.</p></div>"/>
+    </field>
+    <field fieldid="74" ordby="610" id="617" name="Measure Collection Name" type="text">
+      <fieldvalue value="Adult Depression in Primary Care"/>
+    </field>
+    <field fieldid="16" ordby="650" id="621" name="Submitter" type="orglist">
+      <fieldvalue value="Institute for Clinical Systems Improvement - Nonprofit Organization"/>
+    </field>
+    <field fieldid="17" ordby="660" id="622" name="Developer" type="orglist-p">
+      <fieldvalue value="Institute for Clinical Systems Improvement - Nonprofit Organization"/>
+    </field>
+    <field fieldid="79" ordby="670" id="623" name="Funding Source(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Institute for Clinical Systems Improvement's (ICSI's) work is funded by the annual dues of the member medical groups and three sponsoring health plans in Minnesota.</p></div>"/>
+    </field>
+    <field fieldid="80" ordby="680" id="624" name="Composition of the Group that Developed the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Work Group Members</em>: Michael Trangle, MD (<em>Work Group Leader</em>) (HealthPartners Medical Group and Regions Hospital) (Psychiatry); Daniel Kessler, LP (Allina Medical Clinic) (Psychology); Jeffrey Hardwig, MD (Essentia Health) (Psychiatry); Todd Hinnenkamp, RN (Essentia Health) (Internal Medicine); Robert Haight, PharmD, BCPP (Fairview Health Services) (Pharmacy); Tom Gabert (Howard Young Medical Center) (Family Medicine); Mioki Myszkowski, MD (Mayo Clinic) (Family Medicine); Nicky Mack, RN (North Memorial Health Care) (Family Medicine); Jeffrey Gursky, MD (Olmstead Medical Center) (Psychiatry); Jodie Dvorkin (Institute for Clinical Systems Improvement [ICSI]) (Project Manager/Health Care Consultant); Senka Hadzic (ICSI) (Clinical Systems Improvement Facilitator)</p></div>"/>
+    </field>
+    <field fieldid="81" ordby="690" id="625" name="Financial Disclosures/Other Potential Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Institute for Clinical Systems Improvement (ICSI) has long had a policy of transparency in declaring potential conflicting and competing interests of all individuals who participate in the development, revision and approval of ICSI guidelines and protocols. </p>
+<p>In 2010, the ICSI Conflict of Interest Review Committee was established by the Board of Directors to review all disclosures and make recommendations to the board when steps should be taken to mitigate potential conflicts of interest, including recommendations regarding removal of work group members. This committee has adopted the Institute of Medicine Conflict of Interest standards as outlined in the report Clinical Practice Guidelines We Can Trust (2011). </p>
+<p>Where there are work group members with identified potential conflicts, these are disclosed and discussed at the initial work group meeting. These members are expected to recuse themselves from related discussions or authorship of related recommendations, as directed by the Conflict of Interest committee or requested by the work group.</p>
+<p>The complete ICSI policy regarding Conflicts of Interest is available at the <a href=&quot;https://www.icsi.org/_asset/fwsfmi/coi_policyletter.pdf&quot; title=&quot;ICSI Web site&quot;>ICSI Web site</a>.</p>
+<p><strong>Disclosure of Potential Conflicts of Interest</strong></p>
+<p><strong>Jeffrey Gursky, MD (Work Group Member)</strong> <br />
+Department Chair of Psychiatry and Psychology, Olmsted Medical Center <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: None </p>
+<p><strong>Robert Haight, Pharm D, BCPP (Work Group Member)</strong> <br />
+Clinical Pharmacy Specialist, Psychiatry, Fairview Health Services <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: Paid expert testimony for the State of Minnesota. On request case, consulting for specific patient cases involving psychiatric medications to be reviewed by various departments. </p>
+<p><strong>Jeffrey Hardwig, MD (Work Group Member) </strong><br />
+Psychiatrist, Essentia Health <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Todd Hinnenkamp, RN, NC (Work Group Member)</strong> <br />
+Nurse Clinician, Internal Medicine, Essentia Health <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: None </p>
+<p><strong>Daniel Kessler, LP (Work Group Member) </strong><br />
+Lead Psychologist, Allina Medical Clinic &amp;ndash; Part of Allina Health <br />
+National, Regional, Local Committee Affiliations: Minnesota Psychological Association <br />
+Guideline Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: None </p>
+<p><strong>Nicki Mack, RN (Work Group Member) </strong><br />
+Care Navigator, North Memorial Health Care <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Mioki Myszkowski, MD (Work Group Member) </strong><br />
+Mayo Clinic <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Michael Trangle, MD (Work Group Leader) </strong><br />
+Senior Medical Director for Behavioral Health Services, Psychiatry, HealthPartners Medical Group and Regions Hospital <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: None</p></div>"/>
+    </field>
+    <field fieldid="19" ordby="730" id="629" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="3086" ordby="740" id="630" name="Date of Most Current Version in NQMC" type="date">
+      <fieldvalue value="2016 Mar"/>
+    </field>
+    <field fieldid="3511" ordby="750" id="631" name="Measure Maintenance" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Scientific documents are revised as indicated by changes in clinical practice and literature. Institute for Clinical Systems Improvement (ICSI) staff monitors major peer-reviewed journals for any pertinent evidence that would affect a particular guideline and recommendation.</p></div>"/>
+    </field>
+    <field fieldid="3512" ordby="760" id="632" name="Date of Next Anticipated Revision" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The next revision will be no later than March 2021.</p></div>"/>
+    </field>
+    <field fieldid="20" ordby="770" id="633" name="Measure Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: Mitchell J, Trangle M, Degnan B, Gabert T, Haight B, Kessler D, Mack N, Mallen E, Novak H, Rossmiller D, Setterlund L, Somers K, Valentino N, Vincent S. Adult depression in primary care. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 Sep. 129 p. [334 references]</p></div>"/>
+    </field>
+    <field fieldid="14" ordby="780" id="634" name="Measure Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Source available from the <a href=&quot;https://www.icsi.org/_asset/fnhdm3/Depr.pdf&quot; title=&quot;ICSI Web site&quot;>Institute for Clinical Systems Improvement (ICSI) Web site</a>.</p>
+<p>For more information, contact ICSI at 8009 34th Avenue South, Suite 1200, Bloomington, MN 55425; Phone: 952-814-7060; Fax: 952-858-9675; Web site: <a href=&quot;http://www.icsi.org&quot; title=&quot;ICSI Web site&quot;>www.icsi.org</a>; E-mail: <a href=&quot;mailto:icsi.info@icsi.org&quot;>icsi.info@icsi.org</a>.</p></div>"/>
+    </field>
+    <field fieldid="87" ordby="800" id="636" name="NQMC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary was completed by ECRI Institute on August 18, 2004. </p>
+<p>This NQMC summary was updated by ECRI Institute on July 11, 2006, August 13, 2007, June 30, 2008, December 7, 2009, January 4, 2011, November 28, 2012, March 5, 2014, and again on July 12, 2016.</p></div>"/>
+    </field>
+    <field fieldid="88" ordby="810" id="637" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary (abstracted Institute for Clinical Systems Improvement [ICSI] Measure) is based on the original measure, which is subject to the measure developer's copyright restrictions.</p>
+<p>The abstracted ICSI Measures contained in this Web site may be downloaded by any individual or organization. If the abstracted ICSI Measures are downloaded by an individual, the individual may not distribute copies to third parties.</p>
+<p>If the abstracted ICSI Measures are downloaded by an organization, copies may be distributed to the organization's employees but may not be distributed outside of the organization without the prior written consent of the Institute for Clinical Systems Improvement, Inc.</p>
+<p>All other copyright rights in the abstracted ICSI Measures are reserved by the Institute for Clinical Systems Improvement, Inc. The Institute for Clinical Systems Improvement, Inc. assumes no liability for any adaptations or revisions or modifications made to the abstracts of the ICSI Measures.</p></div>"/>
+    </field>
+  </section>
+  <section secid="641" ordby="850" name="Production">
+    <field fieldid="1" ordby="1366" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Trangle M, Gursky J, Haight R, Hardwig J, Hinnenkamp T, Kessler D, Mack N, Myszkowski M. Adult depression in primary care. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2016 Mar. 131 p.  [394 references]</td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NQMC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 01:43:27 Jul 06, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:36:57 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 443.397 (3)
+  esindex: 0.007
+  captures_list: 457.587
+  CDXLines.iter: 11.032 (3)
+  PetaboxLoader3.datanode: 90.211 (4)
+  exclusion.robots: 0.174
+  exclusion.robots.policy: 0.164
+  RedisCDXSource: 0.472
+  PetaboxLoader3.resolve: 417.077 (3)
+  load_resource: 107.252
+-->

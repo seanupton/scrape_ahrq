@@ -1,0 +1,364 @@
+<version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlsource>
+  <section secid="560" ordby="10" name="General">
+    <field fieldid="11" ordby="20" id="561" name="Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Short-stay nursing home care: percent of residents who self-report moderate to severe pain.</div>"/>
+    </field>
+    <field fieldid="1" ordby="30" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="563" ordby="40" name="Measure Domain">
+    <field fieldid="3025" ordby="50" id="564" name="Primary Measure Domain" type="picklist-one">
+      <fieldvalue value="Clinical Quality Measures: Outcome"/>
+    </field>
+    <field fieldid="3026" ordby="60" id="565" name="Secondary Measure Domain" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+  </section>
+  <section secid="566" ordby="70" name="Brief Abstract">
+    <field fieldid="34" ordby="80" id="567" name="Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is used to assess the percent of short-stay residents with at least one episode of moderate/severe pain or horrible/excruciating pain of any frequency in the last 5 days.</p></div>"/>
+    </field>
+    <field fieldid="21" ordby="90" id="568" name="Rationale" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Research indicates that at least 40% to 85% of nursing facility residents have persistent pain. The percentage may be even higher; research suggests that pain is often not fully documented (Ferrell, Ferrell, &amp;amp; Osterweil, 1990; Parmelee, Smith, &amp;amp; Katz, 1993; Sengstaken &amp;amp; King, 1993; Weiner &amp;amp; Rudy, 2002; Centers for Medicare &amp;amp; Medicaid Services [CMS], n.d.; Mor et al., 2004; Wu et al., 2003)</p>
+<p>Failure to identify the presence of pain or to assess its severity and functional impact can leave a potentially treatable symptom unrecognized and therefore unlikely to be addressed. Indeed, evidence suggests that pain is consistently under-treated, particularly among individuals with cognitive impairment (Sengstaken &amp;amp; King, 1993; Cook, Niven, &amp;amp; Downs, 1999; Won et al., 1999). A standard measure of resident pain is needed because of gaps in nursing staff's knowledge of &quot;best practice&quot; pain management in hospitals and nursing facilities (Weiner &amp;amp; Rudy, 2002; McMillan et al., 2000; Mrozek &amp;amp; Werner, 2001; Sloman et al., 2001; Cramer et al., 2000). A standard measure also provides a benchmark for pain management practices that vary widely across nursing homes (Cramer et al., 2000; Allcock, McGarry, &amp;amp; Elkan, 2002; Saliba &amp;amp; Buchanan, 2008).</p>
+<p>Among the potential adverse physiological and psychological effects of unrelieved pain are impaired gastrointestinal and pulmonary function; nausea and dyspnea; increased metabolic rate, including increased tumor growth and metastasis in cancer; impaired immune response; insomnia, delayed healing, increased blood clotting, loss of appetite, and the inability to walk or move about; impairment of joint function with functional decline and increased dependency; and anxiety and depression (Scherder &amp;amp; Bouma, 2000; Wrede-Seaman, 2001; Sachs, Shega, &amp;amp; Cox-Hayley, 2004; Hanson, Tulsky, &amp;amp; Danis, 1997). In the general population, unrelieved pain costs millions of dollars annually as a result of longer hospital stays, rehospitalizations, outpatient care, and emergency room visits (Berry &amp;amp; Dahl, 2001; Cousins, n.d.; Sydow, 1988; Wattwil, 1988; Desbiens et al., 1997; BenDebba, Torgerson, &amp;amp; Long, 1997; Liu, Carpenter, &amp;amp; Neal, 1995; McCaffery &amp;amp; Pasero, 1999; Hughes et al., 1997; Casten et al., 1995; Grant, et al., 1995; Sheehan et al., 1996).</p>
+<p>Use of this measure should prompt nursing facilities to examine their attention to pain severity in recently admitted residents and lead to an increase in pain management efforts and reduction in pain severity.</p></div>"/>
+    </field>
+    <field fieldid="3500" ordby="100" id="569" name="Evidence for Rationale" type="citation">
+      <fieldvalue value="<table><tr><td>Allcock N, McGarry J, Elkan R. Management of pain in older people within the nursing home: a preliminary study. Health Soc Care Community. 2002 Nov;10(6):464-71. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12485133&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>BenDebba M, Torgerson WS, Long DM. Personality traits, pain duration and severity, functional impairment, and psychological distress in patients with persistent low back pain. Pain. 1997 Aug;72(1-2):115-25. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9272795&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Berry PH, Dahl JL. The new JCAHO pain standards: implications for pain management nurses. Pain Manag Nurs. 2000 Mar;1(1):3-12. [73 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11706454&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Casten RJ, Parmelee PA, Kleban MH, Lawton MP, Katz IR. The relationships among anxiety, depression, and pain in a geriatric institutionalized sample. Pain. 1995 May;61(2):271-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7659437&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Centers for Medicare and Medicaid Services (CMS). CMS MDS quality measure/indicator report. [internet]. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Cook AK, Niven CA, Downs MG. Assessing the pain of people with cognitive impairment. Int J Geriatr Psychiatry. 1999 Jun;14(6):421-5. [29 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10398350&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Cousins M. Acute post-operative pain. In: Wall PD, Melzak R, editor(s). Textbook of pain. 3rd ed. New York: Churchill Livingstone; p. 357-85.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Cramer GW, Galer BS, Mendelson MA, Thompson GD. A drug use evaluation of selected opioid and nonopioid analgesics in the nursing facility setting. J Am Geriatr Soc. 2000 Apr;48(4):398-404. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10798466&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Desbiens NA, Mueller-Rizner N, Connors AF Jr, Hamel MB, Wenger NS. Pain in the oldest-old during hospitalization and up to one year later. HELP Investigators. Hospitalized Elderly Longitudinal Project. J Am Geriatr Soc. 1997 Oct;45(10):1167-72. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9329476&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ferrell BA, Ferrell BR, Osterweil D. Pain in the nursing home. J Am Geriatr Soc. 1990 Apr;38(4):409-14. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2109765&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Grant M, Ferrell BR, Rivera LM, Lee J. Unscheduled readmissions for uncontrolled symptoms. A health care challenge for nurses. Nurs Clin North Am. 1995 Dec;30(4):673-82. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7501535&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hanson LC, Tulsky JA, Danis M. Can clinical interventions change care at the end of life. Ann Intern Med. 1997 Mar 1;126(5):381-8. [65 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9054283&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hughes S, Gibbs J, Dunlop D, Edelman P, Singer R, Chang RW. Predictors of decline in manual performance in older adults. J Am Geriatr Soc. 1997 Aug;45(8):905-10. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9256839&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Liu S, Carpenter RL, Neal JM. Epidural anesthesia and analgesia. Their role in postoperative outcome. Anesthesiology. 1995 Jun;82(6):1474-506. [379 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7793661&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>McCaffery M, Pasero C. Pain: clinical manual. St. Louis (MO): Mosby; 1999. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>McMillan SC, Tittle M, Hagan S, Laughlin J, Tabler RE. Knowledge and attitudes of nurses in veterans hospitals about pain management in  patients with cancer. Oncol Nurs Forum. 2000 Oct;27(9):1415-23. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11058973&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mor V, Zinn J, Angelelli J, Teno JM, Miller SC. Driven to tiers: socioeconomic and racial disparities in the quality of nursing home care. Milbank Q. 2004;82(2):227-56. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15225329&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mrozek JE, Werner JS. Nurses' attitudes toward pain, pain assessment, and pain management practices in  long-term care facilities. Pain Manag Nurs. 2001 Dec;2(4):154-62. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11748550&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National Quality Forum measure information: percent of residents who self-report moderate to severe pain (short-stay). Washington (DC): National Quality Forum (NQF); 2016 Jan 13. 15 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Parmelee PA, Smith B, Katz IR. Pain complaints and cognitive status among elderly institution residents. J Am Geriatr Soc. 1993 May;41(5):517-22. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8486885&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sachs GA, Shega JW, Cox-Hayley D. Barriers to excellent end-of-life care for patients with dementia. J Gen Intern Med. 2004 Oct;19(10):1057-63. [71 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15482560&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Saliba D, Buchanan J. Development &amp; validation of a revised nursing home assessment tool: MDS 3.0. Contract No. 500-00-0027/Task Order #2. Santa Monica (CA): Rand Corporation; 2008 Apr. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Scherder EJ, Bouma A. Visual analogue scales for pain assessment in Alzheimer's disease. Gerontology. 2000 Jan-Feb;46(1):47-53. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11111229&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sengstaken EA, King SA. The problems of pain and its detection among geriatric nursing home residents. J Am Geriatr Soc. 1993 May;41(5):541-4. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8486889&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sheehan J, McKay J, Ryan M, Walsh N, O'Keeffe D. What cost chronic pain. Ir Med J. 1996 Nov-Dec;89(6):218-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8996949&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sloman R, Ahern M, Wright A, Brown L. Nurses' knowledge of pain in the elderly. J Pain Symptom Manage. 2001 Apr;21(4):317-22. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11312046&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sydow FW. The influence of anesthesia and postoperative analgesic management of lung function. Acta Chir Scand Suppl. 1989;550:159-65; discussion 165-8. [20 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2652967&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wattwil M. Postoperative pain relief and gastrointestinal motility. Acta Chir Scand Suppl. 1989;550:140-5. [37 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=2652965&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Weiner DK, Rudy TE. Attitudinal barriers to effective treatment of persistent pain in nursing home residents. J Am Geriatr Soc. 2002 Dec;50(12):2035-40. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12473018&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Won A, Lapane K, Gambassi G, Bernabei R, Mor V, Lipsitz LA. Correlates and management of nonmalignant pain in the nursing home. SAGE Study Group. Systematic Assessment of Geriatric drug use via Epidemiology. J Am Geriatr Soc. 1999 Aug;47(8):936-42. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10443853&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wrede-Seaman LD. Treatment options to manage pain at the end of life. Am J Hosp Palliat Care. 2001 Mar-Apr;18(2):89-101. [47 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11407138&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wu N, Miller SC, Lapane K, Gozalo P. The problem of assessment bias when measuring the hospice effect on nursing home  residents' pain. J Pain Symptom Manage. 2003 Nov;26(5):998-1009. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=14585551&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="3022" ordby="110" id="570" name="Primary Health Components" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Nursing home; short-stay; pain</p></div>"/>
+    </field>
+    <field fieldid="23" ordby="120" id="571" name="Denominator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All short-stay residents with a selected target assessment, except those with exclusions (see the related &quot;Denominator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+    <field fieldid="24" ordby="130" id="572" name="Numerator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Short-stay residents with a selected target assessment where the target assessment meets <em><strong>either</strong></em> or <em><strong>both</strong></em> of the following two conditions:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Condition #1: resident reports daily pain with at least one episode of moderate/severe pain. <em><strong>Both</strong></em> of the following conditions must be met:
+    <p class=&quot;Indent&quot;>1.1. Almost constant or frequent pain <em><strong>and</strong></em><br />
+    1.2. At least one episode of moderate to severe pain.</p>
+    </li>
+    <li>Condition #2: resident reports very severe/horrible pain of any frequency. </li>
+</ol>
+<p>See the related &quot;Numerator Inclusions/Exclusions&quot; field.</p></div>"/>
+    </field>
+  </section>
+  <section secid="573" ordby="140" name="Evidence Supporting the Measure">
+    <field fieldid="3027" ordby="150" id="574" name="Type of Evidence Supporting the Criterion of Quality for the Measure" type="picklist-choice">
+      <fieldvalue value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence"/>
+      <fieldvalue value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences"/>
+      <fieldvalue value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal"/>
+    </field>
+    <field fieldid="3501" ordby="160" id="575" name="Additional Information Supporting Need for the Measure" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Pain has been shown to have a negative effect on quality of life. Studies found that pain is associated with declines in autonomy, security, and spiritual well-being and increases in anxiety and depression (Herman et al., 2009). Existing research studies reviewing the impact of pain relief interventions at the actor, decision-support, treatment, and system levels consistently demonstrate that pain relief leads to increased quality of life (Degenholtz et al., 2008; Zanocchi et al., 2008; Kenefick, 2004). </li>
+    <li>Although the number of high-quality studies of pain management in nursing facilities is limited, those studies agree that resident pain is under-recognized and under-treated (Herman et al., 2009). A recent record audit of 291 residents in 14 long-term care facilities found a significant gap between evidence-based pain management recommendations and facility practices. Assessment was particularly weak; only 32% of the cases reported for pain once or twice a week, and only 3% of the cases reviewed had reported that pain impacted functioning and quality of life two or more times during the previous 30 days (Jablonski &amp;amp; Ersek, 2009). One study focusing on pain in cancer patients reported underuse of analgesics and hospice, along with nursing facility staffing patterns as key issues in inadequate pain treatment for this population (Duncan, Forbes-Thompson, &amp;amp; Bott, 2008). Many studies and literature maintain that almost all pain, including pain at the end of life, can be managed with appropriate assessment and treatment, and research in pain management has identified the adoption of systematic implementation models, clinical decision-making algorithms, interdisciplinary approaches, and ongoing outcome evaluations as effective means to deliver effective pain relief in nursing homes (Scherder &amp;amp; Bouma, 2000; Wrede-Seaman, 2001; Sachs, Shega, &amp;amp; Cox-Hayley, 2004; Hanson, Tulsky, &amp;amp; Danis, 1997; Swafford et al., 2009). </li>
+    <li>Although there is evidence of racial segregation between nursing homes, with African-Americans tending to be concentrated in facilities with higher deficiency ratings, there has been little study of resulting potential disparities in reported pain (Smith et al., 2007; Howard et al., 2002; Grabowski, 2004). The research conducted on racial disparities in pain treatment has shown a greater incidence of untreated pain for black residents with cancer as compared to white residents with cancer (Bernabei et al., 1998; Hanlon et al., 2009). A report based on 2004 National Nursing Home Survey has revealed disparities by race and dementia (Sengupta, Bercovitz, &amp;amp; Harris-Kojetin, 2010). Nonwhite residents with dementia were least likely, and white residents without dementia were most likely, to report or show signs of pain. Among residents with dementia and pain, nonwhite residents were more likely than white residents to lack appropriate pain management (Sengupta, Bercovitz, &amp;amp; Harris-Kojetin, 2010). However, a study on both community and institutionalized people found that persons with dementia had a higher probability of use of paracetamol and were about as likely as persons without dementia to use any analgesic, opioids and nonsteroidal anti-inflammatory drugs (NSAIDs), after adjustment for confounders and the care setting (Hassum et al., 2011).
+    <p>Another study discovered that after controlling for facility characteristics (e.g., rural/urban location, percentage of Medicaid residents within the facilities, staffing and ownership), none of age, race, gender, Medicaid status was correlated with moderate to severe pain (Kang, Meng, &amp;amp; Miller, 2011). Research has also identified disparities in pain management between cognitively intact residents and those who are cognitively impaired. In the current Minimum Data Set (MDS) 2.0 pain item, staff recording of cognitive status was inversely proportional to pain report; the most cognitively impaired residents were recording as suffering the least pain, and received the least pain therapy (Reynolds et al., 2008). </p>
+    </li>
+</ul>"/>
+    </field>
+    <field fieldid="3502" ordby="170" id="576" name="Evidence for Additional Information Supporting Need for the Measure" type="citation">
+      <fieldvalue value="<table><tr><td>Bernabei R, Gambassi G, Lapane K, Landi F, Gatsonis C, Dunlop R, Lipsitz L, Steel K, Mor V. Management of pain in elderly patients with cancer. SAGE Study Group. Systematic Assessment of Geriatric Drug Use via Epidemiology. JAMA. 1998 Jun 17;279(23):1877-82. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9634258&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Degenholtz HB, Rosen J, Castle N, Mittal V, Liu D. The association between changes in health status and nursing home resident quality of life. Gerontologist. 2008 Oct;48(5):584-92. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18981275&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Duncan JG, Forbes-Thompson S, Bott MJ. Unmet symptom management needs of nursing home residents with cancer. Cancer Nurs. 2008 Jul-Aug;31(4):265-73. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18600113&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Grabowski DC. The admission of blacks to high-deficiency nursing homes. Med Care. 2004 May;42(5):456-64. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15083106&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Haasum Y, Fastbom J, Fratiglioni L, Kåreholt I, Johnell K. Pain treatment in elderly persons with and without dementia: a population-based study of institutionalized and home-dwelling elderly. Drugs Aging. 2011 Apr 1;28(4):283-93. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21428463&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hanlon JT,  Wang X,  Good CB,  Rossi MI,  Stone RA,  Semla TP,  Cunningham FE,  Handler SM. Racial differences in medication use among older, long-stay Veterans Affairs Nursing Home Care Unit patients. Consult Pharm. 2009 Jun;24(6):439-46. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19555154&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hanson LC, Tulsky JA, Danis M. Can clinical interventions change care at the end of life. Ann Intern Med. 1997 Mar 1;126(5):381-8. [65 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9054283&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Herman AD, Johnson TM, Ritchie CS, Parmelee PA. Pain management interventions in the nursing home: a structured review of the literature. J Am Geriatr Soc. 2009 Jul;57(7):1258-67. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19558481&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Howard DL, Sloane PD, Zimmerman S, Eckert JK, Walsh JF, Buie VC, Taylor PJ, Koch GG. Distribution of African Americans in residential care/assisted living and nursing homes: more evidence of racial disparity. Am J Public Health. 2002 Aug;92(8):1272-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12144983&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Jablonski A, Ersek M. Nursing home staff adherence to evidence-based pain management practices. J Gerontol Nurs. 2009 Jul;35(7):28-34; quiz 36-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19650621&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kang Y, Meng H, Miller NA. Rurality and nursing home quality: evidence from the 2004 National Nursing Home Survey. Gerontologist. 2011 Dec;51(6):761-73. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21719631&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kenefick AL. Pain treatment and quality of life: reducing depression and improving cognitive impairment. J Gerontol Nurs. 2004 May;30(5):22-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15152741&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National Quality Forum measure information: percent of residents who self-report moderate to severe pain (short-stay). Washington (DC): National Quality Forum (NQF); 2016 Jan 13. 15 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Reynolds KS, Hanson LC, DeVellis RF, Henderson M, Steinhauser KE. Disparities in pain management between cognitively intact and cognitively impaired nursing home residents. J Pain Symptom Manage. 2008 Apr;35(4):388-96. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18280101&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sachs GA, Shega JW, Cox-Hayley D. Barriers to excellent end-of-life care for patients with dementia. J Gen Intern Med. 2004 Oct;19(10):1057-63. [71 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15482560&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Scherder EJ, Bouma A. Visual analogue scales for pain assessment in Alzheimer's disease. Gerontology. 2000 Jan-Feb;46(1):47-53. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11111229&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Sengupta M, Bercovitz A, Harris-Kojetin LD. Prevalence and management of pain, by race and dementia among nursing home residents: United States, 2004. NCHS Data Brief. 2010 Mar;(30):1-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=20353701&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Smith DB, Feng Z, Fennell ML, Zinn JS, Mor V. Separate and unequal: racial segregation and disparities in quality across U.S. nursing homes. Health Aff (Millwood). 2007 Sep-Oct;26(5):1448-58. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17848457&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Swafford KL, Miller LL, Tsai PF, Herr KA, Ersek M. Improving the process of pain care in nursing homes: a literature synthesis. J Am Geriatr Soc. 2009 Jun;57(6):1080-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19507298&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wrede-Seaman LD. Treatment options to manage pain at the end of life. Am J Hosp Palliat Care. 2001 Mar-Apr;18(2):89-101. [47 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11407138&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Zanocchi M, Maero B, Nicola E, Martinelli E, Luppino A, Gonella M, Gariglio F, Fissore L, Bardelli B, Obialero R, Molaschi M. Chronic pain in a sample of nursing home residents: prevalence, characteristics, influence on quality of life (QoL). Arch Gerontol Geriatr. 2008 Jul-Aug;47(1):121-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18006088&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="3072" ordby="180" id="577" name="Extent of Measure Testing" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>A joint RAND/Harvard team engaged in a deliberate iterative process to incorporate provider and consumer input, expert consultation, scientific advances in clinical knowledge about screening and assessment, Centers for Medicare &amp;amp; Medicaid Services (CMS) experience, and intensive item development and testing by a national Veteran's Health Administration (VHA) consortium. This process allowed the final national testing of Minimum Data Set (MDS) 3.0 to include well-developed and tested items.</p>
+<p>The national validation and evaluation of the MDS 3.0 included 71 community nursing homes (NHs) (3,822 residents) and 19 VHA NHs (764 residents), regionally distributed throughout the United States. The evaluation was designed to test and analyze inter-rater agreement (reliability) between gold-standard (research) nurses and between facility and gold-standard nurses, validity of key sections, response rates for interview items, anonymous feedback on changes from participating nurses, and time to complete the MDS assessment.</p>
+<p>Analysis of the test results showed that MDS 3.0 items had either excellent or very good reliability even when comparing research nurse to facility-nurse assessment. In most instances these were higher than those seen in the past with MDS 2.0. In addition, for the cognitive, mood and behavior items, national testing included collection of independent criterion or gold-standard measures. These MDS 3.0 sections were more highly matched to criterion measures than were MDS 2.0 items.</p>
+<p>Improvements incorporated in MDS 3.0 produced a more efficient assessment: better quality information was obtained in less time. Such gains should improve identification of resident needs and enhance resident-focused care planning. In addition, including items recognized in other care settings is likely to enhance communication among providers. These significant gains reflect the cumulative effect of changes across the tool, including use of more valid items, direct inclusion of resident reports, improved clarity of retained items, deletion of poorly performing items, form redesign, and briefer assessment periods for clinical items.</p>
+<p>Refer to <em>Development &amp;amp; Validation of a Revised Nursing Home Assessment Tool: MDS 3.0.</em> for additional information.</p></div>"/>
+    </field>
+    <field fieldid="3007" ordby="190" id="578" name="Evidence for Extent of Measure Testing" type="citation">
+      <fieldvalue value="<table><tr><td>Saliba D, Buchanan J. Development &amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp; Medicaid Services; 2008 Apr. 263 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="580" ordby="210" name="State of Use of the Measure">
+    <field fieldid="3029" ordby="220" id="581" name="State of Use" type="picklist-one">
+      <fieldvalue value="Current routine use"/>
+    </field>
+    <field fieldid="3030" ordby="230" id="582" name="Current Use" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="583" ordby="240" name="Application of the Measure in its Current Use">
+    <field fieldid="3031" ordby="250" id="584" name="Measurement Setting" type="picklist-choice">
+      <fieldvalue value="Skilled Nursing Facilities/Nursing Homes"/>
+    </field>
+    <field fieldid="3032" ordby="260" id="585" name="Professionals Involved in Delivery of Health Services" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3033" ordby="270" id="586" name="Least Aggregated Level of Services Delivery Addressed" type="picklist-one">
+      <fieldvalue value="Single Health Care Delivery or Public Health Organizations"/>
+    </field>
+    <field fieldid="3505" ordby="280" id="587" name="Statement of Acceptable Minimum Sample Size" type="picklist-one">
+      <fieldvalue value="Specified"/>
+    </field>
+    <field fieldid="41" ordby="290" id="588" name="Target Population Age" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All ages</p></div>"/>
+    </field>
+    <field fieldid="42" ordby="300" id="589" name="Target Population Gender" type="picklist-one">
+      <fieldvalue value="Either male or female"/>
+    </field>
+  </section>
+  <section secid="660" ordby="310" name="National Strategy for Quality Improvement in Health Care">
+    <field fieldid="3522" ordby="320" id="661" name="National Quality Strategy Aim" type="text">
+      <fieldvalue value="<ul><li>Better Care</li></ul>"/>
+    </field>
+    <field fieldid="3525" ordby="330" id="662" name="National Quality Strategy Priority" type="text">
+      <fieldvalue value="<ul><li>Person- and Family-centered Care</li><li>Prevention and Treatment of Leading Causes of Mortality</li></ul>"/>
+    </field>
+  </section>
+  <section secid="590" ordby="340" name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <field fieldid="3163" ordby="350" id="591" name="IOM Care Need" type="picklist-choice">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="3164" ordby="360" id="592" name="IOM Domain" type="picklist-choice">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="593" ordby="370" name="Data Collection for the Measure">
+    <field fieldid="3506" ordby="380" id="594" name="Case Finding Period" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The selected six month period (the quarter prior to the target quarter and the target quarter)</p></div>"/>
+    </field>
+    <field fieldid="3054" ordby="390" id="595" name="Denominator Sampling Frame" type="picklist-one">
+      <fieldvalue value="Patients associated with provider"/>
+    </field>
+    <field fieldid="3057" ordby="400" id="598" name="Denominator (Index) Event or Characteristic" type="picklist-choice">
+      <fieldvalue value="Diagnostic Evaluation"/>
+      <fieldvalue value="Institutionalization"/>
+    </field>
+    <field fieldid="3058" ordby="410" id="599" name="Denominator Time Window" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="55" ordby="420" id="596" name="Denominator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+All short-stay* residents with a selected target assessment, except those with exclusions</p>
+<p class=&quot;Note&quot;>*<strong>Short-stay</strong>: An episode with cumulative days in facility (CDIF) less than or equal to 100 days as of the end of the target period.</p>
+<p><strong>Exclusions</strong><br />
+If the resident is not included in the numerator (the resident did not meet the pain symptom conditions for the numerator) <strong><em>and any</em></strong> of the following conditions are true:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>The pain assessment interview was not completed. </li>
+    <li>The pain presence item was not completed. </li>
+    <li>For residents with pain or hurting at any time in the last 5 days, <em><strong>any</strong></em> of the following are true:
+    <p class=&quot;Indent&quot;>3.1 The pain frequency item was not completed.<br />
+    3.2 Neither of the pain intensity items was completed.<br />
+    3.3 The numeric pain intensity item indicates no pain. </p>
+    </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: Refer to the original measure documentation for details.</p></div>"/>
+    </field>
+    <field fieldid="3507" ordby="430" id="597" name="Exclusions/Exceptions" type="picklist-choice-4">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="59" ordby="440" id="600" name="Numerator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Short-stay residents with a selected target assessment where the target assessment meets <em><strong>either</strong></em> or <em><strong>both</strong></em> of the following two conditions:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>Condition #1: resident reports daily pain with at least one episode of moderate/severe pain. <em><strong>Both</strong></em> of the following conditions must be met:
+    <p class=&quot;Indent&quot;>1.1 Almost constant or frequent pain <em><strong>and</strong></em><br />
+    1.2 At least one episode of moderate to severe pain. </p>
+    </li>
+    <li>Condition #2: resident reports very severe/horrible pain of any frequency. </li>
+</ol>
+<p class=&quot;Note&quot;><strong>Note</strong>: Refer to the original measure documentation for details.</p>
+<p><strong>Exclusions</strong><br />
+Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3061" ordby="450" id="601" name="Numerator Search Strategy" type="picklist-one">
+      <fieldvalue value="Institutionalization"/>
+    </field>
+    <field fieldid="3062" ordby="460" id="602" name="Data Source" type="picklist-many">
+      <fieldvalue value="Administrative clinical data"/>
+    </field>
+    <field fieldid="3065" ordby="470" id="603" name="Type of Health State" type="picklist-one">
+      <fieldvalue value="Individually Reported Health State"/>
+    </field>
+    <field fieldid="3066" ordby="480" id="604" name="Instruments Used and/or Associated with the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Center for Medicare &amp;amp; Medicaid Services (CMS) Minimum Data Set (MDS) - Resident Assessment Instrument (Version 3.0)</p></div>"/>
+    </field>
+  </section>
+  <section secid="605" ordby="490" name="Computation of the Measure">
+    <field fieldid="3508" ordby="500" id="606" name="Measure Specifies Disaggregation" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3067" ordby="520" id="608" name="Scoring" type="picklist-many">
+      <fieldvalue value="Rate/Proportion"/>
+    </field>
+    <field fieldid="3068" ordby="530" id="609" name="Interpretation of Score" type="picklist-one">
+      <fieldvalue value="Desired value is a lower score"/>
+    </field>
+    <field fieldid="3090" ordby="540" id="610" name="Allowance for Patient or Population Factors" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3070" ordby="560" id="612" name="Standard of Comparison" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="615" ordby="590" name="Identifying Information">
+    <field fieldid="73" ordby="600" id="616" name="Original Title" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Percent of residents who self-report moderate to severe pain (short-stay).</p></div>"/>
+    </field>
+    <field fieldid="74" ordby="610" id="617" name="Measure Collection Name" type="text">
+      <fieldvalue value="Nursing Home Quality Initiative Measures"/>
+    </field>
+    <field fieldid="75" ordby="620" id="618" name="Measure Set Name" type="text">
+      <fieldvalue value="Short-stay Quality Measures"/>
+    </field>
+    <field fieldid="16" ordby="650" id="621" name="Submitter" type="orglist">
+      <fieldvalue value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]"/>
+    </field>
+    <field fieldid="17" ordby="660" id="622" name="Developer" type="orglist-p">
+      <fieldvalue value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]"/>
+      <fieldvalue value="RTI International - Nonprofit Research Organization"/>
+    </field>
+    <field fieldid="79" ordby="670" id="623" name="Funding Source(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>United States (U.S.) Government</p></div>"/>
+    </field>
+    <field fieldid="80" ordby="680" id="624" name="Composition of the Group that Developed the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>United States (U.S.) Government Staff, Clinical Experts, Researchers, and Statisticians</p></div>"/>
+    </field>
+    <field fieldid="81" ordby="690" id="625" name="Financial Disclosures/Other Potential Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>No conflicts of interest exist.</p></div>"/>
+    </field>
+    <field fieldid="82" ordby="700" id="626" name="Endorser" type="orglist">
+      <fieldvalue value="National Quality Forum - None"/>
+    </field>
+    <field fieldid="3091" ordby="705" id="696" name="NQF Number" type="plain-text">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3510" ordby="710" id="627" name="Date of Endorsement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>2014 Nov 3</p></div>"/>
+    </field>
+    <field fieldid="3083" ordby="720" id="628" name="Measure Initiative(s)" type="picklist-many">
+      <fieldvalue value="Nursing Home Compare"/>
+    </field>
+    <field fieldid="19" ordby="730" id="629" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="3086" ordby="740" id="630" name="Date of Most Current Version in NQMC" type="date">
+      <fieldvalue value="2015 Oct"/>
+    </field>
+    <field fieldid="3511" ordby="750" id="631" name="Measure Maintenance" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Annual and three year endorsement</p></div>"/>
+    </field>
+    <field fieldid="3512" ordby="760" id="632" name="Date of Next Anticipated Revision" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Quarter 4 2016</p></div>"/>
+    </field>
+    <field fieldid="20" ordby="770" id="633" name="Measure Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: RTI International. MDS 3.0 quality measures user's manual. v8.0. Baltimore (MD): Center for Medicare &amp;amp; Medicaid Services (CMS); 2013 Apr 15. 80 p. </p></div>"/>
+    </field>
+    <field fieldid="14" ordby="780" id="634" name="Measure Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Source available from the <a href=&quot;https://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/Downloads/MDS-30-QM-Users-Manual-V90.pdf&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;>Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site</a>.</p>
+<p>For more information, refer to the CMS Web site at <a href=&quot;http://www.cms.gov&quot; title=&quot;CMS Web site&quot; target=&quot;_blank&quot;>www.cms.gov</a>.</p></div>"/>
+    </field>
+    <field fieldid="15" ordby="790" id="635" name="Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Saliba D, Buchanan J. Development &amp;amp; validation of a revised nursing home assessment tool: MDS 3.0. Baltimore (MD): Quality Measurement and Health Assessment Group, Office of Clinical Standards and Quality, Centers for Medicare &amp;amp; Medicaid Services; 2008 Apr. 263 p. Available from the <a href=&quot;http://www.cms.gov/Medicare/Quality-Initiatives-Patient-Assessment-Instruments/NursingHomeQualityInits/downloads/MDS30FinalReport.pdf&quot; title=&quot;Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site&quot; target=&quot;_blank&quot;>Centers for Medicare &amp;amp; Medicaid Services (CMS) Web site</a>. </li>
+    <li>Nursing Home Compare. [internet]. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS). 2000- [updated 2012 Nov 15]; [cited 2012 Nov 27]. This tool is available from the <a href=&quot;http://www.medicare.gov/nursinghomecompare/search.html&quot; title=&quot;Nursing Home Compare&quot; target=&quot;_blank&quot;>Medicare Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="87" ordby="800" id="636" name="NQMC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The NQMC summary was completed by ECRI on July 22, 2004. The information was verified by the measure developer on August 30, 2004. </p>
+<p>This NQMC summary was updated by ECRI on November 28, 2005. The information was verified by the measure developer on February 8, 2006 and again on October 17, 2007. </p>
+<p>This NQMC summary was retrofitted into the new template on June 28, 2011. </p>
+<p>This NQMC summary was updated by ECRI Institute on August 15, 2013. The information was verified by the measure developer on December 3, 2013.</p>
+<p>This NQMC summary was updated again by ECRI Institute on May 31, 2016. The information was not verified by the measure developer.</p></div>"/>
+    </field>
+    <field fieldid="88" ordby="810" id="637" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>No copyright restrictions apply.</p></div>"/>
+    </field>
+  </section>
+  <section secid="641" ordby="850" name="Production">
+    <field fieldid="1" ordby="1366" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>RTI International. MDS 3.0 quality measures user's manual, v9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2015 Oct 1. 80 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NQMC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 02:48:57 Jul 06, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:38:34 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 700.834 (3)
+  esindex: 0.007
+  captures_list: 716.6
+  CDXLines.iter: 12.121 (3)
+  PetaboxLoader3.datanode: 74.38 (4)
+  exclusion.robots: 0.169
+  exclusion.robots.policy: 0.159
+  RedisCDXSource: 0.785
+  PetaboxLoader3.resolve: 842.849 (3)
+  load_resource: 250.501
+-->

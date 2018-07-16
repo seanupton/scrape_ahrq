@@ -1,0 +1,316 @@
+<version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlsource>
+  <section secid="560" ordby="10" name="General">
+    <field fieldid="11" ordby="20" id="561" name="Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Home health care patients' experiences: percentage of home health care patients who reported that their home health team communicated well with them.</div>"/>
+    </field>
+    <field fieldid="1" ordby="30" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Centers for Medicare &amp; Medicaid Services (CMS). Home health care CAHPS® survey protocols and guidelines manual. Version 9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Jan. 550 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Centers for Medicare &amp; Medicaid Services (CMS). Home health care CAHPS® survey. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2013. 6 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="563" ordby="40" name="Measure Domain">
+    <field fieldid="3025" ordby="50" id="564" name="Primary Measure Domain" type="picklist-one">
+      <fieldvalue value="Clinical Quality Measures: Patient Experience"/>
+    </field>
+    <field fieldid="3026" ordby="60" id="565" name="Secondary Measure Domain" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+  </section>
+  <section secid="566" ordby="70" name="Brief Abstract">
+    <field fieldid="34" ordby="80" id="567" name="Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is used to assess the percentage of adult home health care patients who reported that their home health care team communicated well with them.</p>
+<p>The &quot;Communications Between Providers and Patients&quot; composite measure is based on six questions in the Home Health Care CAHPS Survey. Two of the questions ask patients whether (&quot;Yes&quot; or &quot;No&quot;):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>When you first started getting home health care from this agency, did someone from the agency tell you what care and services you would get? </li>
+    <li>In the last 2 months of care, when you contacted this agency's office did you get the help or advice you needed? </li>
+</ul>
+<p><strong>AND</strong></p>
+<p>Three of the questions ask patients how often (&quot;Never,&quot; &quot;Sometimes,&quot; &quot;Usually,&quot; &quot;Always&quot;):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>In the last 2 months of care, how often did home health providers from this agency keep you informed about when they would arrive at your home? </li>
+    <li>In the last 2 months of care, how often did home health providers from this agency explain things in a way that was easy to understand? </li>
+    <li>In the last 2 months of care, how often did home health providers from this agency listen carefully to you? </li>
+</ul>
+<p><strong>AND</strong></p>
+<p>One question asks patients how often (&quot;Same day,&quot; &quot;1 to 5 days,&quot; &quot;6 to 14 days,&quot; &quot;More than 14 days&quot;):</p>
+<ul>
+    <li>When you contacted this agency's office, how long did it take for you to get the help or advice you needed? </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: A composite score is calculated in which a higher score indicates better quality. The scoring on this composite will represent the proportion of respondents who answered &quot;Yes,&quot; &quot;Always,&quot; and &quot;Same day&quot; to these questions. Composite scores are intended for consumer-level reporting. </p></div>"/>
+    </field>
+    <field fieldid="21" ordby="90" id="568" name="Rationale" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Consumer Assessment of Healthcare Providers and Systems (CAHPS&amp;reg;) Home Health Care Survey (HHCAHPS) is designed to measure the experiences of people receiving home health care from Medicare-certified home health care agencies. </p>
+<p>The survey is designed to meet the following three broad goals:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>To produce comparable data on the patient's perspective that allows objective and meaningful comparisons between home health agencies on domains that are important to consumers. </li>
+    <li>Public reporting of survey results will create incentives for agencies to improve their quality of care. </li>
+    <li>Public reporting will enhance public accountability in health care by increasing the transparency of the quality of care provided in return for public investment. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="3500" ordby="100" id="569" name="Evidence for Rationale" type="citation">
+      <fieldvalue value="<table><tr><td>About Home Health Care CAHPS Survey. [internet]. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); [accessed 2017 Sep 27]. </td></tr></table>"/>
+    </field>
+    <field fieldid="3022" ordby="110" id="570" name="Primary Health Components" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Home health care; patient experience; provider and patient communication</p></div>"/>
+    </field>
+    <field fieldid="23" ordby="120" id="571" name="Denominator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The number of respondents who answered the questions included in the &quot;Communications Between Providers and Patients&quot; measure on the Home Health Care CAHPS Survey (see the related &quot;Denominator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+    <field fieldid="24" ordby="130" id="572" name="Numerator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The number of respondents who answered &quot;Yes&quot; for two questions, &quot;Always&quot; for three questions, and &quot;Same day&quot; for one question included in the &quot;Communications Between Providers and Patients&quot; measure (see the related &quot;Numerator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+  </section>
+  <section secid="573" ordby="140" name="Evidence Supporting the Measure">
+    <field fieldid="3027" ordby="150" id="574" name="Type of Evidence Supporting the Criterion of Quality for the Measure" type="picklist-choice">
+      <fieldvalue value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences"/>
+      <fieldvalue value="Focus groups"/>
+    </field>
+    <field fieldid="3501" ordby="160" id="575" name="Additional Information Supporting Need for the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3072" ordby="180" id="577" name="Extent of Measure Testing" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>On September 25, 2006, the Agency for Healthcare Research and Quality (AHRQ) published a call in the Federal Register for survey items or measures representing areas of quality home health care that are viewed as important to consumers, their families, and intermediaries and initiated a review of existing literature in the area. AHRQ developed a draft survey instrument after several rounds of cognitive testing. A field test was conducted in 2008 with 34 home health agencies to test the psychometric properties of the survey and finalize its content. A final Home Health Care CAHPS Survey was developed in the summer of 2008.</p></div>"/>
+    </field>
+    <field fieldid="3007" ordby="190" id="578" name="Evidence for Extent of Measure Testing" type="citation">
+      <fieldvalue value="<table><tr><td>About Home Health Care CAHPS Survey. [internet]. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); [accessed 2017 Sep 27]. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="580" ordby="210" name="State of Use of the Measure">
+    <field fieldid="3029" ordby="220" id="581" name="State of Use" type="picklist-one">
+      <fieldvalue value="Current routine use"/>
+    </field>
+    <field fieldid="3030" ordby="230" id="582" name="Current Use" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="583" ordby="240" name="Application of the Measure in its Current Use">
+    <field fieldid="3031" ordby="250" id="584" name="Measurement Setting" type="picklist-choice">
+      <fieldvalue value="Home Care"/>
+    </field>
+    <field fieldid="3032" ordby="260" id="585" name="Professionals Involved in Delivery of Health Services" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3033" ordby="270" id="586" name="Least Aggregated Level of Services Delivery Addressed" type="picklist-one">
+      <fieldvalue value="Single Health Care Delivery or Public Health Organizations"/>
+    </field>
+    <field fieldid="3505" ordby="280" id="587" name="Statement of Acceptable Minimum Sample Size" type="picklist-one">
+      <fieldvalue value="Specified"/>
+    </field>
+    <field fieldid="41" ordby="290" id="588" name="Target Population Age" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Age greater than or equal to 18 years</p></div>"/>
+    </field>
+    <field fieldid="42" ordby="300" id="589" name="Target Population Gender" type="picklist-one">
+      <fieldvalue value="Either male or female"/>
+    </field>
+  </section>
+  <section secid="660" ordby="310" name="National Strategy for Quality Improvement in Health Care">
+    <field fieldid="3522" ordby="320" id="661" name="National Quality Strategy Aim" type="text">
+      <fieldvalue value="<ul><li>Better Care</li></ul>"/>
+    </field>
+    <field fieldid="3525" ordby="330" id="662" name="National Quality Strategy Priority" type="text">
+      <fieldvalue value="<ul><li>Person- and Family-centered Care</li></ul>"/>
+    </field>
+  </section>
+  <section secid="590" ordby="340" name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <field fieldid="3163" ordby="350" id="591" name="IOM Care Need" type="picklist-choice">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="3164" ordby="360" id="592" name="IOM Domain" type="picklist-choice">
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="593" ordby="370" name="Data Collection for the Measure">
+    <field fieldid="3506" ordby="380" id="594" name="Case Finding Period" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The sample month</p></div>"/>
+    </field>
+    <field fieldid="3054" ordby="390" id="595" name="Denominator Sampling Frame" type="picklist-one">
+      <fieldvalue value="Patients associated with provider"/>
+    </field>
+    <field fieldid="3057" ordby="400" id="598" name="Denominator (Index) Event or Characteristic" type="picklist-choice">
+      <fieldvalue value="Encounter"/>
+      <fieldvalue value="Patient/Individual (Consumer) Characteristic"/>
+    </field>
+    <field fieldid="3058" ordby="410" id="599" name="Denominator Time Window" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="55" ordby="420" id="596" name="Denominator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+The number of respondents who answered the questions included in the &quot;Communications Between Providers and Patients&quot; measure on the Home Health Care CAHPS Survey </p>
+<p>Patient eligibility requirements: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients who are at least 18 years of age by the end of the sample month; </li>
+    <li>Patients whose home care was paid for by Medicare or Medicaid. This includes patients who are enrolled in Medicare fee-for-service plans and those enrolled in Medicare Advantage (MA) plans or Medicaid managed care health plans. </li>
+    <li>Patients who had at least one home health visit for skilled nursing care, physical therapy, occupational therapy, or speech therapy during the sample month*; </li>
+    <li>Patients who had at least two home health visits for skilled nursing care, physical therapy, occupational therapy, or speech therapy during the lookback period (includes the sample month and the preceding month)**; </li>
+    <li>Patients who are not deceased; </li>
+    <li>Patients who are not currently receiving hospice care; and </li>
+    <li>Patients who received home visits for services other than routine maternity care in the sample month. </li>
+</ul>
+<p class=&quot;Note&quot;>*For a visit to be considered a &quot;skilled visit&quot; the agency employee must be classified as one of the following: registered nurse (RN), licensed practical nurse (LPN), physical therapist, physical therapist assistant, occupational therapist, occupational therapist assistant, speech therapist, or speech therapist assistant. Skilled visits do not include visits made by any category of social worker, home health or personal care aide, or nursing aide.</p>
+<p class=&quot;Note&quot;>**The <em>lookback period</em> is defined as the sample month and the month immediately preceding the sample month.</p>
+<p><strong>Exclusions</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients who received home visits ONLY for routine maternity care in the sample month. </li>
+    <li>Patients who have harmed or endangered the health or well-being of a home health provider or attempted to harm or endanger the health or well-being of a home health provider; </li>
+    <li>State-regulated patients (some states have regulations and laws governing the release of patient information for patients with specific illnesses or conditions, and for other special patient populations, including patients with HIV/AIDS); and </li>
+    <li>Patients who requested that the home health agency (HHA) not release their name and contact information to anyone other than agency personnel, referred to as &quot;no publicity&quot; patients. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="3507" ordby="430" id="597" name="Exclusions/Exceptions" type="picklist-choice-4">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="59" ordby="440" id="600" name="Numerator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+The number of respondents who answered &quot;Yes&quot; for two questions, &quot;Always&quot; for three questions, and &quot;Same day&quot; for one question included in the &quot;Communications Between Providers and Patients&quot; measure </p>
+<p class=&quot;Note&quot;><strong>Note</strong>: The results from the questions that comprise a composite are reported as one score. Composite scores are compiled by calculating the proportion of cases that responded to each answer choice in the questions that comprise the composite. Once the proportions of responses to all answer choices in the questions in the composite are calculated, the average proportion of those responding to each answer choice in all questions in the composite is calculated. Only questions that are answered by survey respondents are included in the calculation of composite scores. The numerator for each question in the composite is the number of respondents in the quarter who gave the most positive response to each question (that is, responded &quot;Yes&quot; to two questions, &quot;Always&quot; to three questions, and &quot;Same day&quot; to one question). From the responses, a composite score is calculated in which a higher score indicates better quality. </p>
+<p><strong>Exclusions</strong><br />
+Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3061" ordby="450" id="601" name="Numerator Search Strategy" type="picklist-one">
+      <fieldvalue value="Fixed time period or point in time"/>
+    </field>
+    <field fieldid="3062" ordby="460" id="602" name="Data Source" type="picklist-many">
+      <fieldvalue value="Patient/Individual survey"/>
+    </field>
+    <field fieldid="3065" ordby="470" id="603" name="Type of Health State" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3066" ordby="480" id="604" name="Instruments Used and/or Associated with the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Home Health Care CAHPS&amp;reg; Survey</p></div>"/>
+    </field>
+  </section>
+  <section secid="605" ordby="490" name="Computation of the Measure">
+    <field fieldid="3508" ordby="500" id="606" name="Measure Specifies Disaggregation" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3067" ordby="520" id="608" name="Scoring" type="picklist-many">
+      <fieldvalue value="Composite/Scale"/>
+      <fieldvalue value="Mean/Median"/>
+    </field>
+    <field fieldid="3068" ordby="530" id="609" name="Interpretation of Score" type="picklist-one">
+      <fieldvalue value="Desired value is a higher score"/>
+    </field>
+    <field fieldid="3090" ordby="540" id="610" name="Allowance for Patient or Population Factors" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3069" ordby="550" id="611" name="Description of Allowance for Patient or Population Factors" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The patient mix adjustment factors being used in the Home Health Care CAHPS (HHCAHPS) Survey are derived from coefficients obtained from Ordinary Least Squares regression analyses on each separate HHCAHPS response item for the identified patient characteristics. The regression coefficients indicate the tendency of patients with particular characteristics to respond more positively or negatively to HHCAHPS Survey questions. Patient mix adjustment factors are calculated directly from these regression coefficients for each HHCAHPS response item by multiplying the coefficients by negative one (&amp;minus;1.0).</p>
+<p>Patient mix adjustment factors to account for home health agency (HHA) differences in patient mix are calculated for the latest quarter and applied to HHA raw scores for each of the latest quarter's HHCAHPS response items. The latest quarter's composite measures are then formed from these adjusted scores. The last four quarters of adjusted scores are then averaged to produce the current quarter's published scores. Published scores are adjusted for differences between an HHA's patient composition according to the HHCAHPS patient mix characteristics and the overall national composition of home health patients on these same characteristics. This adjustment, which allows consumers to compare different HHAs based on the same overall patient composition, is made by subtracting the national mean for a given patient characteristic from an HHA's share of patients on this patient characteristic.</p>
+<p>Refer to <em>Patient-Mix Adjustment Factors for Home Health Care CAHPS Survey Results Publicly Reported on Home Health Compare in October 2017</em> for additional information (see the &quot;Companion Documents&quot; field).</p></div>"/>
+    </field>
+    <field fieldid="3070" ordby="560" id="612" name="Standard of Comparison" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="615" ordby="590" name="Identifying Information">
+    <field fieldid="73" ordby="600" id="616" name="Original Title" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Communications between providers and patients.</p></div>"/>
+    </field>
+    <field fieldid="74" ordby="610" id="617" name="Measure Collection Name" type="text">
+      <fieldvalue value="CAHPS Home Health Care Survey"/>
+    </field>
+    <field fieldid="16" ordby="650" id="621" name="Submitter" type="orglist">
+      <fieldvalue value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]"/>
+    </field>
+    <field fieldid="17" ordby="660" id="622" name="Developer" type="orglist-p">
+      <fieldvalue value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]"/>
+      <fieldvalue value="CAHPS Consortium - Health Care Quality Collaboration"/>
+      <fieldvalue value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]"/>
+    </field>
+    <field fieldid="79" ordby="670" id="623" name="Funding Source(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Centers for Medicare &amp;amp; Medicaid Services (CMS)</p></div>"/>
+    </field>
+    <field fieldid="80" ordby="680" id="624" name="Composition of the Group that Developed the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>CAHPS Consortium researchers and statisticians</p></div>"/>
+    </field>
+    <field fieldid="81" ordby="690" id="625" name="Financial Disclosures/Other Potential Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None</p></div>"/>
+    </field>
+    <field fieldid="82" ordby="700" id="626" name="Endorser" type="orglist">
+      <fieldvalue value="National Quality Forum - None"/>
+    </field>
+    <field fieldid="3091" ordby="705" id="696" name="NQF Number" type="plain-text">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3510" ordby="710" id="627" name="Date of Endorsement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>2015 Jan 7</p></div>"/>
+    </field>
+    <field fieldid="19" ordby="730" id="629" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="3086" ordby="740" id="630" name="Date of Most Current Version in NQMC" type="date">
+      <fieldvalue value="2017 Jan"/>
+    </field>
+    <field fieldid="3511" ordby="750" id="631" name="Measure Maintenance" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3512" ordby="760" id="632" name="Date of Next Anticipated Revision" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="20" ordby="770" id="633" name="Measure Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p>
+<p>This measure updates previous versions: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Centers for Medicare &amp;amp; Medicaid Services (CMS). Home health care CAHPS&amp;reg; survey protocols and guidelines manual [version 5.0]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2013 Jan. 559 p. </li>
+    <li>Centers for Medicare &amp;amp; Medicaid Services (CMS). Home Health Care CAHPS&amp;reg; Survey. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS); 2009 Jul 18. 6 p. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="14" ordby="780" id="634" name="Measure Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Sources available from the <a href=&quot;https://homehealthcahps.org/Survey-and-Protocols/Survey-Materials#catid2&quot; title=&quot;Home Health Care CAHPS Survey Web site&quot;>Home Health Care CAHPS Survey Web site</a>.</p>
+<p>For more information, contact RTI International at E-mail: <a href=&quot;mailto:hhcahps@rti.org&quot;>hhcahps@rti.org</a>; Phone: 1-866-354-0985. </p></div>"/>
+    </field>
+    <field fieldid="15" ordby="790" id="635" name="Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following are available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patient-mix adjustment factors for Home Health Care CAHPS Survey results publicly reported on Home Health Compare in October 2017. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2017 Oct. 5 p. Available from the <a href=&quot;https://homehealthcahps.org/&quot; title=&quot;Home Health Care CAHPS Survey Web site&quot;>Home Health Care CAHPS Survey Web site</a>. </li>
+    <li>Steps for calculating global ratings and composite scores for the Home Health Care CAHPS Survey. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2016 May. 9 p. Available from the <a href=&quot;https://homehealthcahps.org/General-Information/Announcements/EntryId/346/Steps-for-Calculating-Global-Ratings-and-Composite-Scores-for-the-Home-Health-Care-CAHPS-Survey&quot; title=&quot;Home Health Care CAHPS Survey Web site&quot;>Home Health Care CAHPS Survey Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="87" ordby="800" id="636" name="NQMC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary was completed by ECRI Institute on February 10, 2010. The information was verified by the measure developer on May 3, 2010. </p>
+<p>This NQMC summary was retrofitted into the new template on May 2, 2011. </p>
+<p>This NQMC summary was updated by ECRI Institute on July 17, 2013. The information was verified by the measure developer on August 1, 2013.</p>
+<p>This NQMC summary was updated again by ECRI Institute on January 3, 2018. The information was verified by the measure developer on January 30, 2018.</p></div>"/>
+    </field>
+    <field fieldid="88" ordby="810" id="637" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>No copyright restrictions apply.</p></div>"/>
+    </field>
+  </section>
+  <section secid="641" ordby="850" name="Production">
+    <field fieldid="1" ordby="1366" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Centers for Medicare &amp; Medicaid Services (CMS). Home health care CAHPS® survey protocols and guidelines manual. Version 9.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Jan. 550 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Centers for Medicare &amp; Medicaid Services (CMS). Home health care CAHPS® survey. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2013. 6 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NQMC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 19:39:37 Jun 24, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:31:56 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 136.015 (3)
+  esindex: 0.009
+  captures_list: 166.243
+  CDXLines.iter: 22.925 (3)
+  PetaboxLoader3.datanode: 130.975 (4)
+  exclusion.robots: 0.18
+  exclusion.robots.policy: 0.167
+  RedisCDXSource: 3.392
+  PetaboxLoader3.resolve: 44.345
+  load_resource: 160.187
+-->

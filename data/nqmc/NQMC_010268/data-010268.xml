@@ -1,0 +1,376 @@
+<version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlsource>
+  <section secid="560" ordby="10" name="General">
+    <field fieldid="11" ordby="20" id="561" name="Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Amyotrophic lateral sclerosis (ALS): percentage of patients diagnosed with ALS who are dysarthric who were offered a referral at least once annually to a speech language pathologist for an augmentative/alternative communication evaluation.</div>"/>
+    </field>
+    <field fieldid="1" ordby="30" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>American Academy of Neurology (AAN). Amyotrophic lateral sclerosis performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 Jul 31. 75 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="563" ordby="40" name="Measure Domain">
+    <field fieldid="3025" ordby="50" id="564" name="Primary Measure Domain" type="picklist-one">
+      <fieldvalue value="Clinical Quality Measures: Process"/>
+    </field>
+    <field fieldid="3026" ordby="60" id="565" name="Secondary Measure Domain" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+  </section>
+  <section secid="566" ordby="70" name="Brief Abstract">
+    <field fieldid="34" ordby="80" id="567" name="Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is used to assess the percentage of patients diagnosed with amyotrophic lateral sclerosis (ALS) who are dysarthric who were offered a referral at least once annually to a speech language pathologist for an augmentative/alternative communication evaluation.</p></div>"/>
+    </field>
+    <field fieldid="21" ordby="90" id="568" name="Rationale" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Communication is vital to quality of life and most amyotrophic lateral sclerosis (ALS) patients lose the ability to communicate (Ball, Beukelman, &amp;amp; Pattee, &quot;Communication,&quot; 2004; Ball, Beukelman, &amp;amp; Pattee, &quot;Acceptance,&quot; 2004). Both high tech and low tech options are available through a speech language pathologist to enhance continued communication (Beukelman, Fager, &amp;amp; Nordness, 2011). Dysarthria is present in nearly all ALS patients with bulbar onset and in nearly 70% of ALS patients with spinal onset. More than 95% of ALS patients cannot speak before death and patients who accept gastrostomy tube, non-invasive ventilation or tracheostomy-assisted ventilation have a greater need for augmentative alternative communication as the disease progresses (Ball, Beukelman, &amp;amp; Pattee, &quot;Communication,&quot; 2004; Ball, Beukelman, &amp;amp; Pattee, &quot;Acceptance,&quot; 2004; Beukelman, Fager, &amp;amp; Nordness, 2011).</p>
+<p><strong>The following clinical recommendation statements are quoted verbatim from the referenced clinical guidelines and represent the evidence base for the measure</strong>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Regular assessment (i.e., every 3 months) of communication by a trained speech therapist is recommended (Andersen et al., 2005). </li>
+    <li>The use of appropriate communication support systems (ranging from pointing boards with figures or words, to computerized speech synthesizers) should be provided as required (Andersen et al., 2005). </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="3500" ordby="100" id="569" name="Evidence for Rationale" type="citation">
+      <fieldvalue value="<table><tr><td>American Academy of Neurology (AAN). Amyotrophic lateral sclerosis performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 Jul 31. 75 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Andersen PM, Borasio GD, Dengler R, Hardiman O, Kollewe K, Leigh PN, Pradat PF, Silani V, Tomik B, EFNS Task Force on Diagnosis and Management of Amyotrophic Lateral. EFNS task force on management of amyotrophic lateral sclerosis: guidelines for diagnosing and clinical care of patients and relatives. Eur J Neurol. 2005 Dec;12(12):921-38. [122 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16324086&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ball LJ, Beukelman DR, Pattee GL. Acceptance of augmentative and alternative communication technology by persons with amyotrophic lateral sclerosis. Augmentative Altern Commun. 2004;20(2):113-22.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ball LJ, Beukelman DR, Pattee GL. Communication effectiveness of individuals with amyotrophic lateral sclerosis. J Commun Disord. 2004 May-Jun;37(3):197-215. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15063143&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Beukelman D, Fager S, Nordness A. Communication support for people with ALS. Neurol Res Int. 2011;2011:714693. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21603029&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="3022" ordby="110" id="570" name="Primary Health Components" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Amyotrophic lateral sclerosis (ALS); dysarthria; speech language pathology; augmentative/alternative communication evaluation</p></div>"/>
+    </field>
+    <field fieldid="23" ordby="120" id="571" name="Denominator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All patients with a diagnosis of amyotrophic lateral sclerosis (ALS) who are dysarthric (see the related &quot;Denominator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+    <field fieldid="24" ordby="130" id="572" name="Numerator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients who were offered a referral at least once annually to a speech language pathologist for an augmentative/alternative communication evaluation </p></div>"/>
+    </field>
+  </section>
+  <section secid="573" ordby="140" name="Evidence Supporting the Measure">
+    <field fieldid="3027" ordby="150" id="574" name="Type of Evidence Supporting the Criterion of Quality for the Measure" type="picklist-choice">
+      <fieldvalue value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence"/>
+      <fieldvalue value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences"/>
+      <fieldvalue value="A systematic review of the clinical research literature (e.g., Cochrane Review)"/>
+      <fieldvalue value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal"/>
+    </field>
+    <field fieldid="3501" ordby="160" id="575" name="Additional Information Supporting Need for the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Importance of Topic</strong></p>
+<p><em>Prevalence and Incidence </em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Amyotrophic lateral sclerosis (ALS), also known as Lou Gehrig's disease, is a type of motor neuron disease that is a rapidly progressive and fatal neurological disease (National Institute of Neurological Disorders and Stroke [NINDS], 2013). </li>
+    <li>Twenty thousand to 30,000 people in the United States (U.S.) have ALS (NINDS, 2013). </li>
+    <li>Five thousand people are diagnosed with ALS in the U.S. annually (NINDS, 2013). </li>
+    <li>ALS is one of the most common neuromuscular diseases worldwide (NINDS, 2013). </li>
+    <li>In 90% to 95% of all ALS cases the disease occurs apparently at random with no clearly associated risk factors (NINDS, 2013). </li>
+    <li>Five percent to 10% of all ALS cases are inherited (NINDS, 2013). </li>
+    <li>Twenty percent of all familial cases result from a specific genetic defect that leads to mutation of the enzyme known as superoxide dismutase 1 (SOD1) (NINDS, 2013). </li>
+    <li>No cure exists for ALS. Newer pharmacotherapy agents have been found to reduce the progression, but not halt the disease development (NINDS, 2013). </li>
+    <li>The prevalence of ALS is said to be between six and eight cases per 100,000 in the population. Using the higher prevalence estimate and data from the 2000 U.S. census, nearly 22,600 Americans are living with ALS at any one time. Since ALS is a disease of aging, as the U.S. population increases and ages, an increase in the prevalence of ALS can be anticipated (ALS Association, 2012) </li>
+    <li>Cognitive dysfunction is seen in 20% to 50%, while only 3% to 5% develop dementia that is usually of frontotemporal type (Strong et al., 2009). Consensus criteria for diagnosis have recently been reported (Strong et al., 2009). </li>
+    <li>Death due to respiratory failure follows on average 2 to 4 years after onset, but a small group may survive for a decade or more (Haverkamp, Appel, &amp;amp; Appel, 1995). </li>
+    <li>The mean age of onset is 47 to 52 years in familial cases (FALS) and 58 to 63 years in sporadic (SALS) cases (Bobowick &amp;amp; Brody, 1973). </li>
+    <li>The lifetime risk for developing ALS for individuals aged 18 years has been estimated to be 1 in 350 for men and 1 in 420 for women (Armon, 2007) with male sex, increasing age and hereditary disposition being the main risk factors (Heffernan et al., 2006). </li>
+</ul>
+<p><em>Mortality and Morbidity</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Most patients with ALS die within 2 to 5 years of onset (Lechtzin et al., 2002). Only 10% of ALS patients survive for 10 years or more (Miller et al., &quot;Drug, nutritional,&quot; 2009). </li>
+    <li>Treatment of respiratory insufficiency improves survival, quality of life and respiratory symptoms (Lechtzin et al., 2002; Miller et al., &quot;Drug, nutritional,&quot; 2009). The diagnosis and management of respiratory insufficiency is critical because most deaths from ALS are due to respiratory failure (Lechtzin et al., 2002; Miller et al., &quot;Drug, nutritional,&quot; 2009; EFNS Task Force on Diagnosis and Management of Amyotrophic Lateral Sclerosis et al., 2012; Laird et al., 2001). </li>
+    <li>Falls surveillance will lead to interventions to prevent falls and decrease fall related deaths in ALS patients. Falls are an independent predictor of adverse health outcomes (Gil et al., 2008). Fall related deaths occur in 1.7% of ALS patients (Rubenstein &amp;amp; Josephson, 2002). Several specific risk factors for falls have been identified, including muscle weakness, deficits in gait or balance, visual deficits, arthritis, impairments in activities of daily living, depression, and cognitive impairment (Ringholz et al., 2005). </li>
+    <li>Studies confirm the presence of cognitive impairment in 50% of patients with ALS and particularly implicate executive dysfunction and mild memory decline in the disease process (Laird et al., 2001). More severe impairment occurs in a subset of patients with ALS and has features consistent with frontal temporal dementia (FTD) (Phukan, Pender, &amp;amp; Hardiman, 2007; Gordon et al., 2007). Recent studies have demonstrated the feasibility of screening patients in a busy specialized ALS clinic (Flaherty-Craig et al., 2009; Woolley &amp;amp; Katz, 2011), but this is still not routinely practiced. A fuller characterization of the extent of cognitive and behavioral dysfunction in ALS has important implications given that it shortens survival (Elamin et al., 2011), and the burden and stress for carers of patients with FTD is very great. It also has relevance to effective communication, legal issues and end-of-life decision making by patients with motor neuron disease (MND) (Elamin et al., 2011). </li>
+    <li>Pseudobulbar affect (PBA), excessive laughing or crying, or involuntary emotional expression disorder affects 20% to 50% of patients with ALS, especially in pseudobulbar palsy (McCullagh et al., 1999). Patients are embarrassed and isolated by these symptoms, which in turn greatly diminishes the patients' quality of life. </li>
+    <li>Sialorrhea, or drooling, is embarrassing, socially isolating, and is associated with aspiration pneumonia. The prevalence is estimated at 50%, and 70% of patients receiving oral medications for treatment reported benefit (Laird et al., 2001; Miller et al., &quot;Multi-disciplinary,&quot; 2009) </li>
+    <li>Fatigue may be a symptom of depression, poor sleep, abnormal muscle activation, immobility, or respiratory dysfunction. Fatigue diminishes quality of life for patients with ALS. Fatigue was a side effect of therapy in 26% of patients taking riluzole vs. 13% taking placebo (Bensimon, Lacomblez, &amp;amp; Meininger, 1994). Asthenia occurred in 18% of patients taking riluzole vs. 12% of patients taking placebo in a larger study (Lacomblez et al., 1996). </li>
+    <li>The prevalence of depression in ALS ranges from 0% to 44%, although systematic studies suggest 10% in advanced ALS (Laird et al., 2001; Wicks et al., 2007). Depression shortens survival and lowers quality of life for patients with ALS (Phukan, Pender, &amp;amp; Hardiman, 2007). There is consensus among experts that depression should be treated in patients with ALS (Laird et al., 2001); however, there are no controlled studies of benefit or harm. </li>
+    <li>Insomnia is common in ALS and may be a symptom of early respiratory weakness, underlying anxiety, depression, or pain (Hetta &amp;amp; Jansson, 1997). There is a concern that sedative/hypnotic agents may suppress the respiratory drive in patients with ALS. </li>
+    <li>Weight loss is a key prognostic indicator for ALS with the risk of death increased 7-fold when body mass index is less than 18.5 kg/m<sup>2</sup> (Marin et al., 2011; Leh&amp;eacute;ricey et al., 2012; Spataro et al., 2011; Desport et al., 1999; Vaisman et al., 2009; Dupuis et al., 2008). </li>
+    <li>ALS patients have dysarthria in nearly all bulbar onset patients and nearly 40% of ALS patients with spinal onset. More than 95% of ALS patients cannot speak before death and patients who accept gastrostomy tube, non-invasive ventilation or tracheostomy-ventilation have a greater need for augmentative alternative communication as the disease progresses (Ball, Beukelman, &amp;amp; Pattee, &quot;Communication,&quot; 2004; Ball, Beukelman, &amp;amp; Pattee, &quot;Acceptance,&quot; 2004; Mathy, Yorkston, &amp;amp; Gutmann, 2000; Beukelman, Fager, &amp;amp; Nordness, 2011). </li>
+    <li>End of life discussions will improve patient decision making with respect to disease management (NINDS, 2013; ALS Association, 2012; Strong et al., 2009; Haverkamp, Appel, &amp;amp; Appel, 1995; Bobowick &amp;amp; Brody, 1973; Heffernan et al., 2006). Pain in ALS should be treated following accepted guidelines (Oliver et al., 2011; Albert et al., 1999, Mitsumoto et al., 2005; Nolan et al., 2008; Albert et al., 2005; Albert et al., 2009). </li>
+</ul>
+<p><em>Office Visits and Hospital Stays</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>One study's significant findings were that common morbidities increased over time (pneumonia [38.1% to 47.3%], respiratory failure [26.9% to 35.5%], and nutritional deficiency [43.0% to 56.3%]); the median length of stay dropped from 6 to 4 days; mean hospital charges increased from $21,574 to $24,314; the proportion of hospital deaths decreased over time (17.6% to 14.6%), whereas the proportion discharged to home health/hospice care (14.0% to 18.2%) and to long-term care facilities (13.2% to 27.9%) increased. The odds ratio (OR) of death was 5.03 (95% CI: 4.57 to 5.54) for those admitted with respiratory failure, 1.36 (1.24 to 1.50) for those with pneumonia, and 0.84 (0.77 to 0.92) for those with nutritional deficiency. The high OR of death in patients admitted for pneumonia or respiratory failure is likely associated with more advanced disease, whereas the protective effect of admission for nutritional deficiency is consistent with the predominance of bulbar symptoms and admission earlier in the disease. The trends during the 15 years of this administrative data set were for increasing comorbidities and higher utilization of end-of-life care (Dubinsky, Chen, &amp;amp; Lai, 2006). </li>
+</ul>
+<p><em>Family Caregiving</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Caregiver burden was correlated to their level of depression and quality of life and, differently from other chronic disorders, increased with the worsening of patients' disability. ALS patients have a good objective perception of their impact on caregivers (Chi&amp;ograve; et al., 2005). </li>
+    <li>Recent studies assessing caregivers' burden in chronic neurologic disorders have found some features shared by caregivers: the perceived burden exceeds the objective measures of patients' impairment, the amount of burden is independent of diagnosis, and the patients' cognitive functioning is an important factor in determining the level of burden (Thommessen et al., 2002). </li>
+</ul>
+<p><em>Cost</em></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>ALS is a difficult to diagnose, fatal, progressive degenerative disease with an average survival time of 2 to 5 years. Percutaneous endoscopic gastrostomy (PEG) and bi-level intermittent positive pressure (BIPAP) ventilation may be the major interventions leading to longer survival of patients with ALS. Riluzole has been shown to have modest effects on survival (as opposed to functional) gains and is currently the only drug approved for the treatment of ALS. Mechanical ventilation (via a tracheostomy tube) is expensive, but is widely used in later stage patients with ALS in the U.S. A review of nine cost-effectiveness studies of riluzole found the following: drug costs and survival gains are the major drivers of cost effectiveness; survival gains are estimated from truncated databases with a high degree of uncertainty; more accurate stage-specific utility weights based on patients who agreed to treatment are needed; case incidence-based evaluations should be carried out; cost-effectiveness ratios are insensitive to discount rates; employment and caregiver issues or externalities have been widely ignored; threshold acceptance cost-effectiveness values are ill-defined and evaluations are not generalizable to other countries because of cost and treatment style differences. On account of the high degree of uncertainty pertaining to survival gains and the relatively high costs per life years or quality-adjusted life-years gained, and while acknowledging that not every therapy has to be cost effective (e.g., orphan drugs), it is still inconclusive as to whether or not riluzole can be considered as cost-effective therapy for ALS (Ginsberg &amp;amp; Lowe, 2002). </li>
+</ul>
+<p><strong>Disparities</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>All races and ethnic backgrounds are affected by ALS (NINDS, 2013). </li>
+    <li>ALS most common in individuals 40 to 60 years old, but younger and older people can develop the disease (NINDS, 2013). </li>
+    <li>Men are more likely to develop ALS than women. Studies suggest an overall ratio of about 1.5 men to every woman who develops ALS in Western countries (ALS Association, 2012). </li>
+</ul>
+<p><strong>Opportunity for Improvement</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Speech assessment in ALS patients identifies dysarthria, independent of dysphagia, that limits communication and maintenance of their active communicator role. Speech correction should focus on the maintenance of functional communication. Assessment should involve measurement of speech rate (words per minute). Augmentative and alternative communication is recommended when speech rate is less than 125 words per minute. Nearly 88% of ALS patients are evaluated by this criterion, but fewer than half implement appropriate interventions (L&amp;eacute;v&amp;ecirc;que, 2006; Robert et al., 2006; American Speech-Language-Hearing Association [ASHA], 2002; Beukelman, Fager, &amp;amp; Nordness, 2011; Hanson, Yorkston, &amp;amp; Britton, 2011). </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="3502" ordby="170" id="576" name="Evidence for Additional Information Supporting Need for the Measure" type="citation">
+      <fieldvalue value="<table><tr><td>Albert SM, Murphy PL, Del Bene ML, Rowland LP. Prospective study of palliative care in ALS: choice, timing, outcomes. J Neurol Sci. 1999 Oct 31;169(1-2):108-13.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Albert SM, Rabkin JG, Del Bene ML, Tider T, O'Sullivan I, Rowland LP, Mitsumoto H. Wish to die in end-stage ALS. Neurology. 2005 Jul 12;65(1):68-74. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16009887&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Albert SM, Whitaker A, Rabkin JG, del Bene M, Tider T, O'Sullivan I, Mitsumoto H. Medical and supportive care among people with ALS in the months before death or tracheostomy. J Pain Symptom Manage. 2009 Oct;38(4):546-53. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19540088&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>ALS Association. Epidemiology of ALS and suspected clusters. [internet]. Washington (DC): ALS Association; [accessed 2012 Apr 06]. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>American Academy of Neurology (AAN). Amyotrophic lateral sclerosis performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 Jul 31. 75 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>American Speech-Language-Hearing Association (ASHA). Roles of speech-language pathologists in swallowing and feeding disorders: technical report. Rockville (MD): American Speech-Language-Hearing Association (ASHA); 2002. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Armon C. Sports and trauma in amyotrophic lateral sclerosis revisited. J Neurol Sci. 2007 Nov 15;262(1-2):45-53. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17681549&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ball LJ, Beukelman DR, Pattee GL. Acceptance of augmentative and alternative communication technology by persons with amyotrophic lateral sclerosis. Augmentative Altern Commun. 2004;20(2):113-22.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ball LJ, Beukelman DR, Pattee GL. Communication effectiveness of individuals with amyotrophic lateral sclerosis. J Commun Disord. 2004 May-Jun;37(3):197-215. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15063143&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bensimon G, Lacomblez L, Meininger V. A controlled trial of riluzole in amyotrophic lateral sclerosis. ALS/Riluzole Study Group. N Engl J Med. 1994 Mar 3;330(9):585-91. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8302340&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Beukelman D, Fager S, Nordness A. Communication support for people with ALS. Neurol Res Int. 2011;2011:714693. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21603029&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Bobowick AR, Brody JA. Epidemiology of motor-neuron diseases. N Engl J Med. 1973 May 17;288(20):1047-55. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=4576955&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Chiò A, Gauthier A, Calvo A, Ghiglione P, Mutani R. Caregiver burden and patients' perception of being a burden in ALS. Neurology. 2005 May 24;64(10):1780-2. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15911811&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Desport JC, Preux PM, Truong TC, Vallat JM, Sautereau D, Couratier P. Nutritional status is a prognostic factor for survival in ALS patients. Neurology. 1999 Sep 22;53(5):1059-63. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10496266&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Dubinsky R, Chen J, Lai SM. Trends in hospital utilization and outcome for patients with ALS: analysis of a large U.S. cohort. Neurology. 2006 Sep 12;67(5):777-80. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16966536&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Dupuis L, Corcia P, Fergani A, Gonzalez De Aguilar JL, Bonnefont-Rousselot D, Bittar R, Seilhean D, Hauw JJ, Lacomblez L, Loeffler JP, Meininger V. Dyslipidemia is a protective factor in amyotrophic lateral sclerosis. Neurology. 2008 Mar 25;70(13):1004-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18199832&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>EFNS Task Force on Diagnosis and Management of Amyotrophic Lateral Sclerosis, Andersen PM, Abrahams S, Borasio GD, de Carvalho M, Chio A, Van Damme P, Hardiman O, Kollewe K, Morrison KE, Petri S, Pradat PF, Silani V, Tomik B, Wasner M, Weber M. EFNS guidelines on the clinical management of amyotrophic lateral sclerosis (MALS) -- revised report of an EFNS task force. Eur J Neurol. 2012 Mar;19(3):360-75. [186 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21914052&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Elamin M, Phukan J, Bede P, Jordan N, Byrne S, Pender N, Hardiman O. Executive dysfunction is a negative prognostic indicator in patients with ALS without dementia. Neurology. 2011 Apr 5;76(14):1263-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21464431&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Flaherty-Craig C, Brothers A, Dearman B, Eslinger P, Simmons Z. Penn State screen exam for the detection of frontal and temporal dysfunction syndromes: application to ALS. Amyotroph Lateral Scler. 2009 Apr;10(2):107-12. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18792849&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gil J, Funalot B, Verschueren A, Danel-Brunaud V, Camu W, Vandenberghe N, Desnuelle C, Guy N, Camdessanche JP, Cintas P, Carluer L, Pittion S, Nicolas G, Corcia P, Fleury MC, Maugras C, Besson G, Le Masson G, Couratier P. Causes of death amongst French patients with amyotrophic lateral sclerosis: a prospective study. Eur J Neurol. 2008 Nov;15(11):1245-51. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18973614&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ginsberg G, Lowe S. Cost effectiveness of treatments for amyotrophic lateral sclerosis: a review of the literature. PharmacoEconomics. 2002;20(6):367-87. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12052096&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Gordon PH, Wang Y, Doorish C, Lewis M, Battista V, Mitsumoto H, Marder K. A screening assessment of cognitive impairment in patients with ALS. Amyotroph Lateral Scler. 2007 Dec;8(6):362-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17852014&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hanson E, Yorkston K, Britton D. Dysarthria in amyotrophic lateral sclerosis: a systematic review of characteristics, speech treatment, and AAC options. 2011;19(3):12-30.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Haverkamp LJ, Appel V, Appel SH. Natural history of amyotrophic lateral sclerosis in a database population. Validation of a scoring system and a model for survival prediction. Brain. 1995 Jun;118 (Pt 3):707-19. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7600088&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Heffernan C, Jenkinson C, Holmes T, Macleod H, Kinnear W, Oliver D, Leigh N, Ampong MA. Management of respiration in MND/ALS patients: an evidence based review. Amyotrophic Lateral Sclerosis. 2006 Mar;7(1):5-15. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16546753&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hetta J, Jansson I. Sleep in patients with amyotrophic lateral sclerosis. J Neurol. 1997 Apr;244(4 Suppl 1):S7-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=9112583&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lacomblez L, Bensimon G, Leigh PN, Guillet P, Meininger V. Dose-ranging study of riluzole in amyotrophic lateral sclerosis. Amyotrophic Lateral Sclerosis/Riluzole Study Group II. Lancet. 1996 May 25;347(9013):1425-31. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8676624&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Laird RD, Studenski S, Perera S, Wallace D. Fall history is an independent predictor of adverse health outcomes and utilization in the elderly. Am J Manag Care. 2001 Dec;7(12):1133-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11767299&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lechtzin N, Rothstein J, Clawson L, Diette GB, Wiener CM. Amyotrophic lateral sclerosis: evaluation and treatment of respiratory impairment. Amyotroph Lateral Scler Other Motor Neuron Disord. 2002 Mar;3(1):5-13. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12061943&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lehéricey G, Le Forestier N, Dupuis L, Gonzalez-Bermejo J, Meininger V, Pradat PF. [Nutritional management in amyotrophic lateral sclerosis: A medical and ethical stake]. Presse Med. 2012 Jun;41(6 Pt 1):560-74. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=22137288&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lévêque N. [Speech therapy guidelines in patients with amyotrophic lateral sclerosis]. Rev Neurol (Paris). 2006 Jun;162 Spec No 2:4S269-4S272. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17128123&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Marin B, Desport JC, Kajeu P, Jesus P, Nicolaud B, Nicol M, Preux PM, Couratier P. Alteration of nutritional status at diagnosis is a prognostic factor for survival of amyotrophic lateral sclerosis patients. J Neurol Neurosurg Psychiatry. 2011 Jun;82(6):628-34. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21097551&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mathy P, Yorkston K, Gutmann M. AAC for individuals with amyotrophic lateral sclerosis. Augment Disord. 2000;:183-231.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>McCullagh S, Moore M, Gawel M, Feinstein A. Pathological laughing and crying in amyotrophic lateral sclerosis: an association with prefrontal cognitive dysfunction. J Neurol Sci. 1999 Oct 31;169(1-2):43-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10540006&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Miller RG, Jackson CE, Kasarskis EJ, England JD, Forshew D, Johnston W, Kalra S, Katz JS, Mitsumoto H, Rosenfeld J, Shoesmith C, Strong MJ, Woolley SC, Quality Standards Subcommittee of the American Academy of Neurology. Practice parameter update: the care of the patient with amyotrophic lateral sclerosis: drug, nutritional, and respiratory therapies (an evidence-based review): report of the Quality Standards Subcommittee of the American Academy of  Neurology. Neurology. 2009 Oct 13;73(15):1218-26. [40 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19822872&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Miller RG, Jackson CE, Kasarskis EJ, England JD, Forshew D, Johnston W, Kalra S, Katz JS, Mitsumoto H, Rosenfeld J, Shoesmith C, Strong MJ, Woolley SC, Quality Standards Subcommittee of the American Academy of Neurology. Practice parameter update: the care of the patient with amyotrophic lateral sclerosis: multi-disciplinary care, symptom management, and cognitive/behavioral impairment (an evidence-based review): report of the Quality Standards Subcommittee [TRUNC]. Neurology. 2009 Oct 13;73(15):1227-33. [40 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19822873&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Mitsumoto H, Bromberg M, Johnston W, Tandan R, Byock I, Lyon M, Miller RG, Appel SH, Benditt J, Bernat JL, Borasio GD, Carver AC, Clawson L, Del Bene ML, Kasarskis EJ, LeGrand SB, Mandler R, McCarthy J, Munsat T, Newman D, Sufit RL, Versenyi A. Promoting excellence in end-of-life care in ALS. Amyotroph Lateral Scler Other Motor Neuron Disord. 2005 Sep;6(3):145-54. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16183556&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National Institute of Neurological Disorders and Stroke (NINDS). Amyotrophic lateral sclerosis (ALS) fact sheet. [internet]. Bethesda (MD): National Institute of Neurological Disorders and Stroke (NINDS), National Institutes of Health (NIH); 2013 Jun&amp;nbsp;[6 p]. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Nolan MT, Kub J, Hughes MT, Terry PB, Astrow AB, Carbo CA, Thompson RE, Clawson L, Texeira K, Sulmasy DP. Family health care decision making and self-efficacy with patients with ALS at the end of life. Palliat Support Care. 2008 Sep;6(3):273-80. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18662421&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Oliver D, Campbell C, Sykes N, Tallon C, Edwards A. Decision-making for gastrostomy and ventilatory support for people with motor neurone disease: variations across UK hospices. J Palliat Care. 2011;27(3):198-201. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21957796&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Phukan J, Pender NP, Hardiman O. Cognitive impairment in amyotrophic lateral sclerosis. Lancet Neurol. 2007 Nov;6(11):994-1003. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17945153&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ringholz GM, Appel SH, Bradshaw M, Cooke NA, Mosnik DM, Schulz PE. Prevalence and patterns of cognitive impairment in sporadic ALS. Neurology. 2005 Aug 23;65(4):586-90. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16116120&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Robert D, Bianco-Blache A, Spezza C, Verschueren A, Pouget J, Giovanni A. [Assessment of dysarthria and dysphagia in ALS patients]. Rev Neurol (Paris). 2006 Apr;162(4):445-53. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16585905&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Rubenstein LZ, Josephson KR. The epidemiology of falls and syncope. Clin Geriatr Med. 2002 May;18(2):141-58. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12180240&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Spataro R, Ficano L, Piccoli F, La Bella V. Percutaneous endoscopic gastrostomy in amyotrophic lateral sclerosis: effect on survival. J Neurol Sci. 2011 May 15;304(1-2):44-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=21371720&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Strong MJ, Grace GM, Freedman M, Lomen-Hoerth C, Woolley S, Goldstein LH, Murphy J, Shoesmith C, Rosenfeld J, Leigh PN, Bruijn L, Ince P, Figlewicz D. Consensus criteria for the diagnosis of frontotemporal cognitive and behavioural syndromes in amyotrophic lateral sclerosis. Amyotroph Lateral Scler. 2009 Jun;10(3):131-46. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19462523&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Thommessen B, Aarsland D, Braekhus A, Oksengaard AR, Engedal K, Laake K. The psychosocial burden on spouses of the elderly with stroke, dementia and Parkinson's disease. Int J Geriatr Psychiatry. 2002 Jan;17(1):78-84. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11802235&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Vaisman N, Lusaus M, Nefussy B, Niv E, Comaneshter D, Hallack R, Drory VE. Do patients with amyotrophic lateral sclerosis (ALS) have increased energy needs?. J Neurol Sci. 2009 Apr 15;279(1-2):26-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19185883&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wicks P, Abrahams S, Masi D, Hejda-Forde S, Leigh PN, Goldstein LH. Prevalence of depression in a 12-month consecutive sample of patients with ALS. Eur J Neurol. 2007 Sep;14(9):993-1001. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17718691&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Woolley SC, Katz JS. Review article: utility of the ALS Cognitive Behavioral Screen. Neurodegener Dis Manag. 2011;1(6):473-9.</td></tr></table>"/>
+    </field>
+    <field fieldid="3072" ordby="180" id="577" name="Extent of Measure Testing" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is being made available without any prior testing. The American Academy of Neurology (AAN) recognizes the importance of testing of all of its measures and encourages testing of the amyotrophic lateral sclerosis (ALS) measurement set for feasibility and reliability by organizations or individuals positioned to do so. The AAN welcomes the opportunity to promote the initial testing of these measures and to ensure that any results available from testing are used to refine the measures before implementation.</p></div>"/>
+    </field>
+    <field fieldid="3007" ordby="190" id="578" name="Evidence for Extent of Measure Testing" type="citation">
+      <fieldvalue value="<table><tr><td>American Academy of Neurology (AAN). Amyotrophic lateral sclerosis performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 Jul 31. 75 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="580" ordby="210" name="State of Use of the Measure">
+    <field fieldid="3029" ordby="220" id="581" name="State of Use" type="picklist-one">
+      <fieldvalue value="Current routine use"/>
+    </field>
+    <field fieldid="3030" ordby="230" id="582" name="Current Use" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="583" ordby="240" name="Application of the Measure in its Current Use">
+    <field fieldid="3031" ordby="250" id="584" name="Measurement Setting" type="picklist-choice">
+      <fieldvalue value="Ambulatory/Office-based Care"/>
+      <fieldvalue value="Home Care"/>
+      <fieldvalue value="Hospital Outpatient"/>
+      <fieldvalue value="Skilled Nursing Facilities/Nursing Homes"/>
+    </field>
+    <field fieldid="3032" ordby="260" id="585" name="Professionals Involved in Delivery of Health Services" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3033" ordby="270" id="586" name="Least Aggregated Level of Services Delivery Addressed" type="picklist-one">
+      <fieldvalue value="Individual Clinicians or Public Health Professionals"/>
+    </field>
+    <field fieldid="3505" ordby="280" id="587" name="Statement of Acceptable Minimum Sample Size" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="41" ordby="290" id="588" name="Target Population Age" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="42" ordby="300" id="589" name="Target Population Gender" type="picklist-one">
+      <fieldvalue value="Either male or female"/>
+    </field>
+  </section>
+  <section secid="660" ordby="310" name="National Strategy for Quality Improvement in Health Care">
+    <field fieldid="3522" ordby="320" id="661" name="National Quality Strategy Aim" type="text">
+      <fieldvalue value="<ul><li>Better Care</li></ul>"/>
+    </field>
+    <field fieldid="3525" ordby="330" id="662" name="National Quality Strategy Priority" type="text">
+      <fieldvalue value="<ul><li>Person- and Family-centered Care</li><li>Prevention and Treatment of Leading Causes of Mortality</li></ul>"/>
+    </field>
+  </section>
+  <section secid="590" ordby="340" name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <field fieldid="3163" ordby="350" id="591" name="IOM Care Need" type="picklist-choice">
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="3164" ordby="360" id="592" name="IOM Domain" type="picklist-choice">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="593" ordby="370" name="Data Collection for the Measure">
+    <field fieldid="3506" ordby="380" id="594" name="Case Finding Period" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3054" ordby="390" id="595" name="Denominator Sampling Frame" type="picklist-one">
+      <fieldvalue value="Patients associated with provider"/>
+    </field>
+    <field fieldid="3057" ordby="400" id="598" name="Denominator (Index) Event or Characteristic" type="picklist-choice">
+      <fieldvalue value="Clinical Condition"/>
+    </field>
+    <field fieldid="3058" ordby="410" id="599" name="Denominator Time Window" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="55" ordby="420" id="596" name="Denominator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+All patients with a diagnosis of amyotrophic lateral sclerosis (ALS) who are dysarthric</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: Refer to the original measure documentation for International Classification of Diseases, Ninth Revision, Clinical Modification (ICD-9-CM) diagnosis codes and Current Procedural Terminology (CPT) Evaluation and Management (E/M) service codes.</p>
+<p><strong>Exclusions</strong><br />
+Documentation of a medical reason for not offering a referral to a speech language pathologist for an augmentative/alternative communication evaluation (e.g., patient is already using an augmentative communication device).</p></div>"/>
+    </field>
+    <field fieldid="3507" ordby="430" id="597" name="Exclusions/Exceptions" type="picklist-choice-4">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="59" ordby="440" id="600" name="Numerator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Patients who were offered a referral at least once annually to a speech language pathologist for an augmentative/alternative communication evaluation</p>
+<p><strong>Exclusions</strong><br />
+Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3061" ordby="450" id="601" name="Numerator Search Strategy" type="picklist-one">
+      <fieldvalue value="Fixed time period or point in time"/>
+    </field>
+    <field fieldid="3062" ordby="460" id="602" name="Data Source" type="picklist-many">
+      <fieldvalue value="Administrative clinical data"/>
+      <fieldvalue value="Electronic health/medical record"/>
+      <fieldvalue value="Paper medical record"/>
+    </field>
+    <field fieldid="3065" ordby="470" id="603" name="Type of Health State" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3066" ordby="480" id="604" name="Instruments Used and/or Associated with the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+  </section>
+  <section secid="605" ordby="490" name="Computation of the Measure">
+    <field fieldid="3508" ordby="500" id="606" name="Measure Specifies Disaggregation" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3067" ordby="520" id="608" name="Scoring" type="picklist-many">
+      <fieldvalue value="Rate/Proportion"/>
+    </field>
+    <field fieldid="3068" ordby="530" id="609" name="Interpretation of Score" type="picklist-one">
+      <fieldvalue value="Desired value is a higher score"/>
+    </field>
+    <field fieldid="3090" ordby="540" id="610" name="Allowance for Patient or Population Factors" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3070" ordby="560" id="612" name="Standard of Comparison" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="615" ordby="590" name="Identifying Information">
+    <field fieldid="73" ordby="600" id="616" name="Original Title" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Measure #9: ALS communication support referral.</p></div>"/>
+    </field>
+    <field fieldid="74" ordby="610" id="617" name="Measure Collection Name" type="text">
+      <fieldvalue value="Amyotrophic Lateral Sclerosis Performance Measurement Set"/>
+    </field>
+    <field fieldid="16" ordby="650" id="621" name="Submitter" type="orglist">
+      <fieldvalue value="American Academy of Neurology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="17" ordby="660" id="622" name="Developer" type="orglist-p">
+      <fieldvalue value="American Academy of Neurology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="79" ordby="670" id="623" name="Funding Source(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="80" ordby="680" id="624" name="Composition of the Group that Developed the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Work Group Members Amyotrophic Lateral Sclerosis</strong></p>
+<p><em>Co-Chairs</em>: Robert G. Miller, MD; Benjamin Rix Brooks, MD</p>
+<p><em>American Academy of Neurology Representatives</em>: Steven Ringel, MD; Hiroshi Mitsumoto, MD; Carlayne Jackson, MD; Christen Shoesmith, MD, BSc; Edward Kasarskis, MD, PhD </p>
+<p><em>Pulmonologist</em>: Robert C. Basner, MD</p>
+<p><em>Gastroenterologist</em>: Nicholas Procaccini, MD</p>
+<p><em>American Academy of Physical Medicine and Rehabilitation</em>: Gregory Carter, MD </p>
+<p><em>Nurse</em>: Dallas Forshew, RN, BSN</p>
+<p><em>Physical Therapy/Occupational Therapy</em>: Mohammed Sanjak, PhD, PT, MBA; Pat Casey, MS, CRCC</p>
+<p><em>Hospice/Palliative Care Specialist</em>: Bob Osborne, RN</p>
+<p><em>Muscular Dystrophy Association</em>: Valerie Cwik, MD </p>
+<p><em>Patient Representative</em>: Christine Jasch, OTR/L</p>
+<p><em>Insurance Representatives</em>: Fredrik Tolin, MD, MBA (Humana)</p>
+<p><em>American Academy of Neurology Staff</em>: Rebecca J. Swain-Eng, MS; Gina Gjorvad</p>
+<p><em>Methodologist</em>: Rebecca Kresowik </p>
+<p><em>Quality Measurement and Reporting Subcommittee Facilitators &amp;amp; Liaisons</em>: Richard Dubinsky, MD (Facilitator); Joel Kaufman, MD (Facilitator); Adam Cohen, MD (Facilitator); Christopher Bever, MD (QMR Chair); Eric Cheng, MD, MS (QMR Vice-Chair)</p></div>"/>
+    </field>
+    <field fieldid="81" ordby="690" id="625" name="Financial Disclosures/Other Potential Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="19" ordby="730" id="629" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="3086" ordby="740" id="630" name="Date of Most Current Version in NQMC" type="date">
+      <fieldvalue value="2012 Jul"/>
+    </field>
+    <field fieldid="3511" ordby="750" id="631" name="Measure Maintenance" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3512" ordby="760" id="632" name="Date of Next Anticipated Revision" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="20" ordby="770" id="633" name="Measure Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p></div>"/>
+    </field>
+    <field fieldid="14" ordby="780" id="634" name="Measure Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Source available from the <a href=&quot;https://www.aan.com/uploadedFiles/Website_Library_Assets/Documents/3.Practice_Management/2.Quality_Improvement/1.Quality_Measures/1.All_Measures/ALS%20Measurement%20Set%20FINAL.pdf&quot; title=&quot;AAN Web site&quot;>American Academy of Neurology (AAN) Web site</a>.</p>
+<p>For more information, contact AAN at 201 Chicago Avenue, Minneapolis, MN 55415; Phone: 800-879-1960; Fax: 612-454-2746; Web site: <a href=&quot;http://www.aan.com&quot; title=&quot;AAN Web site&quot;>www.aan.com</a>.</p></div>"/>
+    </field>
+    <field fieldid="87" ordby="800" id="636" name="NQMC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary was completed by ECRI Institute on March 8, 2016. The information was not verified by the measure developer. </p></div>"/>
+    </field>
+    <field fieldid="88" ordby="810" id="637" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="641" ordby="850" name="Production">
+    <field fieldid="1" ordby="1366" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>American Academy of Neurology (AAN). Amyotrophic lateral sclerosis performance measurement set. St. Paul (MN): American Academy of Neurology (AAN); 2012 Jul 31. 75 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NQMC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 02:22:12 Jul 06, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:37:50 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 1915.041 (3)
+  esindex: 0.011
+  captures_list: 1936.486
+  CDXLines.iter: 15.434 (3)
+  PetaboxLoader3.datanode: 38.841 (4)
+  exclusion.robots: 0.228
+  exclusion.robots.policy: 0.213
+  RedisCDXSource: 1.664
+  PetaboxLoader3.resolve: 2112.029 (4)
+  load_resource: 270.317
+-->

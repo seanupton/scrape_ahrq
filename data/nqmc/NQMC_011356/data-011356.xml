@@ -1,0 +1,294 @@
+<version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlsource>
+  <section secid="560" ordby="10" name="General">
+    <field fieldid="11" ordby="20" id="561" name="Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Emergency department (ED)-throughput: median time from ED arrival to time of departure from the ED for patients discharged from the ED.</div>"/>
+    </field>
+    <field fieldid="1" ordby="30" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="563" ordby="40" name="Measure Domain">
+    <field fieldid="3025" ordby="50" id="564" name="Primary Measure Domain" type="picklist-one">
+      <fieldvalue value="Clinical Quality Measures: Process"/>
+    </field>
+    <field fieldid="3026" ordby="60" id="565" name="Secondary Measure Domain" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+  </section>
+  <section secid="566" ordby="70" name="Brief Abstract">
+    <field fieldid="34" ordby="80" id="567" name="Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is used to assess the median time (in minutes) from emergency department (ED) arrival to time of departure from the ED for patients discharged from the ED.</p>
+<p>This measure represents the overall rate. The following rates are also reported:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Excluding psychiatric/mental health and transfer patients</li>
+    <li>Psychiatric/mental health patients </li>
+    <li>Transfer patients </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="21" ordby="90" id="568" name="Rationale" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Reducing the time patients remain in the emergency department (ED) can improve access to treatment and increase quality of care. Reducing this time potentially improves access to care specific to the patient condition and increases the capability to provide additional treatment. In recent times, EDs have experienced significant overcrowding. Although once only a problem in large, urban, teaching hospitals, the phenomenon has spread to other suburban and rural healthcare organizations. According to a 2002 national United States (U.S.) survey, more than 90 percent of large hospitals report EDs operating &quot;at&quot; or &quot;over&quot; capacity. Overcrowding and heavy emergency resource demand have led to a number of problems, including ambulance refusals, prolonged patient waiting times, increased suffering for those who wait, rushed and unpleasant treatment environments, and potentially poor patient outcomes. Approximately one third of hospitals in the U.S. report increases in ambulance diversion in a given year, whereas up to half report crowded conditions in the ED. In a recent national survey, 40 percent of hospital leaders viewed ED crowding as a symptom of workforce shortages. ED crowding may result in delays in the administration of medication such as antibiotics for pneumonia and has been associated with perceptions of compromised emergency care. For patients with non-ST-segment-elevation myocardial infarction, long ED stays were associated with decreased use of guideline-recommended therapies and a higher risk of recurrent myocardial infarction. When EDs are overwhelmed, their ability to respond to community emergencies and disasters may be compromised.</p></div>"/>
+    </field>
+    <field fieldid="3500" ordby="100" id="569" name="Evidence for Rationale" type="citation">
+      <fieldvalue value="<table><tr><td>Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Derlet RW, Richards JR. Emergency department overcrowding in Florida, New York, and Texas. South Med J. 2002 Aug;95(8):846-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12190219&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Derlet RW, Richards JR. Overcrowding in the nation's emergency departments: complex causes and disturbing effects. Ann Emerg Med. 2000 Jan;35(1):63-8. [26 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10613941&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Diercks DB, Roe MT, Chen AY, Peacock WF, Kirk JD, Pollack CV Jr, Gibler WB, Smith SC Jr, Ohman M, Peterson ED. Prolonged emergency department stays of non-ST-segment-elevation myocardial infarction patients are associated with worse adherence to the American College of Cardiology/American Heart Association guidelines for management and increased adverse events. Ann Emerg Med. 2007;50(5):489-96. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17583379&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Fatovich DM, Hirsch RL. Entry overload, emergency department overcrowding, and ambulance bypass. Emerg Med J. 2003 Sep;20(5):406-9. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12954675&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hwang U, Richardson LD, Sonuyi TO, Morrison RS. The effect of emergency department crowding on the management of pain in older adults with hip fracture. J Am Geriatr Soc. 2006 Feb;54(2):270-5. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16460378&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Institute of Medicine of the National Academies. Future of emergency care: hospital-based emergency care at the breaking point. The National Academies Press; 2006. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kyriacou DN, Ricketts V, Dyne PL, McCollough MD, Talan DA. A 5-year time study analysis of emergency department patient care efficiency. Ann Emerg Med. 1999 Sep;34(3):326-35. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=10459088&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Pines JM, Garson C, Baxt WG, Rhodes KV, Shofer FS, Hollander JE. ED crowding is associated with variable perceptions of care compromise. Acad Emerg Med. 2007 Dec;14(12):1176-81. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18045894&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Pines JM, Hollander JE. Emergency department crowding is associated with poor care for patients with severe pain. Ann Emerg Med. 2008 Jan;51(1):6-7. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17913299&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Schull MJ, Vermeulen M, Slaughter G, Morrison L, Daly P. Emergency department crowding and thrombolysis delays in acute myocardial infarction. Ann Emerg Med. 2004 Dec;44(6):577-85. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15573032&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Siegel B, Wilson MJ, Sickler D. Enhancing work flow to reduce crowding. Jt Comm J Qual Patient Saf. 2007 Nov;33(11 Suppl):57-67. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18173166&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Trzeciak S, Rivers EP. Emergency department overcrowding in the United States: an emerging threat to patient safety and public health. Emerg Med J. 2003 Sep;20(5):402-5. [46 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=12954674&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Wilper AP, Woolhandler S, Lasser KE, McCormick D, Cutrona SL, Bor DH, Himmelstein DU. Waits to see an emergency department physician: U.S. trends and predictors, 1997-2004. Health Aff (Millwood). 2008 Mar-Apr;27(2):w84-95. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18198184&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="3022" ordby="110" id="570" name="Primary Health Components" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Emergency department (ED) throughput</p></div>"/>
+    </field>
+    <field fieldid="23" ordby="120" id="571" name="Denominator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Any emergency department (ED) patient from the facility's ED (see the related &quot;Denominator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+    <field fieldid="24" ordby="130" id="572" name="Numerator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Continuous variable statement</em>: Time (in minutes) from emergency department (ED) arrival to ED departure for patients discharged from the ED</p></div>"/>
+    </field>
+  </section>
+  <section secid="573" ordby="140" name="Evidence Supporting the Measure">
+    <field fieldid="3027" ordby="150" id="574" name="Type of Evidence Supporting the Criterion of Quality for the Measure" type="picklist-choice">
+      <fieldvalue value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal"/>
+    </field>
+    <field fieldid="3501" ordby="160" id="575" name="Additional Information Supporting Need for the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3072" ordby="180" id="577" name="Extent of Measure Testing" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is being collected by hospitals paid under the Outpatient Prospective Payment System; about 4,000 hospitals across the nation. The measure has been collected since January 1, 2012. In 2014, validity testing of critical data elements was performed on this measure for the measure period of January 1, 2012 to December 31, 2012.</p></div>"/>
+    </field>
+    <field fieldid="3007" ordby="190" id="578" name="Evidence for Extent of Measure Testing" type="citation">
+      <fieldvalue value="<table><tr><td>Larbi F. Personal communication: CMS hospital outpatient department quality measures. 2014 Jul 24. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="580" ordby="210" name="State of Use of the Measure">
+    <field fieldid="3029" ordby="220" id="581" name="State of Use" type="picklist-one">
+      <fieldvalue value="Current routine use"/>
+    </field>
+    <field fieldid="3030" ordby="230" id="582" name="Current Use" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="583" ordby="240" name="Application of the Measure in its Current Use">
+    <field fieldid="3031" ordby="250" id="584" name="Measurement Setting" type="picklist-choice">
+      <fieldvalue value="Emergency Department"/>
+      <fieldvalue value="Hospital Outpatient"/>
+    </field>
+    <field fieldid="3032" ordby="260" id="585" name="Professionals Involved in Delivery of Health Services" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3033" ordby="270" id="586" name="Least Aggregated Level of Services Delivery Addressed" type="picklist-one">
+      <fieldvalue value="Single Health Care Delivery or Public Health Organizations"/>
+    </field>
+    <field fieldid="3505" ordby="280" id="587" name="Statement of Acceptable Minimum Sample Size" type="picklist-one">
+      <fieldvalue value="Specified"/>
+    </field>
+    <field fieldid="41" ordby="290" id="588" name="Target Population Age" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All ages</p></div>"/>
+    </field>
+    <field fieldid="42" ordby="300" id="589" name="Target Population Gender" type="picklist-one">
+      <fieldvalue value="Either male or female"/>
+    </field>
+  </section>
+  <section secid="660" ordby="310" name="National Strategy for Quality Improvement in Health Care">
+    <field fieldid="3522" ordby="320" id="661" name="National Quality Strategy Aim" type="text">
+      <fieldvalue value="<ul><li>Better Care</li></ul>"/>
+    </field>
+    <field fieldid="3525" ordby="330" id="662" name="National Quality Strategy Priority" type="text">
+      <fieldvalue value="<ul><li>Prevention and Treatment of Leading Causes of Mortality</li></ul>"/>
+    </field>
+  </section>
+  <section secid="590" ordby="340" name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <field fieldid="3163" ordby="350" id="591" name="IOM Care Need" type="picklist-choice">
+      <fieldvalue value="Getting Better"/>
+    </field>
+    <field fieldid="3164" ordby="360" id="592" name="IOM Domain" type="picklist-choice">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Timeliness"/>
+    </field>
+  </section>
+  <section secid="593" ordby="370" name="Data Collection for the Measure">
+    <field fieldid="3506" ordby="380" id="594" name="Case Finding Period" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Encounter dates: January 1 through December 31</p></div>"/>
+    </field>
+    <field fieldid="3054" ordby="390" id="595" name="Denominator Sampling Frame" type="picklist-one">
+      <fieldvalue value="Patients associated with provider"/>
+    </field>
+    <field fieldid="3057" ordby="400" id="598" name="Denominator (Index) Event or Characteristic" type="picklist-choice">
+      <fieldvalue value="Encounter"/>
+    </field>
+    <field fieldid="3058" ordby="410" id="599" name="Denominator Time Window" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="55" ordby="420" id="596" name="Denominator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Any emergency department (ED) patient from the facility's ED</p>
+<p><strong>Exclusions</strong><br />
+Patients who expired in the ED</p></div>"/>
+    </field>
+    <field fieldid="3507" ordby="430" id="597" name="Exclusions/Exceptions" type="picklist-choice-4">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="59" ordby="440" id="600" name="Numerator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+<em>Continuous variable statement</em>: Time (in minutes) from emergency department (ED) arrival to ED departure for patients discharged from the ED</p>
+<p><strong>Exclusions</strong><br />
+None</p></div>"/>
+    </field>
+    <field fieldid="3061" ordby="450" id="601" name="Numerator Search Strategy" type="picklist-one">
+      <fieldvalue value="Encounter"/>
+    </field>
+    <field fieldid="3062" ordby="460" id="602" name="Data Source" type="picklist-many">
+      <fieldvalue value="Administrative clinical data"/>
+      <fieldvalue value="Paper medical record"/>
+    </field>
+    <field fieldid="3065" ordby="470" id="603" name="Type of Health State" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3066" ordby="480" id="604" name="Instruments Used and/or Associated with the Measure" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>An electronic data collection tool is made available from vendors or facilities can download the free CART tool. Paper tools for manual abstraction are also available for the CART tool. These tools are posted on the <a href=&quot;http://www.qualitynet.org&quot; title=&quot;QualityNet Web site&quot;>QualityNet Web site</a>. </li>
+    <li>Emergency Department (ED) Throughput Hospital Outpatient Population Algorithm: OP-18 and OP-20 </li>
+    <li>Algorithm Narrative for OP-18 and OP-20: ED Throughput Hospital Outpatient Population </li>
+    <li>OP-18: Median Time from ED Arrival to ED Departure for Discharged ED Patients Algorithm </li>
+    <li>Algorithm Narrative for OP-18: Median Time from ED Arrival to ED Departure for Discharged ED Patients </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="605" ordby="490" name="Computation of the Measure">
+    <field fieldid="3508" ordby="500" id="606" name="Measure Specifies Disaggregation" type="picklist-one">
+      <fieldvalue value="Measure is disaggregated into categories based on different definitions of the denominator and/or numerator"/>
+    </field>
+    <field fieldid="3509" ordby="510" id="607" name="Basis for Disaggregation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is disaggregated according to the following categories:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Excluding psychiatric/mental health and transfer patients</li>
+    <li>Psychiatric/mental health patients </li>
+    <li>Transfer patients </li>
+</ul>
+<p><strong>Data Reported As</strong>: Aggregate measure of central tendency.</p></div>"/>
+    </field>
+    <field fieldid="3067" ordby="520" id="608" name="Scoring" type="picklist-many">
+      <fieldvalue value="Mean/Median"/>
+    </field>
+    <field fieldid="3068" ordby="530" id="609" name="Interpretation of Score" type="picklist-one">
+      <fieldvalue value="Desired value is a lower score"/>
+    </field>
+    <field fieldid="3090" ordby="540" id="610" name="Allowance for Patient or Population Factors" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3070" ordby="560" id="612" name="Standard of Comparison" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="615" ordby="590" name="Identifying Information">
+    <field fieldid="73" ordby="600" id="616" name="Original Title" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>OP-18: hospital outpatient ED-throughput: median time from ED arrival to ED departure for discharged ED patients.</p></div>"/>
+    </field>
+    <field fieldid="74" ordby="610" id="617" name="Measure Collection Name" type="text">
+      <fieldvalue value="Hospital Outpatient Quality Measures"/>
+    </field>
+    <field fieldid="75" ordby="620" id="618" name="Measure Set Name" type="text">
+      <fieldvalue value="Emergency Department (ED)-Throughput"/>
+    </field>
+    <field fieldid="16" ordby="650" id="621" name="Submitter" type="orglist">
+      <fieldvalue value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]"/>
+    </field>
+    <field fieldid="17" ordby="660" id="622" name="Developer" type="orglist-p">
+      <fieldvalue value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]"/>
+    </field>
+    <field fieldid="79" ordby="670" id="623" name="Funding Source(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>United States Department of Health and Human Services</p></div>"/>
+    </field>
+    <field fieldid="80" ordby="680" id="624" name="Composition of the Group that Developed the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The measure was developed by the Centers for Medicare &amp;amp; Medicaid Services (CMS) Contractor at the time, the Oklahoma Foundation for Medical Quality Contractor. The measure continues to be maintained by CMS and its current measure maintenance contractor, Mathematica Policy Research, in conjunction with a multi-disciplinary Technical Expert Panel.</p></div>"/>
+    </field>
+    <field fieldid="81" ordby="690" id="625" name="Financial Disclosures/Other Potential Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None</p></div>"/>
+    </field>
+    <field fieldid="82" ordby="700" id="626" name="Endorser" type="orglist">
+      <fieldvalue value="National Quality Forum - None"/>
+    </field>
+    <field fieldid="3091" ordby="705" id="696" name="NQF Number" type="plain-text">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3510" ordby="710" id="627" name="Date of Endorsement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>2017 Oct 3</p></div>"/>
+    </field>
+    <field fieldid="3083" ordby="720" id="628" name="Measure Initiative(s)" type="picklist-many">
+      <fieldvalue value="Hospital Compare"/>
+      <fieldvalue value="Hospital Outpatient Quality Reporting Program"/>
+    </field>
+    <field fieldid="19" ordby="730" id="629" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="3086" ordby="740" id="630" name="Date of Most Current Version in NQMC" type="date">
+      <fieldvalue value="2018 Jan"/>
+    </field>
+    <field fieldid="3511" ordby="750" id="631" name="Measure Maintenance" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Twice yearly</p></div>"/>
+    </field>
+    <field fieldid="3512" ordby="760" id="632" name="Date of Next Anticipated Revision" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="20" ordby="770" id="633" name="Measure Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 9.0a. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2016 Jan 1. various p. </p></div>"/>
+    </field>
+    <field fieldid="14" ordby="780" id="634" name="Measure Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Source available from the <a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier2&amp;amp;cid=1196289981244&quot; title=&quot;QualityNet Web site&quot;>QualityNet Web site</a>. </p>
+<p>Check the QualityNet Web site regularly for the most recent version of the specifications manual and for the applicable dates of discharge.</p></div>"/>
+    </field>
+    <field fieldid="87" ordby="800" id="636" name="NQMC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary was completed by ECRI Institute on May 7, 2014. The information was verified by the measure developer on July 3, 2014. </p>
+<p>This NQMC summary was updated by ECRI Institute on December 22, 2015. The information was verified by the measure developer on January 28, 2016.</p>
+<p>This NQMC summary was updated again by ECRI Institute on January 16, 2018. The information was verified by the measure developer on February 7, 2018.</p></div>"/>
+    </field>
+    <field fieldid="88" ordby="810" id="637" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>No copyright restrictions apply.</p>
+<p>The Hospital Outpatient Quality Reporting Specifications Manual is periodically updated by the Centers for Medicare &amp;amp; Medicaid Services. Users of the Hospital OQR Specifications Manual must update their software and associated documentation based on the published manual production timelines.</p></div>"/>
+    </field>
+  </section>
+  <section secid="641" ordby="850" name="Production">
+    <field fieldid="1" ordby="1366" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NQMC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 21:00:15 Jun 24, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:34:10 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 43.331 (3)
+  esindex: 0.009
+  captures_list: 61.604
+  CDXLines.iter: 12.57 (3)
+  PetaboxLoader3.datanode: 49.107 (4)
+  exclusion.robots: 0.3
+  exclusion.robots.policy: 0.28
+  RedisCDXSource: 0.947
+  PetaboxLoader3.resolve: 168.896
+  load_resource: 209.976
+-->

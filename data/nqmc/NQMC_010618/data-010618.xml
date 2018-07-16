@@ -1,0 +1,336 @@
+<version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlsource>
+  <section secid="560" ordby="10" name="General">
+    <field fieldid="11" ordby="20" id="561" name="Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Antibiotic utilization: summary of outpatient utilization of antibiotic prescriptions during the measurement year, stratified by age and gender.</div>"/>
+    </field>
+    <field fieldid="1" ordby="30" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 2, technical specifications for health plans. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="563" ordby="40" name="Measure Domain">
+    <field fieldid="3025" ordby="50" id="564" name="Primary Measure Domain" type="picklist-one">
+      <fieldvalue value="Related Health Care Delivery Measures: Use of Services"/>
+    </field>
+    <field fieldid="3026" ordby="60" id="565" name="Secondary Measure Domain" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+  </section>
+  <section secid="566" ordby="70" name="Brief Abstract">
+    <field fieldid="34" ordby="80" id="567" name="Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure summarizes the following data on outpatient utilization of antibiotic prescriptions during the measurement year, stratified by age and gender:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Total number of antibiotic prescriptions </li>
+    <li>Average number of antibiotic prescriptions per member per year (PMPY) </li>
+    <li>Total days supplied for all antibiotic prescriptions </li>
+    <li>Average days supplied per antibiotic prescription </li>
+    <li>Total number of prescriptions for antibiotics of concern </li>
+    <li>Average number of prescriptions PMPY for antibiotics of concern </li>
+    <li>Percentage of antibiotics of concern for all antibiotic prescriptions </li>
+    <li>Average number of antibiotics PMPY, reported by drug class:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>For selected &quot;antibiotics of concern&quot; </li>
+        <li>For all other antibiotics </li>
+    </ul>
+    </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="21" ordby="90" id="568" name="Rationale" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Measures in the HEDIS Use of Services domain gather information about how organizations manage the provision of member care and how they use and manage resources. Use of services is affected by many member characteristics, which can vary greatly among organizations, and include age and sex, current medical condition, socioeconomic status and regional practice patterns (Medicare Payment Advisory Commission [MeDPAC], 2007).</p>
+<p>This measure assesses the number of all antibiotic prescriptions to enrolled members, as well as antibiotics of concern, to encourage plans to reduce potential overuse, which may contribute to drug resistance.</p></div>"/>
+    </field>
+    <field fieldid="3500" ordby="100" id="569" name="Evidence for Rationale" type="citation">
+      <fieldvalue value="<table><tr><td>Medicare Payment Advisory Commission (MedPAC). Report to congress: promoting greater efficiency in Medicare. Medicare Payment Advisory Commission (MedPAC); 2007. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. </td></tr></table>"/>
+    </field>
+    <field fieldid="3022" ordby="110" id="570" name="Primary Health Components" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Antibiotic prescriptions</p></div>"/>
+    </field>
+    <field fieldid="23" ordby="120" id="571" name="Denominator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>For commercial, Medicaid, and Medicare product lines, all member months for the measurement year for members with the pharmacy benefit, stratified by age and gender (see the related &quot;Denominator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+    <field fieldid="24" ordby="130" id="572" name="Numerator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure summarizes the following data on outpatient utilization of antibiotic prescriptions during the measurement year, stratified by age and gender:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Total number of antibiotic prescriptions </li>
+    <li>Average number of antibiotic prescriptions per member per year (PMPY) </li>
+    <li>Total days supplied for all antibiotic prescriptions </li>
+    <li>Average days supplied per antibiotic prescription </li>
+    <li>Total number of prescriptions for antibiotics of concern </li>
+    <li>Average number of prescriptions PMPY for antibiotics of concern </li>
+    <li>Percentage of antibiotics of concern for all antibiotic prescriptions </li>
+    <li>Average number of antibiotics PMPY, reported by drug class:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>For selected &quot;antibiotics of concern&quot; </li>
+        <li>For all other antibiotics </li>
+    </ul>
+    </li>
+</ul>
+<p>See the related &quot;Numerator Inclusions/Exclusions&quot; field.</p></div>"/>
+    </field>
+  </section>
+  <section secid="573" ordby="140" name="Evidence Supporting the Measure">
+    <field fieldid="3027" ordby="150" id="574" name="Type of Evidence Supporting the Criterion of Quality for the Measure" type="picklist-choice">
+      <fieldvalue value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences"/>
+    </field>
+    <field fieldid="3501" ordby="160" id="575" name="Additional Information Supporting Need for the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3072" ordby="180" id="577" name="Extent of Measure Testing" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All HEDIS measures undergo systematic assessment of face validity with review by measurement advisory panels, expert panels, a formal public comment process and approval by the National Committee for Quality Assurance's (NCQA's) Committee on Performance Measurement and Board of Directors. Where applicable, measures also are assessed for construct validity using the Pearson correlation test. All measures undergo formal reliability testing of the performance measure score using beta-binomial statistical analysis.</p></div>"/>
+    </field>
+    <field fieldid="3007" ordby="190" id="578" name="Evidence for Extent of Measure Testing" type="citation">
+      <fieldvalue value="<table><tr><td>Rehm B. (Assistant Vice President, Performance Measurement, National Committee  for Quality Assurance, Washington, DC). Personal communication. 2015 Mar 16. &amp;nbsp;1 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="580" ordby="210" name="State of Use of the Measure">
+    <field fieldid="3029" ordby="220" id="581" name="State of Use" type="picklist-one">
+      <fieldvalue value="Current routine use"/>
+    </field>
+    <field fieldid="3030" ordby="230" id="582" name="Current Use" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="583" ordby="240" name="Application of the Measure in its Current Use">
+    <field fieldid="3031" ordby="250" id="584" name="Measurement Setting" type="picklist-choice">
+      <fieldvalue value="Ambulatory/Office-based Care"/>
+      <fieldvalue value="Hospital Outpatient"/>
+      <fieldvalue value="Managed Care Plans"/>
+    </field>
+    <field fieldid="3032" ordby="260" id="585" name="Professionals Involved in Delivery of Health Services" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3033" ordby="270" id="586" name="Least Aggregated Level of Services Delivery Addressed" type="picklist-one">
+      <fieldvalue value="Single Health Care Delivery or Public Health Organizations"/>
+    </field>
+    <field fieldid="3505" ordby="280" id="587" name="Statement of Acceptable Minimum Sample Size" type="picklist-one">
+      <fieldvalue value="Unspecified"/>
+    </field>
+    <field fieldid="41" ordby="290" id="588" name="Target Population Age" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All ages</p></div>"/>
+    </field>
+    <field fieldid="42" ordby="300" id="589" name="Target Population Gender" type="picklist-one">
+      <fieldvalue value="Either male or female"/>
+    </field>
+  </section>
+  <section secid="660" ordby="310" name="National Strategy for Quality Improvement in Health Care">
+    <field fieldid="3525" ordby="330" id="662" name="National Quality Strategy Priority" type="text">
+      <fieldvalue value="<ul></ul>"/>
+    </field>
+  </section>
+  <section secid="590" ordby="340" name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <field fieldid="3163" ordby="350" id="591" name="IOM Care Need" type="picklist-choice">
+      <fieldvalue value="Not within an IOM Care Need"/>
+    </field>
+    <field fieldid="3164" ordby="360" id="592" name="IOM Domain" type="picklist-choice">
+      <fieldvalue value="Not within an IOM Domain"/>
+    </field>
+  </section>
+  <section secid="593" ordby="370" name="Data Collection for the Measure">
+    <field fieldid="3506" ordby="380" id="594" name="Case Finding Period" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The measurement year</p></div>"/>
+    </field>
+    <field fieldid="3054" ordby="390" id="595" name="Denominator Sampling Frame" type="picklist-one">
+      <fieldvalue value="Enrollees or beneficiaries"/>
+    </field>
+    <field fieldid="3057" ordby="400" id="598" name="Denominator (Index) Event or Characteristic" type="picklist-choice">
+      <fieldvalue value="Patient/Individual (Consumer) Characteristic"/>
+    </field>
+    <field fieldid="3058" ordby="410" id="599" name="Denominator Time Window" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="55" ordby="420" id="596" name="Denominator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+For commercial, Medicaid, and Medicare product lines, all member months for the measurement year for members with the pharmacy benefit, stratified by age and gender. Refer to <em>Specific Instructions for Use of Service Tables</em> in the original measure documentation for more information.</p>
+<p><strong>Exclusions</strong><br />
+Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3507" ordby="430" id="597" name="Exclusions/Exceptions" type="picklist-choice-4">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="59" ordby="440" id="600" name="Numerator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+This measure summarizes the following data on outpatient utilization of antibiotic prescriptions during the measurement year, stratified by age and gender:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><em>Total number of antibiotic prescriptions</em>. Total number of all antibiotic prescriptions for the measurement year of any duration of the medication. </li>
+    <li><em>Average number of antibiotic prescriptions per member per year (PMPY)</em>. Annual total number of antibiotic prescriptions PMPY = [Total number of antibiotic prescriptions in the year/member months for members with a pharmacy benefit] x 12 months. </li>
+    <li><em>Total days supplied for all antibiotic prescriptions</em>. Count the number of days supplied for all antibiotic prescriptions during the measurement year. Identify the number of days supplied for each antibiotic prescription and sum the days for all antibiotic prescriptions during the measurement year. </li>
+    <li><em>Average number of days supplied per antibiotic prescription</em>. Average number of days supplied per prescription = [Total days supplied for all antibiotics prescriptions in the year/Total number of antibiotic prescriptions in the year] </li>
+    <li><em>Total number of prescriptions for antibiotics of concern</em>. Total number of all prescriptions for antibiotics of concern during the measurement year. </li>
+    <li><em>Average number of prescriptions PMPY for antibiotics of concern</em>. Annual total number of prescriptions for antibiotics of concern PMPY = [Annual number of prescriptions for antibiotics of concern/member months for members with a pharmacy benefit] x 12 months. </li>
+    <li><em>Percentage of antibiotics of concern of all antibiotic prescriptions</em>. Percentage of prescriptions for antibiotics of concern of all antibiotic prescriptions = [Total number of prescriptions for antibiotics of concern in the year/Total number of antibiotic prescriptions in the year]. </li>
+    <li><em>Average number of antibiotics PMPY reported by drug class</em>. Utilization of antibiotic prescriptions by drug class for the following:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li><em>Antibiotics of concern</em>. Utilization of antibiotics of concern by the following antibiotic drug classes:
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>Amoxicillin/clavulanate </li>
+            <li>Azithromycin and clarithromycin </li>
+            <li>Cephalosporin (includes second, third, and fourth-generation cephalosporins) </li>
+            <li>Clindamycin </li>
+            <li>Ketolide </li>
+            <li>Quinolone </li>
+            <li>Miscellaneous antibiotics of concern </li>
+        </ul>
+        </li>
+        <li><em>All other antibiotics</em>. Utilization of all other antibiotics by the following antibiotic drug classes:
+        <ul style=&quot;list-style-type: disc;&quot;>
+            <li>Absorbable sulfonamide </li>
+            <li>Aminoglycoside </li>
+            <li>Cephalosporin (includes first generation only) </li>
+            <li>Lincosamide (other than clindamycin) </li>
+            <li>Macrolide (other than azithromycin and clarithromycin) </li>
+            <li>Penicillin (other than amoxicillin/clavulanate) </li>
+            <li>Tetracycline </li>
+            <li>Miscellaneous antibiotics </li>
+        </ul>
+        </li>
+    </ul>
+    </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: Refer to Tables ABX-A in the original measure documentation for a list of antibiotic medications, ABX-B for a list of antibiotics of concern by NCQA drug class, and ABX-C for a list of all other antibiotics by NCQA drug class.</p>
+<p><strong>Exclusions</strong><br />
+Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3061" ordby="450" id="601" name="Numerator Search Strategy" type="picklist-one">
+      <fieldvalue value="Fixed time period or point in time"/>
+    </field>
+    <field fieldid="3062" ordby="460" id="602" name="Data Source" type="picklist-many">
+      <fieldvalue value="Administrative clinical data"/>
+      <fieldvalue value="Pharmacy data"/>
+    </field>
+    <field fieldid="3065" ordby="470" id="603" name="Type of Health State" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3066" ordby="480" id="604" name="Instruments Used and/or Associated with the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+  </section>
+  <section secid="605" ordby="490" name="Computation of the Measure">
+    <field fieldid="3508" ordby="500" id="606" name="Measure Specifies Disaggregation" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3067" ordby="520" id="608" name="Scoring" type="picklist-many">
+      <fieldvalue value="Rate/Proportion"/>
+      <fieldvalue value="Ratio"/>
+    </field>
+    <field fieldid="3068" ordby="530" id="609" name="Interpretation of Score" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure (i.e., there is no pre-defined preference for the measure score)"/>
+    </field>
+    <field fieldid="3090" ordby="540" id="610" name="Allowance for Patient or Population Factors" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3069" ordby="550" id="611" name="Description of Allowance for Patient or Population Factors" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure requires that separate rates be reported for commercial&amp;ndash;by product or combined HMO/POS, total Medicaid, Medicaid/Medicare dual-eligibles, Medicaid&amp;ndash;disabled, Medicaid&amp;ndash;other low income, and Medicare product lines.</p>
+<p>Measure results are stratified by age and gender.</p></div>"/>
+    </field>
+    <field fieldid="3070" ordby="560" id="612" name="Standard of Comparison" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="615" ordby="590" name="Identifying Information">
+    <field fieldid="73" ordby="600" id="616" name="Original Title" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Antibiotic utilization (ABX).</p></div>"/>
+    </field>
+    <field fieldid="74" ordby="610" id="617" name="Measure Collection Name" type="text">
+      <fieldvalue value="HEDIS 2016: Health Plan Collection"/>
+    </field>
+    <field fieldid="75" ordby="620" id="618" name="Measure Set Name" type="text">
+      <fieldvalue value="Utilization and Risk Adjusted Utilization"/>
+    </field>
+    <field fieldid="77" ordby="630" id="619" name="Measure Subset Name" type="text">
+      <fieldvalue value="Utilization"/>
+    </field>
+    <field fieldid="16" ordby="650" id="621" name="Submitter" type="orglist">
+      <fieldvalue value="National Committee for Quality Assurance - Health Care Accreditation Organization"/>
+    </field>
+    <field fieldid="17" ordby="660" id="622" name="Developer" type="orglist-p">
+      <fieldvalue value="National Committee for Quality Assurance - Health Care Accreditation Organization"/>
+    </field>
+    <field fieldid="79" ordby="670" id="623" name="Funding Source(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="80" ordby="680" id="624" name="Composition of the Group that Developed the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>National Committee for Quality Assurance's (NCQA's) Measurement Advisory Panels (MAPs) are composed of clinical and research experts with an understanding of quality performance measurement in the particular clinical content areas.</p></div>"/>
+    </field>
+    <field fieldid="81" ordby="690" id="625" name="Financial Disclosures/Other Potential Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>In order to fulfill National Committee for Quality Assurance's (NCQA's) mission and vision of improving health care quality through measurement, transparency and accountability, all participants in NCQA's expert panels are required to disclose potential conflicts of interest prior to their participation. The goal of this Conflict Policy is to ensure that decisions which impact development of NCQA's products and services are made as objectively as possible, without improper bias or influence.</p></div>"/>
+    </field>
+    <field fieldid="19" ordby="730" id="629" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="3086" ordby="740" id="630" name="Date of Most Current Version in NQMC" type="date">
+      <fieldvalue value="2015 Oct"/>
+    </field>
+    <field fieldid="3511" ordby="750" id="631" name="Measure Maintenance" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3512" ordby="760" id="632" name="Date of Next Anticipated Revision" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="20" ordby="770" id="633" name="Measure Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p>
+<p>This measure updates previous versions: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>National Committee for Quality Assurance (NCQA). HEDIS 2015: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2014. various p. </li>
+    <li>National Committee for Quality Assurance (NCQA). HEDIS 2015: Healthcare Effectiveness Data and Information Set. Vol. 2, technical specifications for health plans. Washington (DC): National Committee for Quality Assurance (NCQA); 2014. various p. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="14" ordby="780" id="634" name="Measure Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Source available for purchase from the <a href=&quot;http://store.ncqa.org/index.php/performance-measurement.html&quot; title=&quot;NCQA Web site&quot;>National Committee for Quality Measurement (NCQA) Web site</a>. </p>
+<p>For more information, contact NCQA at 1100 13th Street, NW, Suite 1000, Washington, DC 20005; Phone: 202-955-3500; Fax: 202-955-3599; Web site: <a href=&quot;http://www.ncqa.org/&quot; title=&quot;NCQA Web site&quot;>www.ncqa.org</a>.</p></div>"/>
+    </field>
+    <field fieldid="15" ordby="790" id="635" name="Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 2, technical update. Washington (DC): National Committee for Quality Assurance (NCQA); 2015 Oct 1. 12 p. </li>
+</ul>
+<p>For more information, contact the National Committee for Quality Assurance (NCQA) at 1100 13th Street, NW, Suite 1000, Washington, DC 20005; Phone: 202-955-3500; Fax: 202-955-3599; Web site: <a href=&quot;http://www.ncqa.org/&quot; title=&quot;NCQA Web site&quot;>www.ncqa.org</a>.</p></div>"/>
+    </field>
+    <field fieldid="87" ordby="800" id="636" name="NQMC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary was completed by ECRI Institute on March 27, 2009. The information was verified by the measure developer on May 29, 2009. </p>
+<p>This NQMC summary was updated by ECRI Institute on February 8, 2010 and on June 8, 2011. </p>
+<p>This NQMC summary was retrofitted into the new template on July 4, 2011. </p>
+<p>This NQMC summary was updated by ECRI Institute on October 5, 2012, August 5, 2013, March 3, 2014, April 10, 2015, and again on March 29, 2016.</p></div>"/>
+    </field>
+    <field fieldid="88" ordby="810" id="637" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.</p>
+<p>For detailed specifications regarding the National Committee on Quality Assurance (NCQA) measures, refer to <em>HEDIS Volume 2: Technical Specifications for Health Plans</em>, available from the NCQA Web site at <a href=&quot;http://www.ncqa.org/&quot; title=&quot;NCQA Web site&quot;>www.ncqa.org</a>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="641" ordby="850" name="Production">
+    <field fieldid="1" ordby="1366" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 1, narrative. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National Committee for Quality Assurance (NCQA). HEDIS 2016: Healthcare Effectiveness Data and Information Set. Vol. 2, technical specifications for health plans. Washington (DC): National Committee for Quality Assurance (NCQA); 2015. various p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NQMC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 02:06:25 Jul 06, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:38:23 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 407.355 (3)
+  esindex: 0.007
+  captures_list: 437.547
+  CDXLines.iter: 15.48 (3)
+  PetaboxLoader3.datanode: 107.425 (4)
+  exclusion.robots: 0.439
+  exclusion.robots.policy: 0.418
+  RedisCDXSource: 8.146
+  PetaboxLoader3.resolve: 379.577 (2)
+  load_resource: 152.16
+-->

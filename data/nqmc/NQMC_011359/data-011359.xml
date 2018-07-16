@@ -1,0 +1,296 @@
+<version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlsource>
+  <section secid="560" ordby="10" name="General">
+    <field fieldid="11" ordby="20" id="561" name="Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Stroke: percentage of ED acute ischemic stroke or hemorrhagic stroke patients who arrive at the ED within 2 hours of the onset of symptoms who have a head CT or MRI scan performed during the stay and having a time from ED arrival to interpretation of the head CT or MRI scan within 45 minutes of arrival.</div>"/>
+    </field>
+    <field fieldid="1" ordby="30" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="563" ordby="40" name="Measure Domain">
+    <field fieldid="3025" ordby="50" id="564" name="Primary Measure Domain" type="picklist-one">
+      <fieldvalue value="Clinical Quality Measures: Process"/>
+    </field>
+    <field fieldid="3026" ordby="60" id="565" name="Secondary Measure Domain" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+  </section>
+  <section secid="566" ordby="70" name="Brief Abstract">
+    <field fieldid="34" ordby="80" id="567" name="Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is used to assess the percentage of emergency department (ED) acute ischemic stroke or hemorrhagic stroke patients who arrive at the ED within 2 hours of the onset of symptoms who have a head computed tomography (CT) or magnetic resonance imaging (MRI) scan performed during the stay and having a time from ED arrival to interpretation of the head CT or MRI scan within 45 minutes of arrival.</p></div>"/>
+    </field>
+    <field fieldid="21" ordby="90" id="568" name="Rationale" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Improved access to diagnostic imaging assists clinicians in the decision making process and treatment plans. Over 143,579 people die each year from stroke (The Internet Stroke Center, 2009). Stroke is the third leading cause of death in the United States. Each year, about 795,000 people suffer a stroke. About 600,000 of these are first attacks, and 185,000 are recurrent attacks (Lloyd-Jones et al., 2009). Decreasing radiology turnaround times will enhance decision making capabilities for patients with transient ischemic attack (TIA) or acute ischemic stroke. The Food and Drug Administration (FDA) approved the use of tissue plasminogen activator (t-PA) for treatment of acute ischemic stroke when given within three hours of stroke symptom onset (Brott et al., 2000). Of all strokes, 87 percent are ischemic, 10 percent are intracerebral hemorrhage, and 3 percent are subarachnoid hemorrhage (Hacke et al., 2004). Because of the therapeutic time window for treatment possibilities, timely completion and results of the computed tomography (CT) or magnetic resonance imaging (MRI) scan are imperative and play a role in determining the quality of care a patient receives. Clinical consensus indicates that stroke treatment is most effective when administered rapidly based on interpretation of real-time intracranial imaging. </p>
+<p>Improved access to diagnostics assists clinicians in decision making. Diagnostic imaging and laboratory reports are expected to increase length of stay in the emergency department. Radiology report turnaround time can impact patient throughput times in the emergency department (DeFlorio et al., 2008). Decreasing radiology report turnaround times can have impacts across the facility and assist in reducing the length of stay and enhancing decision making capabilities for patient treatment plans (Marquez, 2005). Efficiencies in throughput with tasks can lead to less diversion, less overcrowding, less elopements, and less financial loss (Falvo et al., 2007).</p></div>"/>
+    </field>
+    <field fieldid="3500" ordby="100" id="569" name="Evidence for Rationale" type="citation">
+      <fieldvalue value="<table><tr><td>Brott TG, Clark WM, Fagan SC, Grotta JC, Hopkins LN, Jauch EC, Latchaw RE, Starkman S. Stroke: the first hours. Guidelines for acute treatment. Englewood (CO): National Stroke Association (NSA); 2000. 14 p.  [76 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>DeFlorio R, Coughlin B, Coughlin R, Li H, Santoro J, Akey B, Favreau M. Process modification and emergency department radiology service. Emerg Radiol. 2008 Nov;15(6):405-12. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18665405&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Falvo T, Grove L, Stachura R, Zirkin W. The financial impact of ambulance diversions and patient elopements. Acad Emerg Med. 2007 Jan;14(1):58-62. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17200514&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Hacke W, Donnan G, Fieschi C, Kaste M, von Kummer R, Broderick JP, Brott T, Frankel M, Grotta JC, Haley EC, Kwiatkowski T, Levine SR, Lewandowski C, Lu M, Lyden P, Marler JR, Patel S, Tilley BC, Albers G, Bluhmki E, Wilhelm M, Hamilton S, ATLANTIS Trials Investigators, ECASS Trials Investigators, NINDS rt-PA Study Group Investigators. Association of outcome with early stroke treatment: pooled analysis of ATLANTIS, ECASS, and NINDS rt-PA stroke trials. Lancet. 2004 Mar 6;363(9411):768-74. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15016487&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Lloyd-Jones D, Adams R, Carnethon M, De Simone G, Ferguson TB, Flegal K, Ford E, Furie K, Go A, Greenlund K, Haase N, Hailpern S, Ho M, Howard V, Kissela B, Kittner S, Lackland D, Lisabeth L, Marelli A, McDermott M, Meigs J, Mozaffarian D, Nichol G, O'Donnell C, Roger V, Rosamond W, Sacco R, Sorlie P, Stafford R, Steinberger J, Thom T, Wasserthiel-Smoller S, Wong N, Wylie-Rosett J, Hong Y, American Heart Association Statistics Committee and Stroke Statistics Subcommittee. Heart disease and stroke statistics--2009 update: a report from the American Heart Association Statistics Committee and Stroke Statistics Subcommittee. Circulation. 2009 Jan 27;119(3):480-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19171871&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Marquez LO. Improving medical imaging report turnaround times. Radiol Manage. 2005 Jan-Feb;27(1):34-7.</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>The Internet Stroke Center. Stroke statistics. [internet]. Dallas (TX): The Internet Stroke Center; 2009.&amp;nbsp;</td></tr></table>"/>
+    </field>
+    <field fieldid="3022" ordby="110" id="570" name="Primary Health Components" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Acute ischemic stroke; hemorrhagic stroke; computed tomography (CT); magnetic resonance imaging (MRI); scan interpretation</p></div>"/>
+    </field>
+    <field fieldid="23" ordby="120" id="571" name="Denominator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Emergency department (ED) acute ischemic stroke or hemorrhagic stroke patients arriving at the ED within 2 hours of the <em>Time Last Known Well</em> (as defined in the Data Dictionary) with an order for a head computed tomography (CT) or magnetic resonance imaging (MRI) scan</p>
+<p>Included populations:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients with an <em>International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) Principal Diagnosis Code</em> for acute ischemic stroke, or hemorrhagic stroke (as defined in Appendix A, OP Table 8.0 of the original measure documentation); and </li>
+    <li>Patients who had a <em>Head CT or MRI Scan Order</em> (as defined in the Data Dictionary); and </li>
+    <li>An <em>Evaluation and Management (E/M) Code</em> for ED encounter (as defined in Appendix A, OP Table 1.0 of the original measure documentation) </li>
+</ul>
+<p>See the related &quot;Denominator Inclusions/Exclusions&quot; field.</p></div>"/>
+    </field>
+    <field fieldid="24" ordby="130" id="572" name="Numerator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Emergency department (ED) acute ischemic stroke or hemorrhagic stroke patients arriving at the ED within 2 hours of the time last known well, with an order for a head computed tomography (CT) or magnetic resonance imaging (MRI) scan whose time from ED arrival to interpretation of the head CT scan is within 45 minutes of arrival</p></div>"/>
+    </field>
+  </section>
+  <section secid="573" ordby="140" name="Evidence Supporting the Measure">
+    <field fieldid="3027" ordby="150" id="574" name="Type of Evidence Supporting the Criterion of Quality for the Measure" type="picklist-choice">
+      <fieldvalue value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence"/>
+      <fieldvalue value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal"/>
+    </field>
+    <field fieldid="3501" ordby="160" id="575" name="Additional Information Supporting Need for the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3072" ordby="180" id="577" name="Extent of Measure Testing" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is being collected by hospitals paid under the Outpatient Prospective Payment System; about 4,000 hospitals across the nation. The measure has been collected since January 1, 2012. In 2015, validity testing of critical data elements was performed on this measure for the measure period of January 1, 2014 to December 31, 2014.</p></div>"/>
+    </field>
+    <field fieldid="3007" ordby="190" id="578" name="Evidence for Extent of Measure Testing" type="citation">
+      <fieldvalue value="<table><tr><td>National Quality Forum (NQF). Neurology 2015-2016. [internet]. Washington (DC): National Quality Forum (NQF); 2015&amp;nbsp;[accessed 2016 Jan 28]. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Rosenstein D. (Policy Analyst, Mathematica Policy Research, Princeton, NJ). Personal communication. 2016 Jan 28. &amp;nbsp;1 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="580" ordby="210" name="State of Use of the Measure">
+    <field fieldid="3029" ordby="220" id="581" name="State of Use" type="picklist-one">
+      <fieldvalue value="Current routine use"/>
+    </field>
+    <field fieldid="3030" ordby="230" id="582" name="Current Use" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="583" ordby="240" name="Application of the Measure in its Current Use">
+    <field fieldid="3031" ordby="250" id="584" name="Measurement Setting" type="picklist-choice">
+      <fieldvalue value="Emergency Department"/>
+      <fieldvalue value="Hospital Outpatient"/>
+    </field>
+    <field fieldid="3032" ordby="260" id="585" name="Professionals Involved in Delivery of Health Services" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3033" ordby="270" id="586" name="Least Aggregated Level of Services Delivery Addressed" type="picklist-one">
+      <fieldvalue value="Single Health Care Delivery or Public Health Organizations"/>
+    </field>
+    <field fieldid="3505" ordby="280" id="587" name="Statement of Acceptable Minimum Sample Size" type="picklist-one">
+      <fieldvalue value="Specified"/>
+    </field>
+    <field fieldid="41" ordby="290" id="588" name="Target Population Age" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Age greater than or equal to 18 years</p></div>"/>
+    </field>
+    <field fieldid="42" ordby="300" id="589" name="Target Population Gender" type="picklist-one">
+      <fieldvalue value="Either male or female"/>
+    </field>
+  </section>
+  <section secid="660" ordby="310" name="National Strategy for Quality Improvement in Health Care">
+    <field fieldid="3522" ordby="320" id="661" name="National Quality Strategy Aim" type="text">
+      <fieldvalue value="<ul><li>Better Care</li></ul>"/>
+    </field>
+    <field fieldid="3525" ordby="330" id="662" name="National Quality Strategy Priority" type="text">
+      <fieldvalue value="<ul><li>Prevention and Treatment of Leading Causes of Mortality</li></ul>"/>
+    </field>
+  </section>
+  <section secid="590" ordby="340" name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <field fieldid="3163" ordby="350" id="591" name="IOM Care Need" type="picklist-choice">
+      <fieldvalue value="Getting Better"/>
+    </field>
+    <field fieldid="3164" ordby="360" id="592" name="IOM Domain" type="picklist-choice">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Timeliness"/>
+    </field>
+  </section>
+  <section secid="593" ordby="370" name="Data Collection for the Measure">
+    <field fieldid="3506" ordby="380" id="594" name="Case Finding Period" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Encounter dates: January 1 through December 31</p></div>"/>
+    </field>
+    <field fieldid="3054" ordby="390" id="595" name="Denominator Sampling Frame" type="picklist-one">
+      <fieldvalue value="Patients associated with provider"/>
+    </field>
+    <field fieldid="3057" ordby="400" id="598" name="Denominator (Index) Event or Characteristic" type="picklist-choice">
+      <fieldvalue value="Clinical Condition"/>
+      <fieldvalue value="Diagnostic Evaluation"/>
+      <fieldvalue value="Encounter"/>
+      <fieldvalue value="Patient/Individual (Consumer) Characteristic"/>
+    </field>
+    <field fieldid="3058" ordby="410" id="599" name="Denominator Time Window" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="55" ordby="420" id="596" name="Denominator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Emergency department (ED) acute ischemic stroke or hemorrhagic stroke patients arriving at the ED within 2 hours of the <em>Time Last Known Well</em> (as defined in the Data Dictionary) with an order for a head computed tomography (CT) or magnetic resonance imaging (MRI) scan</p>
+<p>Included populations:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients with an <em>International Classification of Diseases, Tenth Revision, Clinical Modification (ICD-10-CM) Principal Diagnosis Code</em> for acute ischemic stroke, or hemorrhagic stroke (as defined in Appendix A, OP Table 8.0 of the original measure documentation); and </li>
+    <li>Patients who had a <em>Head CT or MRI Scan Order</em> (as defined in the Data Dictionary); and </li>
+    <li>An <em>Evaluation and Management (E/M) Code</em> for ED encounter (as defined in Appendix A, OP Table 1.0 of the original measure documentation) </li>
+</ul>
+<p><strong>Exclusions</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Patients less than 18 years of age </li>
+    <li>Patients who expired </li>
+    <li>Patients who left the ED against medical advice or discontinued care </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="3507" ordby="430" id="597" name="Exclusions/Exceptions" type="picklist-choice-4">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="59" ordby="440" id="600" name="Numerator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Emergency department (ED) acute ischemic stroke or hemorrhagic stroke patients arriving at the ED within 2 hours of the time last known well, with an order for a head computed tomography (CT) or magnetic resonance imaging (MRI) scan whose time from ED arrival to interpretation of the head CT scan is within 45 minutes of arrival</p>
+<p><strong>Exclusions</strong><br />
+None</p></div>"/>
+    </field>
+    <field fieldid="3061" ordby="450" id="601" name="Numerator Search Strategy" type="picklist-one">
+      <fieldvalue value="Encounter"/>
+    </field>
+    <field fieldid="3062" ordby="460" id="602" name="Data Source" type="picklist-many">
+      <fieldvalue value="Administrative clinical data"/>
+      <fieldvalue value="Paper medical record"/>
+    </field>
+    <field fieldid="3065" ordby="470" id="603" name="Type of Health State" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3066" ordby="480" id="604" name="Instruments Used and/or Associated with the Measure" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>A software application designed for the collection and analysis of quality improvement data, the CMS Abstraction and Reporting Tool (CART), is available from the <a href=&quot;http://www.qualitynet.org&quot; title=&quot;QualityNet Web site&quot;>QualityNet Web site</a>. </li>
+    <li>Stroke Hospital Outpatient Population Algorithm: OP-23 </li>
+    <li>Algorithm Narrative for OP-23: Stroke Hospital Outpatient Population </li>
+    <li>OP-23: Head Computed Tomography (CT) or Magnetic Resonance Imaging (MRI) Scan Results for Acute Ischemic Stroke or Hemorrhagic Stroke Patients who Received Head CT or MRI Scan Interpretation Within 45 Minutes of ED Arrival Algorithm </li>
+    <li>Algorithm Narrative for OP-23: Head CT or MRI Scan Results for Acute Ischemic Stroke or Hemorrhagic Stroke Patients who Received Head CT or MRI Scan Interpretation Within 45 Minutes of ED Arrival </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="605" ordby="490" name="Computation of the Measure">
+    <field fieldid="3508" ordby="500" id="606" name="Measure Specifies Disaggregation" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3067" ordby="520" id="608" name="Scoring" type="picklist-many">
+      <fieldvalue value="Rate/Proportion"/>
+    </field>
+    <field fieldid="3068" ordby="530" id="609" name="Interpretation of Score" type="picklist-one">
+      <fieldvalue value="Desired value is a higher score"/>
+    </field>
+    <field fieldid="3090" ordby="540" id="610" name="Allowance for Patient or Population Factors" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3070" ordby="560" id="612" name="Standard of Comparison" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="615" ordby="590" name="Identifying Information">
+    <field fieldid="73" ordby="600" id="616" name="Original Title" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>OP-23: hospital outpatient stroke: head CT or MRI scan results for acute ischemic stroke or hemorrhagic stroke patients who received head CT or MRI scan interpretation within 45 minutes of ED arrival.</p></div>"/>
+    </field>
+    <field fieldid="74" ordby="610" id="617" name="Measure Collection Name" type="text">
+      <fieldvalue value="Hospital Outpatient Quality Measures"/>
+    </field>
+    <field fieldid="75" ordby="620" id="618" name="Measure Set Name" type="text">
+      <fieldvalue value="Stroke"/>
+    </field>
+    <field fieldid="16" ordby="650" id="621" name="Submitter" type="orglist">
+      <fieldvalue value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]"/>
+    </field>
+    <field fieldid="17" ordby="660" id="622" name="Developer" type="orglist-p">
+      <fieldvalue value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]"/>
+    </field>
+    <field fieldid="79" ordby="670" id="623" name="Funding Source(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>United States Department of Health and Human Services</p></div>"/>
+    </field>
+    <field fieldid="80" ordby="680" id="624" name="Composition of the Group that Developed the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The measure was developed by the Centers for Medicare &amp;amp; Medicaid Services (CMS) Contractor at the time, the Oklahoma Foundation for Medical Quality Contractor. The measure continues to be maintained by CMS and its current measure maintenance contractor, Mathematica Policy Research, in conjunction with a multi-disciplinary Technical Expert Panel.</p></div>"/>
+    </field>
+    <field fieldid="81" ordby="690" id="625" name="Financial Disclosures/Other Potential Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None</p></div>"/>
+    </field>
+    <field fieldid="82" ordby="700" id="626" name="Endorser" type="orglist">
+      <fieldvalue value="National Quality Forum - None"/>
+    </field>
+    <field fieldid="3091" ordby="705" id="696" name="NQF Number" type="plain-text">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3510" ordby="710" id="627" name="Date of Endorsement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>2017 Oct 3</p></div>"/>
+    </field>
+    <field fieldid="3083" ordby="720" id="628" name="Measure Initiative(s)" type="picklist-many">
+      <fieldvalue value="Hospital Compare"/>
+      <fieldvalue value="Hospital Outpatient Quality Reporting Program"/>
+    </field>
+    <field fieldid="19" ordby="730" id="629" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="3086" ordby="740" id="630" name="Date of Most Current Version in NQMC" type="date">
+      <fieldvalue value="2018 Jan"/>
+    </field>
+    <field fieldid="3511" ordby="750" id="631" name="Measure Maintenance" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Twice yearly</p></div>"/>
+    </field>
+    <field fieldid="3512" ordby="760" id="632" name="Date of Next Anticipated Revision" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="20" ordby="770" id="633" name="Measure Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 9.0a. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2016 Jan 1. various p.</p></div>"/>
+    </field>
+    <field fieldid="14" ordby="780" id="634" name="Measure Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Source available from the <a href=&quot;https://www.qualitynet.org/dcs/ContentServer?c=Page&amp;amp;pagename=QnetPublic%2FPage%2FQnetTier2&amp;amp;cid=1196289981244&quot; title=&quot;QualityNet Web site&quot;>QualityNet Web site</a>. </p>
+<p>Check the QualityNet Web site regularly for the most recent version of the specifications manual and for the applicable dates of discharge.</p></div>"/>
+    </field>
+    <field fieldid="87" ordby="800" id="636" name="NQMC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary was completed by ECRI Institute on May 7, 2014. The information was verified by the measure developer on July 3, 2014. </p>
+<p>This NQMC summary was updated by ECRI Institute on December 22, 2015. The information was verified by the measure developer on January 28, 2016.</p>
+<p>This NQMC summary was updated again by ECRI Institute on January 16, 2018. The information was verified by the measure developer on February 7, 2018.</p></div>"/>
+    </field>
+    <field fieldid="88" ordby="810" id="637" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>No copyright restrictions apply.</p>
+<p>The Hospital Outpatient Quality Reporting Specifications Manual is periodically updated by the Centers for Medicare &amp;amp; Medicaid Services. Users of the Hospital OQR Specifications Manual must update their software and associated documentation based on the published manual production timelines.</p></div>"/>
+    </field>
+  </section>
+  <section secid="641" ordby="850" name="Production">
+    <field fieldid="1" ordby="1366" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Centers for Medicare and Medicaid Services (CMS). Hospital outpatient quality reporting specifications manual, version 11.0. Baltimore (MD): Centers for Medicare and Medicaid Services (CMS); Effective 2018 Jan. various p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NQMC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 21:00:17 Jun 24, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:32:45 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 129.731 (3)
+  esindex: 0.012
+  captures_list: 156.715
+  CDXLines.iter: 21.57 (3)
+  PetaboxLoader3.datanode: 468.23 (4)
+  exclusion.robots: 0.205
+  exclusion.robots.policy: 0.19
+  RedisCDXSource: 1.743
+  PetaboxLoader3.resolve: 694.172 (2)
+  load_resource: 1046.038
+-->

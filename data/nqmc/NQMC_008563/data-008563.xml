@@ -1,0 +1,278 @@
+<version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlsource>
+  <section secid="560" ordby="10" name="General">
+    <field fieldid="11" ordby="20" id="561" name="Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Infection control after hematopoietic cell transplantation (HCT): percentage of patients who had HCT and were at risk for cytomegalovirus (CMV) and were prescribed a CMV disease prevention program for 100 days after HCT.</div>"/>
+    </field>
+    <field fieldid="1" ordby="30" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Proposed infection control after HCT measure set: questionnaire, patient selection, measures with specifications, glossary. Arlington Heights (IL): American Society for Blood and Marrow Transplantation; 20 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="563" ordby="40" name="Measure Domain">
+    <field fieldid="3025" ordby="50" id="564" name="Primary Measure Domain" type="picklist-one">
+      <fieldvalue value="Clinical Quality Measures: Process"/>
+    </field>
+    <field fieldid="3026" ordby="60" id="565" name="Secondary Measure Domain" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+  </section>
+  <section secid="566" ordby="70" name="Brief Abstract">
+    <field fieldid="34" ordby="80" id="567" name="Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is used to assess the percentage of patients who had hematopoietic cell transplantation (HCT) and were at risk for cytomegalovirus (CMV) and were prescribed a CMV disease prevention program for 100 days after HCT.</p></div>"/>
+    </field>
+    <field fieldid="21" ordby="90" id="568" name="Rationale" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>In the past decade, modifications in hematopoietic cell transplantation (HCT) management and supportive care have resulted in changes in recommendations for the prevention of infection in HCT patients. These changes are fueled by new antimicrobial agents, increased knowledge of immune reconstitution, and expanded conditioning regimens and patient populations eligible for HCT. Despite these advances, infection is reported as the primary cause of death in 8% of autologous HCT patients and 17% to 20% of allogeneic HCT recipients. </p>
+<p><em>Support (verbatim) from guidelines</em>: HCT candidates should be tested for the presence of serum anti-cytomegalovirus (CMV) immunoglobulin G (IgG) antibodies before transplantation to determine their risk for primary CMV infection and reactivation after HCT. </p>
+<p>HCT recipients at risk for posttransplant CMV disease (i.e., all CMV-seropositive HCT recipients, and all CMV-seronegative recipients with a CMV-seropositive donor) should be placed on a CMV disease prevention program from the time of engraftment until at least 100 days after HCT (i.e., phase II). Physicians should use either prophylaxis or preemptive treatment for allogeneic recipients. In selecting a CMV disease prevention strategy, physicians should assess the risks and benefits of each strategy, the needs and condition of the patient, and the hospital's virology laboratory support capability. </p>
+<p>A prophylaxis strategy against early CMV replication (i.e., less than 100 days after HCT) for allogeneic recipients involves administering prophylaxis to all allogeneic recipients at risk throughout the period from engraftment to 100 days after HCT. Ganciclovir, high-dose acyclovir, and valacyclovir have all shown efficacy in randomized studies in reducing the risk for CMV infection after HCT. If ganciclovir is used, the induction course is usually started at engraftment, although a brief prophylactic course can be added during pretransplant conditioning. If acyclovir or valacyclovir is used, the patient must also undergo viral monitoring and receive preemptive antiviral therapy if evidence of CMV replication is found. Intravenous immunoglobulin (IVIG) is not recommended for CMV disease prophylaxis among HCT recipients. </p>
+<p><em>Statement (verbatim) from guidelines on gap</em>: During phase II, infections relate primarily to impaired cell-mediated immunity. The scope and impact of this defect is determined by the extent of graft-versus-host disease (GVHD) and immunosuppressive therapy for it. Herpesviruses, particularly CMV, are common infectious agents during this period.</p>
+<p>During phase III, persons with chronic GVHD (cGVHD) and recipients of alternate-donor allogeneic transplants remain most at risk for infection. Common pathogens include CMV, varicella-zoster virus (VZV), and infections with encapsulated bacteria (e.g., <em>Streptococcus pneumoniae</em>). The relative risk for these infections is approximately proportional to the severity of the patient's GVHD during phases II and III. </p>
+<p><em>Statement from the American Society for Blood and Marrow Transplantation (ASMBT) Task Force on gap</em>: As a common post-transplant infection, we believe there is no significant gap in the initiation of CMV prevention immediately post-transplant. However, we note gaps in our academic institutions of loss of follow up due to length of therapy (100 days) resulting in increased risk for infection.</p></div>"/>
+    </field>
+    <field fieldid="3500" ordby="100" id="569" name="Evidence for Rationale" type="citation">
+      <fieldvalue value="<table><tr><td>&amp;nbsp;Pasquini MC, Wang Z. &amp;nbsp;Current use and outcome of hematopoietic stem cell transplantation: CIBMTR summary slides. &amp;nbsp;2012. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Boeckh M, Gooley TA, Myerson D, Cunningham T, Schoch G, Bowden RA. Cytomegalovirus pp65 antigenemia-guided early treatment with ganciclovir versus ganciclovir at engraftment after allogeneic marrow transplantation: a randomized double-blind study. Blood. 1996 Nov 15;88(10):4063-71. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8916975&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Goodrich JM, Bowden RA, Fisher L, Keller C, Schoch G, Meyers JD. Ganciclovir prophylaxis to prevent cytomegalovirus disease after allogeneic marrow transplant. Ann Intern Med. 1993 Feb 1;118(3):173-8. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8380242&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ljungman P, de La Camara R, Milpied N, Volin L, Russell CA, Crisp A, Webster A, Valacyclovir International Bone Marrow Transplant Study Group. Randomized study of valacyclovir as prophylaxis against cytomegalovirus reactivation in recipients of allogeneic bone marrow transplants. Blood. 2002 Apr 15;99(8):3050-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=11929799&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Prentice HG, Gluckman E, Powles RL, Ljungman P, Milpied N, Fernandez Ranada JM, Mandelli F, Kho P, Kennedy L, Bell AR. Impact of long-term acyclovir on cytomegalovirus infection and survival after allogeneic bone marrow transplantation. European Acyclovir for CMV Prophylaxis Study Group. Lancet. 1994 Mar 26;343(8900):749-53. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=7907729&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Proposed infection control after HCT measure set: questionnaire, patient selection, measures with specifications, glossary. Arlington Heights (IL): American Society for Blood and Marrow Transplantation; 20 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Tomblyn M, Chiller T, Einsele H, Gress R, Sepkowitz K, Storek J, Wingard JR, Young JA, Boeckh MJ, Center for International Blood and Marrow Research, National Marrow Donor program, European Blood and Marrow Transplant Group, American Society of Blood and Marrow Transplantation, Canadian Blood and Marrow Transplant Group, Infectious Diseases Society of America, Society for Healthcare Epidemiology of America, Association of Medical Microbiology and Infectious Disease Canada, Centers for Disease Control and Prevention. Guidelines for preventing infectious complications among hematopoietic cell transplantation recipients: a global perspective. Biol Blood Marrow Transplant. 2009 Oct;15(10):1143-238. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19747629&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Winston DJ, Ho WG, Bartoni K, Du Mond C, Ebeling DF, Buhles WC, Champlin RE. Ganciclovir prophylaxis of cytomegalovirus infection and disease in allogeneic bone marrow transplant recipients. Results of a placebo-controlled, double-blind trial. Ann Intern Med. 1993 Feb 1;118(3):179-84. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=8380243&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="3022" ordby="110" id="570" name="Primary Health Components" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Hematopoietic cell transplantation (HCT); cytomegalovirus (CMV); CMV disease prevention program</p></div>"/>
+    </field>
+    <field fieldid="23" ordby="120" id="571" name="Denominator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The number of patients in your selection having hematopoietic cell transplantation (HCT) AND at risk for cytomegalovirus (CMV) (see the related &quot;Denominator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+    <field fieldid="24" ordby="130" id="572" name="Numerator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The number of patients in your selection having hematopoietic cell transplantation (HCT) AND at risk for cytomegalovirus (CMV) AND were prescribed a CMV disease prevention program for 100 days after HCT (see the related &quot;Numerator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+  </section>
+  <section secid="573" ordby="140" name="Evidence Supporting the Measure">
+    <field fieldid="3027" ordby="150" id="574" name="Type of Evidence Supporting the Criterion of Quality for the Measure" type="picklist-choice">
+      <fieldvalue value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence"/>
+      <fieldvalue value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences"/>
+      <fieldvalue value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal"/>
+    </field>
+    <field fieldid="3501" ordby="160" id="575" name="Additional Information Supporting Need for the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3072" ordby="180" id="577" name="Extent of Measure Testing" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Infection Control (IC) measure set was developed by the American Society for Blood and Marrow Transplantation (ASBMT) using a rigorous methodology (adapted from the American Medical Association's Physician Consortium for Performance Improvement [AMA-PCPI] and including field testing) and adapted for use in Practice Improvement Modules (PIMs) by the American Board of Internal Medicine (ABIM).</p></div>"/>
+    </field>
+    <field fieldid="3007" ordby="190" id="578" name="Evidence for Extent of Measure Testing" type="citation">
+      <fieldvalue value="<table><tr><td>Joseph TL. (Executive Director, American Society for Blood and Marrow Transplantation). Personal communication. 2013 Jan 21. &amp;nbsp;1 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="580" ordby="210" name="State of Use of the Measure">
+    <field fieldid="3029" ordby="220" id="581" name="State of Use" type="picklist-one">
+      <fieldvalue value="Current routine use"/>
+    </field>
+    <field fieldid="3030" ordby="230" id="582" name="Current Use" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="583" ordby="240" name="Application of the Measure in its Current Use">
+    <field fieldid="3031" ordby="250" id="584" name="Measurement Setting" type="picklist-choice">
+      <fieldvalue value="Ambulatory/Office-based Care"/>
+      <fieldvalue value="Hospital Inpatient"/>
+      <fieldvalue value="Hospital Outpatient"/>
+    </field>
+    <field fieldid="3032" ordby="260" id="585" name="Professionals Involved in Delivery of Health Services" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3033" ordby="270" id="586" name="Least Aggregated Level of Services Delivery Addressed" type="picklist-one">
+      <fieldvalue value="Clinical Practice or Public Health Sites"/>
+    </field>
+    <field fieldid="3505" ordby="280" id="587" name="Statement of Acceptable Minimum Sample Size" type="picklist-one">
+      <fieldvalue value="Specified"/>
+    </field>
+    <field fieldid="41" ordby="290" id="588" name="Target Population Age" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All ages</p></div>"/>
+    </field>
+    <field fieldid="42" ordby="300" id="589" name="Target Population Gender" type="picklist-one">
+      <fieldvalue value="Either male or female"/>
+    </field>
+  </section>
+  <section secid="660" ordby="310" name="National Strategy for Quality Improvement in Health Care">
+    <field fieldid="3522" ordby="320" id="661" name="National Quality Strategy Aim" type="text">
+      <fieldvalue value="<ul><li>Better Care</li></ul>"/>
+    </field>
+    <field fieldid="3525" ordby="330" id="662" name="National Quality Strategy Priority" type="text">
+      <fieldvalue value="<ul><li>Making Care Safer</li><li>Prevention and Treatment of Leading Causes of Mortality</li></ul>"/>
+    </field>
+  </section>
+  <section secid="590" ordby="340" name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <field fieldid="3163" ordby="350" id="591" name="IOM Care Need" type="picklist-choice">
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="3164" ordby="360" id="592" name="IOM Domain" type="picklist-choice">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Safety"/>
+    </field>
+  </section>
+  <section secid="593" ordby="370" name="Data Collection for the Measure">
+    <field fieldid="3506" ordby="380" id="594" name="Case Finding Period" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>12 months</p></div>"/>
+    </field>
+    <field fieldid="3054" ordby="390" id="595" name="Denominator Sampling Frame" type="picklist-one">
+      <fieldvalue value="Patients associated with provider"/>
+    </field>
+    <field fieldid="3057" ordby="400" id="598" name="Denominator (Index) Event or Characteristic" type="picklist-choice">
+      <fieldvalue value="Clinical Condition"/>
+      <fieldvalue value="Encounter"/>
+      <fieldvalue value="Therapeutic Intervention"/>
+    </field>
+    <field fieldid="3058" ordby="410" id="599" name="Denominator Time Window" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="55" ordby="420" id="596" name="Denominator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions </strong><br />
+The number of patients in your selection having hematopoietic cell transplantation (HCT) AND at risk for cytomegalovirus (CMV) </p>
+<p class=&quot;Note&quot;><strong>Note</strong>: Patients can be included in the chart abstraction if: </p>
+<ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;>
+    <li>They have been seen by the practice within the past 12 months; and </li>
+    <li>Management decisions regarding care are made primarily by providers in the practice. </li>
+</ul>
+<p class=&quot;Note&quot;>Select at least 25 of your patients who have had HCT. Refer to the original measure documentation for administrative codes.</p>
+<p><strong>Exclusions</strong> <br />
+None</p></div>"/>
+    </field>
+    <field fieldid="3507" ordby="430" id="597" name="Exclusions/Exceptions" type="picklist-choice-4">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="59" ordby="440" id="600" name="Numerator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+The number of patients in your selection having hematopoietic cell transplantation (HCT) AND at risk for cytomegalovirus (CMV)* AND were prescribed a CMV disease prevention program for 100 days after HCT</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: This requires documentation in the patient's medical record that the patient was at risk for CMV and a CMV disease prevention program was ordered to begin at the time of engraftment until at least 100 days after HCT (see the original measure documentation for details).</p>
+<p class=&quot;Note&quot;>*<em>At risk for CMV</em>: All CMV-seropositive HCT recipients, and all CMV-seronegative recipients with a CMV-seropositive donor.</p>
+<p><strong>Exclusions </strong><br />
+None</p></div>"/>
+    </field>
+    <field fieldid="3061" ordby="450" id="601" name="Numerator Search Strategy" type="picklist-one">
+      <fieldvalue value="Fixed time period or point in time"/>
+    </field>
+    <field fieldid="3062" ordby="460" id="602" name="Data Source" type="picklist-many">
+      <fieldvalue value="Administrative clinical data"/>
+      <fieldvalue value="Paper medical record"/>
+    </field>
+    <field fieldid="3065" ordby="470" id="603" name="Type of Health State" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3066" ordby="480" id="604" name="Instruments Used and/or Associated with the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+  </section>
+  <section secid="605" ordby="490" name="Computation of the Measure">
+    <field fieldid="3508" ordby="500" id="606" name="Measure Specifies Disaggregation" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3067" ordby="520" id="608" name="Scoring" type="picklist-many">
+      <fieldvalue value="Rate/Proportion"/>
+    </field>
+    <field fieldid="3068" ordby="530" id="609" name="Interpretation of Score" type="picklist-one">
+      <fieldvalue value="Desired value is a higher score"/>
+    </field>
+    <field fieldid="3090" ordby="540" id="610" name="Allowance for Patient or Population Factors" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3070" ordby="560" id="612" name="Standard of Comparison" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="615" ordby="590" name="Identifying Information">
+    <field fieldid="73" ordby="600" id="616" name="Original Title" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patients who had HCT and were at risk for CMV and were prescribed a CMV disease prevention program for 100 days after HCT.</p></div>"/>
+    </field>
+    <field fieldid="74" ordby="610" id="617" name="Measure Collection Name" type="text">
+      <fieldvalue value="Infection Control after Hematopoietic Cell Transplantation Measure Set"/>
+    </field>
+    <field fieldid="16" ordby="650" id="621" name="Submitter" type="orglist">
+      <fieldvalue value="American Society for Blood and Marrow Transplantation - Professional Association"/>
+    </field>
+    <field fieldid="17" ordby="660" id="622" name="Developer" type="orglist-p">
+      <fieldvalue value="American Society for Blood and Marrow Transplantation - Professional Association"/>
+    </field>
+    <field fieldid="79" ordby="670" id="623" name="Funding Source(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>American Society for Blood and Marrow Transplantation</p></div>"/>
+    </field>
+    <field fieldid="80" ordby="680" id="624" name="Composition of the Group that Developed the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American Society for Blood and Marrow Transplantation (ASBMT) Education Practice Improvement Modules Task Force:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Linda Burns, MD (<em>chair</em>) </li>
+    <li>Stephan A Grupp, MD, PhD </li>
+    <li>Mark B Juckett, MD </li>
+    <li>Vivek Roy, MD </li>
+    <li>Edward Agura, MD </li>
+    <li>Miguel-Angel Perales, MD </li>
+    <li>Thomas Joseph, MPS, CAE, ASBMT Executive Director </li>
+    <li>Sue Frechette, BSN, MBA Consultant </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="81" ordby="690" id="625" name="Financial Disclosures/Other Potential Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Conflicts, if any, are disclosed in accordance with the American Society for Blood and Marrow Transplantation (ASBMT) conflict of interest policy.</p></div>"/>
+    </field>
+    <field fieldid="19" ordby="730" id="629" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="3086" ordby="740" id="630" name="Date of Most Current Version in NQMC" type="date">
+      <fieldvalue value="2012 Apr"/>
+    </field>
+    <field fieldid="3511" ordby="750" id="631" name="Measure Maintenance" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3512" ordby="760" id="632" name="Date of Next Anticipated Revision" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="20" ordby="770" id="633" name="Measure Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p>
+<p>The measure developer reaffirmed the currency of this measure in February 2017. </p></div>"/>
+    </field>
+    <field fieldid="14" ordby="780" id="634" name="Measure Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Source not available electronically.</p>
+<p>For more information, contact the American Society for Blood and Marrow Transplantation (ASBMT) at 85 W. Algonquin Road, Suite 550, Arlington Heights, IL 60005; Phone: 847-427-0224; Fax: 847-427-9656; Web site: <a href=&quot;http://www.asbmt.org&quot; title=&quot;ASBMT Web site&quot;>www.asbmt.org</a>; E-mail: <a href=&quot;mailto:mail@asbmt.org&quot;>mail@asbmt.org</a>.</p></div>"/>
+    </field>
+    <field fieldid="87" ordby="800" id="636" name="NQMC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary was completed by ECRI Institute on September 24, 2013. The information was verified by the measure developer on October 25, 2013.</p>
+<p>The information was reaffirmed by the measure developer on February 8, 2017. </p></div>"/>
+    </field>
+    <field fieldid="88" ordby="810" id="637" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.</p></div>"/>
+    </field>
+  </section>
+  <section secid="641" ordby="850" name="Production">
+    <field fieldid="1" ordby="1366" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Proposed infection control after HCT measure set: questionnaire, patient selection, measures with specifications, glossary. Arlington Heights (IL): American Society for Blood and Marrow Transplantation; 20 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NQMC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 10:42:02 Jun 30, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:58:43 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 170.251 (3)
+  esindex: 0.011
+  captures_list: 198.281
+  CDXLines.iter: 17.682 (3)
+  PetaboxLoader3.datanode: 94.728 (4)
+  exclusion.robots: 0.287
+  exclusion.robots.policy: 0.267
+  RedisCDXSource: 2.014
+  PetaboxLoader3.resolve: 275.148 (2)
+  load_resource: 253.798
+-->

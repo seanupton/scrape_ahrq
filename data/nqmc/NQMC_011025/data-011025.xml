@@ -1,0 +1,317 @@
+<version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlsource>
+  <section secid="560" ordby="10" name="General">
+    <field fieldid="11" ordby="20" id="561" name="Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Symptom control during chemotherapy: percentage of chemotherapy patients 18 years of age and older for whom a symptom severity assessment was completed during days 5 to 15 of the chemotherapy cycle using the specified patient‐reported outcome tool.</div>"/>
+    </field>
+    <field fieldid="1" ordby="30" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>MN Community Measurement. Symptom control during chemotherapy: 2017 pilot report year (dates of index 07/01/2016 to 12/31/2016). Minneapolis (MN): MN Community Measurement; 2015. 21 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="563" ordby="40" name="Measure Domain">
+    <field fieldid="3025" ordby="50" id="564" name="Primary Measure Domain" type="picklist-one">
+      <fieldvalue value="Clinical Quality Measures: Process"/>
+    </field>
+    <field fieldid="3026" ordby="60" id="565" name="Secondary Measure Domain" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+  </section>
+  <section secid="566" ordby="70" name="Brief Abstract">
+    <field fieldid="34" ordby="80" id="567" name="Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is used to assess the percentage of chemotherapy patients 18 years of age and older for whom a symptom severity assessment was completed during days 5 to 15 of the chemotherapy cycle using the specified patient‐reported outcome tool. </p></div>"/>
+    </field>
+    <field fieldid="21" ordby="90" id="568" name="Rationale" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Based on existing research, inclusion of patient reporting in routine cancer care improves symptom detection and management. Patient reported outcomes (PRO) provide essential clinical information and when integrated into clinical practice, PROs have been found to improve symptom control, communication and patient satisfaction. </p>
+<p>A substantial body of evidence shows that without patient reporting, clinicians miss or underestimate many symptoms. Clinician assessment of symptoms has low reliability; whereas patient reporting is substantially more reliable and has been shown to be feasible (Basch, 2014).</p>
+<p>Refer to <em>Cancer Care: Symptom Control During Chemotherapy and/or Radiation: Impact and Recommendation Document</em> (see also the &quot;Companion Documents&quot; field) for additional information and graphic depictions of the differences between patient-reported symptoms and clinician-reported symptoms.</p></div>"/>
+    </field>
+    <field fieldid="3500" ordby="100" id="569" name="Evidence for Rationale" type="citation">
+      <fieldvalue value="<table><tr><td>Basch E. The rationale for collecting patient-reporting symptoms during routine chemotherapy. In: 2014 ASCO educational book. Alexandria (VA): American Society of Clinical Oncology (ASCO); 2014. p. 161-5. [27 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>MN Community Measurement. Cancer care: symptom control during chemotherapy and/or radiation: impact and recommendation document. Minneapolis (MN): MN Community Measurement; 2014 Oct. 5 p.  [6 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="3022" ordby="110" id="570" name="Primary Health Components" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Chemotherapy; symptom control; symptom severity assessment</p></div>"/>
+    </field>
+    <field fieldid="23" ordby="120" id="571" name="Denominator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>For patients age 18 years and older with a new patient evaluation and management or consultation office visit that occurs during the index period AND Cycle Day 1 date of chemotherapy occurs during the index period AND within 90 days of the new patient visit, the number of chemotherapy cycles 1, 2 and 3 that have a Day 1 occurring on or prior to 15 days before the end of the assessment period (see the related &quot;Denominator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+    <field fieldid="24" ordby="130" id="572" name="Numerator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The number of cycles in the denominator for which a Patient-Reported Outcomes Common Terminology Criteria for Adverse Events (PRO‐CTCAE) symptom severity assessment was completed during Days 5 to 15 of the cycle</p></div>"/>
+    </field>
+  </section>
+  <section secid="573" ordby="140" name="Evidence Supporting the Measure">
+    <field fieldid="3027" ordby="150" id="574" name="Type of Evidence Supporting the Criterion of Quality for the Measure" type="picklist-choice">
+      <fieldvalue value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence"/>
+      <fieldvalue value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences"/>
+      <fieldvalue value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal"/>
+    </field>
+    <field fieldid="3501" ordby="160" id="575" name="Additional Information Supporting Need for the Measure" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>It is estimated that there will be more than 1.66 million people diagnosed with cancer during 2014 in the United States (U.S.), with nearly 30,000 new cases estimated in Minnesota. The highest estimates of new cases by cancer type include:
+    <table width=&quot;100%&quot; border=&quot;1&quot; cellspacing=&quot;1&quot; cellpadding=&quot;1&quot; summary=&quot;Table: Relevance to Consumers, Employers and Payers&quot;>
+        <thead>
+            <tr>
+                <th class=&quot;Center&quot; valign=&quot;top&quot;>Est # of New Cases, 2014</th>
+                <th class=&quot;Center&quot; valign=&quot;top&quot;>United States</th>
+                <th class=&quot;Center&quot; valign=&quot;top&quot;>Minnesota</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td valign=&quot;top&quot;>Prostate</td>
+                <td valign=&quot;top&quot;>233,000</td>
+                <td valign=&quot;top&quot;>3,870</td>
+            </tr>
+            <tr>
+                <td valign=&quot;top&quot;>Female Breast</td>
+                <td valign=&quot;top&quot;>232,670</td>
+                <td valign=&quot;top&quot;>3,820</td>
+            </tr>
+            <tr>
+                <td valign=&quot;top&quot;>Lung &amp;amp; Bronchus</td>
+                <td valign=&quot;top&quot;>224,210</td>
+                <td valign=&quot;top&quot;>3,070</td>
+            </tr>
+            <tr>
+                <td valign=&quot;top&quot;>Colon &amp;amp; Rectum</td>
+                <td valign=&quot;top&quot;>136,830</td>
+                <td valign=&quot;top&quot;>2,240</td>
+            </tr>
+        </tbody>
+    </table>
+    </li>
+    <li>The 5-year survival rate for all cancers diagnosed between 2003 and 2009 is 68%; however, survival statistics vary greatly by cancer type and stage at diagnosis. In 2014, an estimated 585,720 people in the U.S. will die from cancer, including 9,750 people in Minnesota. </li>
+    <li>Survival has improved substantially over the past decades for individuals diagnosed with certain types of cancer, in part due to advances in chemotherapy and radiation therapy. </li>
+    <li>The National Institutes of Health (NIH) estimates that the over-all costs of cancer in 2009 were $216.6 billion: $86.6 billion for direct medical costs and $130.0 billion for indirect mortality costs (American Cancer Society [ACS], 2014). </li>
+    <li>Annually, over 1.1 million individuals in the U.S. are estimated to receive chemotherapy and/or radiation therapy for cancer. Of these individuals, approximately 650,000 receive chemotherapy, 643,000 receive radiation, and 180,000 receive both during a year (Halpern &amp;amp; Yabroff, 2008). </li>
+    <li>The risk of being diagnosed with cancer increases with age, with most cases occurring in adults who are middle aged or older. Approximately 77 percent of all cancers are diagnosed in people 55 years of age and older. In the U.S., men have slightly less than a 1 in 2 lifetime risk of developing cancer over the course of a lifetime and women have a little more than a 1 in 3 risk (ACS, 2014). </li>
+    <li>Of those patients being treated, there is fairly even distribution by gender and the following age groups: less than 55 years, 55 to 64 years, 65 to 74 years and 75 years and older. The majority of treated patients are non-Hispanic white, which reflects the prevalence estimates. Other racial/ethnic groups identified in the treatment estimates include blacks and Hispanics, representing 10% and 6% respectively (Halpern &amp;amp; Yabroff, 2008). </li>
+</ul>"/>
+    </field>
+    <field fieldid="3502" ordby="170" id="576" name="Evidence for Additional Information Supporting Need for the Measure" type="citation">
+      <fieldvalue value="<table><tr><td>American Cancer Society (ACS). Cancer facts &amp; figures 2014. Atlanta (GA): American Cancer Society (ACS); 2014. 70 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Halpern MT, Yabroff KR. Prevalence of outpatient cancer treatment in the United States: estimates from the Medical Panel Expenditures Survey (MEPS). Cancer Invest. 2008 Jul;26(6):647-51. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=18584358&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>MN Community Measurement. Cancer care: symptom control during chemotherapy and/or radiation: impact and recommendation document. Minneapolis (MN): MN Community Measurement; 2014 Oct. 5 p.  [6 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="3072" ordby="180" id="577" name="Extent of Measure Testing" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>MN Community Measurement (MNCM) conducts validity testing to determine if quality measures truly measure what they are designed to measure, and conducts reliability testing to determine if measures yield stable, consistent results. Validity testing is done to see if the concept behind the measure reflects the quality of care that is provided to a patient and if the measure, as specified, accurately assesses the intended quality concept. Reliability testing is done to see if calculated performance scores are reproducible.</p></div>"/>
+    </field>
+    <field fieldid="3007" ordby="190" id="578" name="Evidence for Extent of Measure Testing" type="citation">
+      <fieldvalue value="<table><tr><td>MN Community Measurement. Measure testing. [internet]. Minneapolis (MN): MN Community Measurement; 2014&amp;nbsp;[accessed 2017 Apr 17]. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="580" ordby="210" name="State of Use of the Measure">
+    <field fieldid="3029" ordby="220" id="581" name="State of Use" type="picklist-one">
+      <fieldvalue value="Pilot testing"/>
+    </field>
+    <field fieldid="3030" ordby="230" id="582" name="Current Use" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="583" ordby="240" name="Application of the Measure in its Current Use">
+    <field fieldid="3031" ordby="250" id="584" name="Measurement Setting" type="picklist-choice">
+      <fieldvalue value="Ambulatory/Office-based Care"/>
+      <fieldvalue value="Hospital Outpatient"/>
+    </field>
+    <field fieldid="3032" ordby="260" id="585" name="Professionals Involved in Delivery of Health Services" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3033" ordby="270" id="586" name="Least Aggregated Level of Services Delivery Addressed" type="picklist-one">
+      <fieldvalue value="Clinical Practice or Public Health Sites"/>
+    </field>
+    <field fieldid="3505" ordby="280" id="587" name="Statement of Acceptable Minimum Sample Size" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="41" ordby="290" id="588" name="Target Population Age" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Age greater than or equal to 18 years</p></div>"/>
+    </field>
+    <field fieldid="42" ordby="300" id="589" name="Target Population Gender" type="picklist-one">
+      <fieldvalue value="Either male or female"/>
+    </field>
+  </section>
+  <section secid="660" ordby="310" name="National Strategy for Quality Improvement in Health Care">
+    <field fieldid="3522" ordby="320" id="661" name="National Quality Strategy Aim" type="text">
+      <fieldvalue value="<ul><li>Better Care</li></ul>"/>
+    </field>
+    <field fieldid="3525" ordby="330" id="662" name="National Quality Strategy Priority" type="text">
+      <fieldvalue value="<ul><li>Person- and Family-centered Care</li><li>Prevention and Treatment of Leading Causes of Mortality</li></ul>"/>
+    </field>
+  </section>
+  <section secid="590" ordby="340" name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <field fieldid="3163" ordby="350" id="591" name="IOM Care Need" type="picklist-choice">
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="3164" ordby="360" id="592" name="IOM Domain" type="picklist-choice">
+      <fieldvalue value="Effectiveness"/>
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="593" ordby="370" name="Data Collection for the Measure">
+    <field fieldid="3506" ordby="380" id="594" name="Case Finding Period" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>July 1 through June 30</p></div>"/>
+    </field>
+    <field fieldid="3054" ordby="390" id="595" name="Denominator Sampling Frame" type="picklist-one">
+      <fieldvalue value="Patients associated with provider"/>
+    </field>
+    <field fieldid="3057" ordby="400" id="598" name="Denominator (Index) Event or Characteristic" type="picklist-choice">
+      <fieldvalue value="Encounter"/>
+      <fieldvalue value="Patient/Individual (Consumer) Characteristic"/>
+      <fieldvalue value="Therapeutic Intervention"/>
+    </field>
+    <field fieldid="3058" ordby="410" id="599" name="Denominator Time Window" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="55" ordby="420" id="596" name="Denominator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+For patients in the eligible population, the number of chemotherapy cycles 1, 2 and 3 that have a Day 1 occurring on or prior to 15 days before the end of the assessment period*</p>
+<p><em>Eligible Population</em>:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li><strong>Ages</strong>: 18 years and older as of July 1 of the index period** </li>
+    <li><strong>Event (Index)</strong>: Initial Chemotherapy Regimen: An index occurs when all of the following criteria are met:
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>A new patient evaluation and management office visit (<em>New Patient Visit</em> Value Set) occurs during the index period <br />
+        AND </li>
+        <li>Cycle 1 Day 1 date of chemotherapy (<em>Chemotherapy</em> Value Set) occurs during the index period AND within 90 days of the new patient visit (<em>New Patient Visit</em> Value Set) </li>
+    </ul>
+    </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: Refer to original measure documentation for specific Current Procedural Terminology (CPT) codes included in the value sets.</p>
+<p class=&quot;Note&quot;>*<em>Index Period</em>: July 1 through December 31, 2016 </p>
+<p class=&quot;Note&quot;>**<em>Assessment Period</em>: July 1, 2016 through June 30, 2017 </p>
+<p><strong>Exclusions</strong><br />
+None</p></div>"/>
+    </field>
+    <field fieldid="3507" ordby="430" id="597" name="Exclusions/Exceptions" type="picklist-choice-4">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="59" ordby="440" id="600" name="Numerator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+The number of cycles in the denominator for which a Patient-Reported Outcomes Common Terminology Criteria for Adverse Events (PRO-CTCAE) symptom severity assessment was completed during Days 5 to 15 of the cycle </p>
+<p><strong>Exclusions</strong><br />
+None</p></div>"/>
+    </field>
+    <field fieldid="3061" ordby="450" id="601" name="Numerator Search Strategy" type="picklist-one">
+      <fieldvalue value="Fixed time period or point in time"/>
+    </field>
+    <field fieldid="3062" ordby="460" id="602" name="Data Source" type="picklist-many">
+      <fieldvalue value="Administrative clinical data"/>
+      <fieldvalue value="Electronic health/medical record"/>
+      <fieldvalue value="Paper medical record"/>
+    </field>
+    <field fieldid="3065" ordby="470" id="603" name="Type of Health State" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3066" ordby="480" id="604" name="Instruments Used and/or Associated with the Measure" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Measure #1: Symptom Severity Assessment During Chemotherapy Measure Algorithm </li>
+    <li>Patient-Reported Outcomes Common Terminology Criteria for Adverse Events (PRO-CTCAE) symptom severity tool </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="605" ordby="490" name="Computation of the Measure">
+    <field fieldid="3508" ordby="500" id="606" name="Measure Specifies Disaggregation" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3067" ordby="520" id="608" name="Scoring" type="picklist-many">
+      <fieldvalue value="Rate/Proportion"/>
+    </field>
+    <field fieldid="3068" ordby="530" id="609" name="Interpretation of Score" type="picklist-one">
+      <fieldvalue value="Desired value is a higher score"/>
+    </field>
+    <field fieldid="3090" ordby="540" id="610" name="Allowance for Patient or Population Factors" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3070" ordby="560" id="612" name="Standard of Comparison" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="615" ordby="590" name="Identifying Information">
+    <field fieldid="73" ordby="600" id="616" name="Original Title" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Symptom severity assessment during chemotherapy.</p></div>"/>
+    </field>
+    <field fieldid="74" ordby="610" id="617" name="Measure Collection Name" type="text">
+      <fieldvalue value="Symptom Control during Chemotherapy"/>
+    </field>
+    <field fieldid="16" ordby="650" id="621" name="Submitter" type="orglist">
+      <fieldvalue value="MN Community Measurement - Health Care Quality Collaboration"/>
+    </field>
+    <field fieldid="17" ordby="660" id="622" name="Developer" type="orglist-p">
+      <fieldvalue value="MN Community Measurement - Health Care Quality Collaboration"/>
+    </field>
+    <field fieldid="79" ordby="670" id="623" name="Funding Source(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="80" ordby="680" id="624" name="Composition of the Group that Developed the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>MN Community Measurement (MNCM) measure development workgroup comprised of oncologists, primary care, oncology nurse practitioners, data analysts, consumers, health plan and state agency representatives. </p></div>"/>
+    </field>
+    <field fieldid="81" ordby="690" id="625" name="Financial Disclosures/Other Potential Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None </p></div>"/>
+    </field>
+    <field fieldid="19" ordby="730" id="629" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="3086" ordby="740" id="630" name="Date of Most Current Version in NQMC" type="date">
+      <fieldvalue value="2015 Jan"/>
+    </field>
+    <field fieldid="3511" ordby="750" id="631" name="Measure Maintenance" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3512" ordby="760" id="632" name="Date of Next Anticipated Revision" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="20" ordby="770" id="633" name="Measure Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p></div>"/>
+    </field>
+    <field fieldid="14" ordby="780" id="634" name="Measure Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Source available from the <a href=&quot;http://mncm.org/wp-content/uploads/2016/01/Chemotherapy-Symptom-Control-Measure-and-Field-Specs-PILOT-Jan-2016.pdf&quot; title=&quot;MN Community Measurement Web site&quot;>MN Community Measurement Web site</a>.</p>
+<p>For more information, contact MN Community Measurement at 3433 Broadway St. NE, Broadway Place East, Suite #455, Minneapolis, MN 55413; Phone: 612-455-2911; Web site: <a href=&quot;http://mncm.org&quot; title=&quot;MN Community Measurement Web site&quot;>mncm.org</a>; E-mail: <a href=&quot;mailto:info@mncm.org&quot;>info@mncm.org</a>.</p></div>"/>
+    </field>
+    <field fieldid="15" ordby="790" id="635" name="Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>MN Community Measurement. Cancer care: symptom control during chemotherapy and/or radiation: impact and recommendation document. Minneapolis (MN): MN Community Measurement; 2014 Oct. 5 p. Available from the <a href=&quot;http://mncm.org/wp-content/uploads/2014/12/Cancer-Care-Impact-Document.pdf&quot; title=&quot;MN Community Measurement Web site&quot;>MN Community Measurement Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="87" ordby="800" id="636" name="NQMC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary was completed by ECRI Institute on April 18, 2107. The information was verified by the measure developer on May 3, 2017. </p></div>"/>
+    </field>
+    <field fieldid="88" ordby="810" id="637" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. </p>
+<p>This measure is subject to review and may be revised or rescinded at any time by MN Community Measurement (MNCM). The measure may not be altered without the prior written approval of MNCM. Measures developed by MNCM, while copyrighted, can be reproduced and distributed without modification for noncommercial purposes (e.g., use by health care providers in connection with their practices). Commercial use is defined as the sale, license, or distribution of the measure for commercial gain, or incorporation of the measure into a product of service that is sold, licensed or distributed for commercial gain. Commercial use of the measure requires a license agreement between the user and MNCM. </p></div>"/>
+    </field>
+  </section>
+  <section secid="641" ordby="850" name="Production">
+    <field fieldid="1" ordby="1366" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>MN Community Measurement. Symptom control during chemotherapy: 2017 pilot report year (dates of index 07/01/2016 to 12/31/2016). Minneapolis (MN): MN Community Measurement; 2015. 21 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NQMC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 04:51:06 Jun 21, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:37:06 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 111.189 (3)
+  esindex: 0.008
+  captures_list: 174.19
+  CDXLines.iter: 14.636 (3)
+  PetaboxLoader3.datanode: 53.13 (4)
+  exclusion.robots: 0.293
+  exclusion.robots.policy: 0.273
+  RedisCDXSource: 42.771
+  PetaboxLoader3.resolve: 59.342
+  load_resource: 523.373
+-->

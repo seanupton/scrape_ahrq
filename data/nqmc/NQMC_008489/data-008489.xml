@@ -1,0 +1,292 @@
+<version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlsource>
+  <section secid="560" ordby="10" name="General">
+    <field fieldid="11" ordby="20" id="561" name="Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Metabolism and nutrition: percentage of patients with enteral nutrition (EN) correctly monitored.</div>"/>
+    </field>
+    <field fieldid="1" ordby="30" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Quality indicators in critically ill patients. Madrid (Spain): Spanish Society of Intensive and Critical Care and Units Coronary (SEMICYUC); 2011. 185 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="563" ordby="40" name="Measure Domain">
+    <field fieldid="3025" ordby="50" id="564" name="Primary Measure Domain" type="picklist-one">
+      <fieldvalue value="Clinical Quality Measures: Process"/>
+    </field>
+    <field fieldid="3026" ordby="60" id="565" name="Secondary Measure Domain" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+  </section>
+  <section secid="566" ordby="70" name="Brief Abstract">
+    <field fieldid="34" ordby="80" id="567" name="Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is used to assess the percentage of patients with enteral nutrition (EN) correctly monitored.</p></div>"/>
+    </field>
+    <field fieldid="21" ordby="90" id="568" name="Rationale" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The aim of intensive care medicine is to provide critical patients with the healthcare that they need, ensuring the quality and safety of care. Intensive care medicine is one of the principal components of modern healthcare systems. There is an increasing demand for this resource, which involves high costs.</p>
+<p>The quality of care has gradually come to be the central focus of healthcare, and in recent years patient safety has come to represent one of the key aspects of quality. In the case of intensive care medicine, this interest in quality is even more evident, not only because of its social and economic impact, but also because some of the dimensions involved in the quality of care of critical patients take on greater importance: critical patients are more vulnerable, access to critical care is more limited so efforts to distribute resources equitably are more important, scant scientific evidence is available, and the efficiency is limited.</p>
+<p>Tolerance to enteral nutrition (EN) enables the goals for caloric intake to be reached effectively. It is important to identify the presence of factors that can act as potential barriers to the tolerance of EN so that they can be corrected. The appropriate knowledge, definition, and management of the complications that can occur during EN are also important.</p></div>"/>
+    </field>
+    <field fieldid="3500" ordby="100" id="569" name="Evidence for Rationale" type="citation">
+      <fieldvalue value="<table><tr><td>Kreymann KG, Berger MM, Deutz NE, Hiesmayr M, Jolliet P, Kazandjiev G, Nitenberg G, van den Berghe G, Wernerman J, DGEM (German Society for Nutritional Medicine), Ebner C, Hartl W, Heymann C, Spies C, ESPEN (European Society for Parenteral and Enteral Nutrition). ESPEN Guidelines on Enteral Nutrition: Intensive care. Clin Nutr. 2006 Apr;25(2):210-23. [70 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=16697087&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>McClave SA, Martindale RG, Vanek VW, McCarthy M, Roberts P, Taylor B, Ochoa JB, Napolitano L, Cresci G, A.S.P.E.N. Board of Directors, American College of Critical Care Medicine, Society of Critical Care Medicine. Guidelines for the Provision and Assessment of Nutrition Support Therapy in the Adult Critically Ill Patient: Society of Critical Care Medicine (SCCM) and American Society for Parenteral and Enteral Nutrition (A.S.P.E.N.). JPEN J Parenter Enteral Nutr. 2009 May-Jun;33(3):277-316. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19398613&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Ortiz Leyba C, Montejo Gonzalez JC, Jimenez Jimenez FJ, Lopez Martinez J, Garcia de Lorenzo y Mateos A, Grau Carmona T, Acosta Escribano J, Mesejo Arizmendi A, Fernandez Ortega F, Ordonez Gonzalez FJ, Bonet Saris A, Blesa Malpica A, Grupo de Trabajo de Metabolismo y Nutricion de la SEMICYUC. [Recommendations for nutritional assessment and specialized nutritional support of critically ill patients]. Nutr Hosp. 2005 Jun;20 Suppl 2:1-3. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=15981839&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Quality indicators in critically ill patients. Madrid (Spain): Spanish Society of Intensive and Critical Care and Units Coronary (SEMICYUC); 2011. 185 p. </td></tr></table>"/>
+    </field>
+    <field fieldid="3022" ordby="110" id="570" name="Primary Health Components" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Metabolism; enteral nutrition (EN); monitoring</p></div>"/>
+    </field>
+    <field fieldid="23" ordby="120" id="571" name="Denominator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Number of patients admitted with enteral nutrition (EN) (see the related &quot;Denominator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+    <field fieldid="24" ordby="130" id="572" name="Numerator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Number of patients with enteral nutrition (EN) correctly monitored (see the related &quot;Numerator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+  </section>
+  <section secid="573" ordby="140" name="Evidence Supporting the Measure">
+    <field fieldid="3027" ordby="150" id="574" name="Type of Evidence Supporting the Criterion of Quality for the Measure" type="picklist-choice">
+      <fieldvalue value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence"/>
+      <fieldvalue value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences"/>
+      <fieldvalue value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal"/>
+    </field>
+    <field fieldid="3501" ordby="160" id="575" name="Additional Information Supporting Need for the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3072" ordby="180" id="577" name="Extent of Measure Testing" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+  </section>
+  <section secid="580" ordby="210" name="State of Use of the Measure">
+    <field fieldid="3029" ordby="220" id="581" name="State of Use" type="picklist-one">
+      <fieldvalue value="Current routine use"/>
+    </field>
+    <field fieldid="3030" ordby="230" id="582" name="Current Use" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="583" ordby="240" name="Application of the Measure in its Current Use">
+    <field fieldid="3031" ordby="250" id="584" name="Measurement Setting" type="picklist-choice">
+      <fieldvalue value="Hospital Inpatient"/>
+      <fieldvalue value="Intensive Care Units"/>
+    </field>
+    <field fieldid="3032" ordby="260" id="585" name="Professionals Involved in Delivery of Health Services" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3033" ordby="270" id="586" name="Least Aggregated Level of Services Delivery Addressed" type="picklist-one">
+      <fieldvalue value="Single Health Care Delivery or Public Health Organizations"/>
+    </field>
+    <field fieldid="3505" ordby="280" id="587" name="Statement of Acceptable Minimum Sample Size" type="picklist-one">
+      <fieldvalue value="Unspecified"/>
+    </field>
+    <field fieldid="41" ordby="290" id="588" name="Target Population Age" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Age greater than or equal to 18 years</p></div>"/>
+    </field>
+    <field fieldid="42" ordby="300" id="589" name="Target Population Gender" type="picklist-one">
+      <fieldvalue value="Either male or female"/>
+    </field>
+  </section>
+  <section secid="660" ordby="310" name="National Strategy for Quality Improvement in Health Care">
+    <field fieldid="3522" ordby="320" id="661" name="National Quality Strategy Aim" type="text">
+      <fieldvalue value="<ul><li>Better Care</li></ul>"/>
+    </field>
+    <field fieldid="3525" ordby="330" id="662" name="National Quality Strategy Priority" type="text">
+      <fieldvalue value="<ul><li>Prevention and Treatment of Leading Causes of Mortality</li></ul>"/>
+    </field>
+  </section>
+  <section secid="590" ordby="340" name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <field fieldid="3163" ordby="350" id="591" name="IOM Care Need" type="picklist-choice">
+      <fieldvalue value="Getting Better"/>
+    </field>
+    <field fieldid="3164" ordby="360" id="592" name="IOM Domain" type="picklist-choice">
+      <fieldvalue value="Effectiveness"/>
+    </field>
+  </section>
+  <section secid="593" ordby="370" name="Data Collection for the Measure">
+    <field fieldid="3506" ordby="380" id="594" name="Case Finding Period" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3054" ordby="390" id="595" name="Denominator Sampling Frame" type="picklist-one">
+      <fieldvalue value="Patients associated with provider"/>
+    </field>
+    <field fieldid="3057" ordby="400" id="598" name="Denominator (Index) Event or Characteristic" type="picklist-choice">
+      <fieldvalue value="Institutionalization"/>
+      <fieldvalue value="Therapeutic Intervention"/>
+    </field>
+    <field fieldid="3058" ordby="410" id="599" name="Denominator Time Window" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="55" ordby="420" id="596" name="Denominator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Number of patients admitted with enteral nutrition (EN)</p>
+<p class=&quot;Note&quot;><strong>Population</strong>: All patients who receive EN during the intensive care unit (ICU) stay during the period reviewed.</p>
+<p><strong>Exclusions</strong><br />
+Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3507" ordby="430" id="597" name="Exclusions/Exceptions" type="picklist-choice-4">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="59" ordby="440" id="600" name="Numerator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Number of patients with enteral nutrition (EN) correctly monitored</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: Monitoring EN must include all of the following:</p>
+<ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;>
+    <li>Checking the amount administered in 24 hours </li>
+    <li>Checking the position of the feeding tube </li>
+    <li>Checking the patient's position: semiseated (30&amp;ordm; to 45&amp;ordm;) </li>
+    <li>Identification and management of the gastrointestinal complications of EN: increased volume of gastric residue, constipation, EN-associated diarrhea, vomiting, regurgitation, abdominal distension, bronchoaspiration of the diet </li>
+    <li>Blood glucose control according to the critical care department's protocol </li>
+    <li>Serum electrolytes/24 hours </li>
+    <li>Triglycerides, cholesterol, protein electrophoresis/7 days </li>
+</ul>
+<p><strong>Exclusions</strong><br />
+Unspecified </p></div>"/>
+    </field>
+    <field fieldid="3061" ordby="450" id="601" name="Numerator Search Strategy" type="picklist-one">
+      <fieldvalue value="Institutionalization"/>
+    </field>
+    <field fieldid="3062" ordby="460" id="602" name="Data Source" type="picklist-many">
+      <fieldvalue value="Electronic health/medical record"/>
+      <fieldvalue value="Paper medical record"/>
+    </field>
+    <field fieldid="3065" ordby="470" id="603" name="Type of Health State" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3066" ordby="480" id="604" name="Instruments Used and/or Associated with the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+  </section>
+  <section secid="605" ordby="490" name="Computation of the Measure">
+    <field fieldid="3508" ordby="500" id="606" name="Measure Specifies Disaggregation" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3067" ordby="520" id="608" name="Scoring" type="picklist-many">
+      <fieldvalue value="Rate/Proportion"/>
+    </field>
+    <field fieldid="3068" ordby="530" id="609" name="Interpretation of Score" type="picklist-one">
+      <fieldvalue value="Desired value is a higher score"/>
+    </field>
+    <field fieldid="3090" ordby="540" id="610" name="Allowance for Patient or Population Factors" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3070" ordby="560" id="612" name="Standard of Comparison" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="71" ordby="570" id="613" name="Prescriptive Standard" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Standard: 100%</p></div>"/>
+    </field>
+    <field fieldid="9" ordby="580" id="614" name="Evidence for Prescriptive Standard" type="citation">
+      <fieldvalue value="<table><tr><td>Quality indicators in critically ill patients. Madrid (Spain): Spanish Society of Intensive and Critical Care and Units Coronary (SEMICYUC); 2011. 185 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="615" ordby="590" name="Identifying Information">
+    <field fieldid="73" ordby="600" id="616" name="Original Title" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Monitoring enteral nutrition.</p></div>"/>
+    </field>
+    <field fieldid="74" ordby="610" id="617" name="Measure Collection Name" type="text">
+      <fieldvalue value="Quality Indicators in Critically Ill Patients"/>
+    </field>
+    <field fieldid="75" ordby="620" id="618" name="Measure Set Name" type="text">
+      <fieldvalue value="Metabolism and Nutrition"/>
+    </field>
+    <field fieldid="16" ordby="650" id="621" name="Submitter" type="orglist">
+      <fieldvalue value="Spanish Society of Intensive and Critical Care and Units Coronary - Clinical Specialty Collaboration"/>
+    </field>
+    <field fieldid="17" ordby="660" id="622" name="Developer" type="orglist-p">
+      <fieldvalue value="Spanish Society of Intensive and Critical Care and Units Coronary - Clinical Specialty Collaboration"/>
+    </field>
+    <field fieldid="79" ordby="670" id="623" name="Funding Source(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Boehringer Laboratories</p></div>"/>
+    </field>
+    <field fieldid="80" ordby="680" id="624" name="Composition of the Group that Developed the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Work Group for Metabolism and Nutrition</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Alfonso Mesejo Arizmendi </li>
+    <li>Clara Vaquerizo Alonso </li>
+    <li>Teodoro Grau Carmona </li>
+    <li>Alfons Bonet S&amp;aacute;ris </li>
+    <li>Carlos Ortiz Leyba </li>
+    <li>Pilar Mart&amp;iacute;nez Garc&amp;iacute;a </li>
+    <li>Jimena Abil&amp;eacute;s </li>
+    <li>Jos&amp;eacute; Andr&amp;eacute;s Arboleda </li>
+    <li>Encarnaci&amp;oacute;n Molina Dom&amp;iacute;nguez </li>
+    <li>Juan Carlos Montejo Gonz&amp;aacute;lez </li>
+    <li>Carmen S&amp;aacute;nchez &amp;Aacute;lvarez </li>
+    <li>Francisco Fern&amp;aacute;ndez Ortega </li>
+    <li>Jos&amp;eacute; Acosta Escribano </li>
+    <li>Ignacio Herrero Meseguer </li>
+    <li>Sergio Ruiz Santana </li>
+</ul>
+<p>Scientific Coordination:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Maria Cruz Mart&amp;iacute;n Delgado </li>
+    <li>Jes&amp;uacute;s Blanco Varela </li>
+    <li>Llu&amp;iacute;s Cabr&amp;eacute; Pericas </li>
+    <li>Pedro Galdos Anuncibay </li>
+    <li>Federico Gordo Vidal </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="81" ordby="690" id="625" name="Financial Disclosures/Other Potential Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="19" ordby="730" id="629" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="3086" ordby="740" id="630" name="Date of Most Current Version in NQMC" type="date">
+      <fieldvalue value="2011 Mar"/>
+    </field>
+    <field fieldid="3511" ordby="750" id="631" name="Measure Maintenance" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3512" ordby="760" id="632" name="Date of Next Anticipated Revision" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>2016 Jul</p></div>"/>
+    </field>
+    <field fieldid="20" ordby="770" id="633" name="Measure Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p>
+<p>The measure developer reaffirmed the currency of this measure in May 2016. </p></div>"/>
+    </field>
+    <field fieldid="14" ordby="780" id="634" name="Measure Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Source available in <a href=&quot;http://www.semicyuc.org/files/Ind_Cal/QUA_IND_UPDATE_2011.pdf&quot; title=&quot;Spanish Society of Intensive and Critical Care and Units Coronary Web site&quot;>English</a> and <a href=&quot;http://www.semicyuc.org/files/Ind_Cal/IND_CAL_UPDATE_2011.pdf&quot; title=&quot;Spanish Society of Intensive and Critical Care and Units Coronary Web site&quot;>Spanish</a> from the Spanish Society of Intensive and Critical Care and Units Coronary (SEMICYUC) Web site. </p>
+<p>For more information, contact SEMICYUC at Paseo de la Reina Cristina, 36, 4<sup>o</sup> D, Madrid, Spain; Phone: +34-91-502-12-13; Fax: +34-91-502-12-14; Web site: <a href=&quot;http://www.semicyuc.org&quot; title=&quot;Spanish Society of Intensive and Critical Care and Units Coronary Homepage&quot;>www.semicyuc.org</a>; E-mail: <a href=&quot;mailto:secretaria@semicyuc.org&quot;>secretaria@semicyuc.org</a>. </p></div>"/>
+    </field>
+    <field fieldid="87" ordby="800" id="636" name="NQMC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary was completed by ECRI Institute on January 6, 2014. The information was verified by the measure developer on February 26, 2014.</p>
+<p>The information was reaffirmed by the measure developer on May 10, 2016. </p></div>"/>
+    </field>
+    <field fieldid="88" ordby="810" id="637" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions. </p>
+<p>The Quality Indicators in Critically Ill Patients update 2011 can be used by any private or public body only for the purposes of research, clinical management, teaching and education, and will not be used for any other purpose. In all cases, full credit to the Spanish Society of Intensive Care Medicine (SEMICYUC) will be granted. The commercial use of the Quality Indicators in Critically Ill Patients update 2011 is explicitly forbidden. </p></div>"/>
+    </field>
+  </section>
+  <section secid="641" ordby="850" name="Production">
+    <field fieldid="1" ordby="1366" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Quality indicators in critically ill patients. Madrid (Spain): Spanish Society of Intensive and Critical Care and Units Coronary (SEMICYUC); 2011. 185 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NQMC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 02:13:02 Jul 06, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:37:30 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 207.951 (3)
+  esindex: 0.007
+  captures_list: 717.286
+  CDXLines.iter: 11.748 (3)
+  PetaboxLoader3.datanode: 64.97 (4)
+  exclusion.robots: 0.14
+  exclusion.robots.policy: 0.131
+  RedisCDXSource: 494.838
+  PetaboxLoader3.resolve: 193.365 (3)
+  load_resource: 66.272
+-->

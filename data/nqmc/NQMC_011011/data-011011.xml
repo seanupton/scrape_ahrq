@@ -1,0 +1,397 @@
+<version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlsource>
+  <section secid="560" ordby="10" name="General">
+    <field fieldid="11" ordby="20" id="561" name="Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Melanoma: percentage of patient visits, regardless of age, with a new occurrence of melanoma that have a treatment plan documented in the chart that was communicated to the physician(s) providing continuing care within one month of diagnosis.</div>"/>
+    </field>
+    <field fieldid="1" ordby="30" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>American Academy of Dermatology. Melanoma: coordination of care. Schaumburg (IL): American Academy of Dermatology; 2016 Nov 15. 12 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="563" ordby="40" name="Measure Domain">
+    <field fieldid="3025" ordby="50" id="564" name="Primary Measure Domain" type="picklist-one">
+      <fieldvalue value="Clinical Quality Measures: Process"/>
+    </field>
+    <field fieldid="3026" ordby="60" id="565" name="Secondary Measure Domain" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+  </section>
+  <section secid="566" ordby="70" name="Brief Abstract">
+    <field fieldid="34" ordby="80" id="567" name="Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is used to assess the percentage of patient visits, regardless of age, seen with a new occurrence of melanoma who have a treatment plan documented in the chart that was communicated to the physician(s) providing continuing care within one month of diagnosis. </p>
+<p>This measure is to be reported at <span style=&quot;text-decoration: underline;&quot;>each denominator eligible visit</span> occurring during the performance period ending November 30th for melanoma patients seen during the performance period. It is anticipated that eligible clinicians providing care for patients with melanoma will submit this measure.</p>
+<p>There are two reporting criteria for this measure:</p>
+<ol style=&quot;list-style-type: decimal;&quot; start=&quot;1&quot;>
+    <li>All visits for patients, regardless of age, diagnosed with a new occurrence of melanoma during excision of malignant lesion <br />
+    <strong>OR </strong></li>
+    <li>All visits for patients, regardless of age, diagnosed with a new occurrence of melanoma evaluated in an outpatient setting </li>
+</ol>
+<p>Although this measure contains two reporting criteria, there is <strong>only</strong> one reporting rate and one performance rate for this measure.</p></div>"/>
+    </field>
+    <field fieldid="21" ordby="90" id="568" name="Rationale" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Perceived lack of follow-up with primary care providers is reinforced in the Institute of Medicine (IOM) report on patient errors (Institute of Medicine Committee on Quality of Health Care in America, 1999). The intention of this measure is to enable the primary care provider to support, facilitate, and coordinate the care of the patient.</p>
+<p>Deficits in communication have clearly been shown to adversely affect post-discharge care transitions. A recent summary of the literature found that direct communication between hospital physicians and primary care physicians occurs infrequently (in 3% to 20% of cases studied), the availability of a discharge summary at the first post-discharge visit is low (12% to 34%) and did not improve greatly even after 4 weeks (51% to 77%), affecting the quality of care in approximately 25% of follow-up visits. This systematic review of the literature also found that discharge summaries often lack important information such as diagnostic test results, treatment or hospital course, discharge medications, test results pending at discharge, patient or family counseling, and follow-up plans (Kripalani et al., 2007).</p>
+<p><strong><span style=&quot;text-decoration: underline;&quot;>Clinical Recommendation Statements</span></strong></p>
+<p>Each local skin cancer multidisciplinary team (LSMDT) and specialist skin cancer multidisciplinary team (SSMDT) should have at least one skin cancer clinical nurse specialist (CNS) who will play a leading role in supporting patients and caregivers. There should be equity of access to information and support regardless of where the care is delivered. A checklist may be used by healthcare professionals to remind them to give patients and caregivers the information they need in an appropriate format for pre-diagnosis, diagnosis, treatment, follow-up, and palliative care. This may also include a copy of the letter confirming the diagnosis and treatment plan sent by the consultant to the general practitioner (GP).</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Provide a rapid referral service for patients who require specialist management through the LSMDT/SSMDT. </li>
+    <li>Be responsible for the provision of information, advice and support for patients managed in primary care and their caregivers. </li>
+    <li>Maintain a register of all patients treated, whose care should be part of a regular audit presented to the LSMDT/SSMDT. </li>
+    <li>Liaise and communicate with all members of the skin cancer site-specific network group. </li>
+    <li>Ensure that referring GPs are given prompt and full information about their patients' diagnosis or treatment in line with national standards on communication to GPs of cancer diagnoses. </li>
+    <li>Collect data for network-wide audit (National Collaborating Centre for Cancer, 2006). </li>
+</ul>
+<p>Communication and information exchange between the medical home and the receiving provider should occur in an amount of time that will allow the receiving provider to effectively treat the patient. This communication and information exchange should ideally occur whenever patients are at a transition of care, e.g., at discharge from the inpatient setting. The timeliness of this communication should be consistent with the patient's clinical presentation and, in the case of a patient being discharged, the urgency of the follow-up required. Communication and information exchange between the MD and other physicians may be in the form of a call, voicemail, fax or other secure, private, and accessible means including mutual access to an electronic health record (EHR).</p>
+<p>The Transitions of Care Consensus Conference (TOCCC) proposed a minimal set of data elements that should always be part of the transition record and be part of any initial implementation of this standard. That list includes the following: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Principal diagnosis and problem list </li>
+    <li>Medication list (reconciliation) including over the counter/herbals, allergies and drug interactions </li>
+    <li>Clearly identifies the medical home/transferring coordinating physician/institution and their contact information </li>
+    <li>Patient's cognitive status </li>
+    <li>Test results/pending results </li>
+</ul>
+<p>The TOCCC recommended the following additional elements that should be included in an 'ideal transition record' in addition to the above: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Emergency plan and contact number and person </li>
+    <li>Treatment and diagnostic plan </li>
+    <li>Prognosis and goals of care </li>
+    <li>Advance directives, power of attorney, consent </li>
+    <li>Planned interventions, durable medical equipment, wound care, etc. </li>
+    <li>Assessment of caregiver status </li>
+    <li>Patients and/or their family/caregivers must receive, understand and be encouraged to participate in the development of their transition record which should take into consideration the patient's health literacy, insurance status and be culturally sensitive (Snow et al., 2009). </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="3500" ordby="100" id="569" name="Evidence for Rationale" type="citation">
+      <fieldvalue value="<table><tr><td>American Academy of Dermatology. Melanoma: coordination of care. Schaumburg (IL): American Academy of Dermatology; 2016 Nov 15. 12 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Institute of Medicine Committee on Quality of Health Care in America. Kohn LT, Corrigan JM, Donaldson MS, editor(s). To err is human: building a safer health system. Washington (DC): National Academy Press; 1999 Nov. 223 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Kripalani S, Lefevre F, Phillips CO, Williams MV, Basaviah P, Baker DW. Deficits in communication and information transfer between hospital-based and primary care physicians: implications for patient safety and continuity of care. JAMA. 2007 Feb 28;297(8):831-41. [133 references] <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=17327525&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>National Collaborating Centre for Cancer. Guidance on cancer services: improving outcomes for people with skin tumours including melanoma. London (UK): National Institute for Health and Clinical Excellence (NICE); 2006 Feb. 174 p.  [32 references]</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Snow V, Beck D, Budnitz T, Miller DC, Potter J, Wears RL, Weiss KB, Williams MV, American College of Physicians, Society of General Internal Medicine, Society of Hospital Medicine, American Geriatrics Society, American College of Emergency Physicians, Society of Academic Emergency Medicine. Transitions of care consensus policy statement American College of Physicians-Society of General Internal Medicine-Society of Hospital Medicine-American Geriatrics Society-American College of Emergency Physicians Society of Academic Emergency Medicine. J Gen Intern Med. 2009;24(8):971-6. <a href=&quot;http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&amp;db=pubmed&amp;dopt=Abstract&amp;list_uids=19343456&quot; target=&quot;_blank&quot;>PubMed</a></td></tr></table>"/>
+    </field>
+    <field fieldid="3022" ordby="110" id="570" name="Primary Health Components" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Melanoma; treatment plan; coordination of care</p></div>"/>
+    </field>
+    <field fieldid="23" ordby="120" id="571" name="Denominator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All visits for patients, regardless of age, diagnosed with a new occurrence of melanoma during excision of malignant lesion or evaluated in an outpatient setting (see the related &quot;Denominator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+    <field fieldid="24" ordby="130" id="572" name="Numerator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Patient visits with a treatment plan documented in the chart that was communicated to the physician(s) providing continuing care within one month of diagnosis (see the related &quot;Numerator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+  </section>
+  <section secid="573" ordby="140" name="Evidence Supporting the Measure">
+    <field fieldid="3027" ordby="150" id="574" name="Type of Evidence Supporting the Criterion of Quality for the Measure" type="picklist-choice">
+      <fieldvalue value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence"/>
+      <fieldvalue value="One or more research studies published in a National Library of Medicine (NLM) indexed, peer-reviewed journal"/>
+    </field>
+    <field fieldid="3501" ordby="160" id="575" name="Additional Information Supporting Need for the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3072" ordby="180" id="577" name="Extent of Measure Testing" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The American Medical Association (AMA)-convened Physician Consortium for Performance Improvement (PCPI) in collaboration with the American Academy of Dermatology conducted a testing project to ensure that the melanoma measures were feasible to implement, valid and reliable. Overall, the measures were found to be valid and reliable.</p>
+<p><em>Face Validity Testing</em></p>
+<p>Face validity of the measure score was assessed for three of the four melanoma measures. The American Academy of Dermatology Quality Metrics Committee members were asked to empirically assess face validity of these measures via online survey. The expert panel consisted of 13 members, whose specialties include oncology, melanoma, dermatology, and surgical oncology. </p>
+<p>After the measure was fully specified, the expert panel was asked to rate their agreement with the following statement: &quot;The scores obtained from the measure, as specified, will provide an accurate reflection of quality and can be used to distinguish good and poor quality.&quot;</p>
+<p><em>Face Validity Testing Results</em></p>
+<table border=&quot;1&quot; summary=&quot;Face Validity Results&quot;>
+    <thead>
+        <tr>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot; scope=&quot;col&quot;>Measure Number and Title</th>
+            <th width=&quot;10%&quot; class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot; scope=&quot;col&quot;>N</th>
+            <th width=&quot;15%&quot; class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot; scope=&quot;col&quot;>Mean Rating</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; rowspan=&quot;2&quot; scope=&quot;col&quot;>Percentage in Top Two Categories (4 and 5)</th>
+            <th width=&quot;25%&quot; class=&quot;Center&quot; valign=&quot;top&quot; colspan=&quot;5&quot; scope=&quot;col&quot;>Frequency Distribution of Ratings*</th>
+        </tr>
+        <tr>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>1</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>2</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>3</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>4</th>
+            <th class=&quot;Center&quot; valign=&quot;top&quot;>5</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td valign=&quot;top&quot;>#2 Melanoma Continuity of Care - Recall System</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>10</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4.60</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>100.0%</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>6</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>#3 Melanoma Coordination of Care</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>10</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4.50</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>100.0%</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>5</td>
+        </tr>
+        <tr>
+            <td valign=&quot;top&quot;>#4 Overutilization of Imaging Studies in Melanoma</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>10</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>4.70</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>90.0%</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>0</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>1</td>
+            <td class=&quot;Center&quot; valign=&quot;top&quot;>8</td>
+        </tr>
+    </tbody>
+</table>
+<p class=&quot;Note&quot;>*Scale from 1-5, where 1 (Strongly Disagree); 3 (Neither Agree nor Disagree); 5 (Strongly Agree)</p>
+<p><em>Reliability Testing</em></p>
+<p>Inter-rater reliability testing (i.e., manual review of the patient medical record by two trained clinical abstractors and comparison of their individual findings) was conducted at three dermatology practice sites on three of the four melanoma measures (i.e., measures 2, 3 and 4). These sites represent various types, locations, and sizes. Kappa statistics were calculated at the data element level for the denominator, numerator and exceptions categories. Data element reliability was established based on the results of this analysis. </p>
+<p><em>Reliability Testing Results</em></p>
+<p>The PCPI measure testing project revealed that the data elements for measure 2 demonstrated moderate to almost perfect reliability, the data elements for measure 3 demonstrated fair to almost perfect reliability and the data elements for measure 4 demonstrated moderate to almost perfect reliability in the numerator category. </p></div>"/>
+    </field>
+    <field fieldid="3007" ordby="190" id="578" name="Evidence for Extent of Measure Testing" type="citation">
+      <fieldvalue value="<table><tr><td>American Academy of Dermatology, American Medical Association (AMA)-convened Physician Consortium for Performance Improvement®, National Committee for Quality Assurance. Melanoma II physician performance measurement set. Chicago (IL): American Medical Association (AMA); 2012 Nov. 28 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="580" ordby="210" name="State of Use of the Measure">
+    <field fieldid="3029" ordby="220" id="581" name="State of Use" type="picklist-one">
+      <fieldvalue value="Current routine use"/>
+    </field>
+    <field fieldid="3030" ordby="230" id="582" name="Current Use" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="583" ordby="240" name="Application of the Measure in its Current Use">
+    <field fieldid="3031" ordby="250" id="584" name="Measurement Setting" type="picklist-choice">
+      <fieldvalue value="Ambulatory/Office-based Care"/>
+      <fieldvalue value="Transition"/>
+    </field>
+    <field fieldid="3038" ordby="255" id="697" name="Type of Care Coordination" type="picklist-many">
+      <fieldvalue value="Coordination across provider teams/sites"/>
+    </field>
+    <field fieldid="3032" ordby="260" id="585" name="Professionals Involved in Delivery of Health Services" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3033" ordby="270" id="586" name="Least Aggregated Level of Services Delivery Addressed" type="picklist-one">
+      <fieldvalue value="Individual Clinicians or Public Health Professionals"/>
+    </field>
+    <field fieldid="3505" ordby="280" id="587" name="Statement of Acceptable Minimum Sample Size" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="41" ordby="290" id="588" name="Target Population Age" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>All patients, regardless of age</p></div>"/>
+    </field>
+    <field fieldid="42" ordby="300" id="589" name="Target Population Gender" type="picklist-one">
+      <fieldvalue value="Either male or female"/>
+    </field>
+  </section>
+  <section secid="660" ordby="310" name="National Strategy for Quality Improvement in Health Care">
+    <field fieldid="3522" ordby="320" id="661" name="National Quality Strategy Aim" type="text">
+      <fieldvalue value="<ul><li>Better Care</li></ul>"/>
+    </field>
+    <field fieldid="3525" ordby="330" id="662" name="National Quality Strategy Priority" type="text">
+      <fieldvalue value="<ul><li>Effective Communication and Care Coordination</li><li>Prevention and Treatment of Leading Causes of Mortality</li></ul>"/>
+    </field>
+  </section>
+  <section secid="590" ordby="340" name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <field fieldid="3163" ordby="350" id="591" name="IOM Care Need" type="picklist-choice">
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="3164" ordby="360" id="592" name="IOM Domain" type="picklist-choice">
+      <fieldvalue value="Effectiveness"/>
+    </field>
+  </section>
+  <section secid="593" ordby="370" name="Data Collection for the Measure">
+    <field fieldid="3506" ordby="380" id="594" name="Case Finding Period" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The reporting period</p></div>"/>
+    </field>
+    <field fieldid="3054" ordby="390" id="595" name="Denominator Sampling Frame" type="picklist-one">
+      <fieldvalue value="Patients associated with provider"/>
+    </field>
+    <field fieldid="3057" ordby="400" id="598" name="Denominator (Index) Event or Characteristic" type="picklist-choice">
+      <fieldvalue value="Clinical Condition"/>
+      <fieldvalue value="Encounter"/>
+      <fieldvalue value="Therapeutic Intervention"/>
+    </field>
+    <field fieldid="3058" ordby="410" id="599" name="Denominator Time Window" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="55" ordby="420" id="596" name="Denominator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+<em><span style=&quot;text-decoration: underline;&quot;>Reporting Criteria 1</span></em>:<br />
+All visits for patients, regardless of age, diagnosed with a new occurrence of melanoma during excision of malignant lesion</p>
+<p><em>Denominator Criteria (Eligible Cases) Reporting Criteria 1</em>:</p>
+<p>Diagnosis for melanoma (refer to the original measure documentation for International Classification of Diseases, Tenth Revision, Clinical Modification [ICD-10-CM] codes)</p>
+<p><strong>AND</strong></p>
+<p>Patient encounter for excision of malignant melanoma (refer to the original measure documentation for Current Procedural Terminology [CPT] codes)</p>
+<p><span style=&quot;text-decoration: underline;&quot;><em>Reporting Criteria 2</em></span>:<br />
+All visits for patients, regardless of age, diagnosed with a new occurrence of melanoma evaluated in an outpatient setting</p>
+<p><em>Denominator Criteria (Eligible Cases) Reporting Criteria 2</em>:</p>
+<p>Diagnosis for melanoma (refer to the original measure documentation for ICD-10-CM codes)</p>
+<p><strong>AND</strong></p>
+<p>Patient encounter during the performance period (refer to the original measure documentation for CPT codes)</p>
+<p><strong>WITHOUT</strong></p>
+<p>Telehealth Modifier (refer to the original measure documentation for Telehealth Modifiers)</p>
+<p><strong>Exclusions</strong><br />
+Unspecified</p>
+<p><strong>Exceptions</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Documentation of patient reason(s) for not communicating treatment plan to the primary care physician(s) (PCP) (e.g., patient asks that treatment plan not be communicated to the physician[s] providing continuing care) </li>
+    <li>Documentation of system reason(s) for not communicating treatment plan to the PCP(s) (e.g., patient does not have a PCP or referring physician) </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="3507" ordby="430" id="597" name="Exclusions/Exceptions" type="picklist-choice-4">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="59" ordby="440" id="600" name="Numerator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Patient visits with a treatment plan documented in the chart that was communicated to the physician(s) providing continuing care within one month of diagnosis</p>
+<p class=&quot;Note&quot;><strong>Note</strong>:</p>
+<ul class=&quot;Note&quot; style=&quot;list-style-type: disc;&quot;>
+    <li>A treatment plan should include the following elements: diagnosis, tumor thickness, and plan for surgery or alternate care. </li>
+    <li>Communication may include: documentation in the medical record that the physician(s) treating the melanoma communicated (e.g., verbally, by letter, copy of treatment plan sent) with the physician(s) providing the continuing care OR a copy of a letter in the medical record outlining whether the patient was or should be treated for melanoma. </li>
+</ul>
+<p class=&quot;Note&quot;>Refer to the original measure documentation for administrative codes.</p>
+<p><strong>Exclusions</strong><br />
+None</p></div>"/>
+    </field>
+    <field fieldid="3061" ordby="450" id="601" name="Numerator Search Strategy" type="picklist-one">
+      <fieldvalue value="Fixed time period or point in time"/>
+    </field>
+    <field fieldid="3062" ordby="460" id="602" name="Data Source" type="picklist-many">
+      <fieldvalue value="Administrative clinical data"/>
+      <fieldvalue value="Registry data"/>
+    </field>
+    <field fieldid="3065" ordby="470" id="603" name="Type of Health State" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3066" ordby="480" id="604" name="Instruments Used and/or Associated with the Measure" type="text">
+      <fieldvalue value="<ul style=&quot;list-style-type: disc;&quot;>
+    <li>2017 Registry Individual Measure Flow: #138: Melanoma: Coordination of Care - Reporting Criteria One </li>
+    <li>2017 Registry Individual Measure Flow: #138: Melanoma: Coordination of Care - Reporting Criteria Two </li>
+</ul>"/>
+    </field>
+  </section>
+  <section secid="605" ordby="490" name="Computation of the Measure">
+    <field fieldid="3508" ordby="500" id="606" name="Measure Specifies Disaggregation" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3067" ordby="520" id="608" name="Scoring" type="picklist-many">
+      <fieldvalue value="Rate/Proportion"/>
+    </field>
+    <field fieldid="3068" ordby="530" id="609" name="Interpretation of Score" type="picklist-one">
+      <fieldvalue value="Desired value is a higher score"/>
+    </field>
+    <field fieldid="3090" ordby="540" id="610" name="Allowance for Patient or Population Factors" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3070" ordby="560" id="612" name="Standard of Comparison" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="615" ordby="590" name="Identifying Information">
+    <field fieldid="73" ordby="600" id="616" name="Original Title" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Measure #138: melanoma: coordination of care.</p></div>"/>
+    </field>
+    <field fieldid="74" ordby="610" id="617" name="Measure Collection Name" type="text">
+      <fieldvalue value="Melanoma Measures"/>
+    </field>
+    <field fieldid="16" ordby="650" id="621" name="Submitter" type="orglist">
+      <fieldvalue value="American Academy of Dermatology - Medical Specialty Society"/>
+    </field>
+    <field fieldid="17" ordby="660" id="622" name="Developer" type="orglist-p">
+      <fieldvalue value="American Academy of Dermatology - Medical Specialty Society"/>
+      <fieldvalue value="National Committee for Quality Assurance - Health Care Accreditation Organization"/>
+      <fieldvalue value="Physician Consortium for Performance Improvement® - Clinical Specialty Collaboration"/>
+    </field>
+    <field fieldid="79" ordby="670" id="623" name="Funding Source(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="80" ordby="680" id="624" name="Composition of the Group that Developed the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Melanoma Work Group</em>: Dirk Elston, MD (<em>Co-Chair</em>; dermatology); Raj Behal, MD, MPH (<em>Co-Chair</em>; methodology); Steven D. Bines, MD (general surgery); Peter Dandalides, MD (health plan); Evan R. Farmer, MD (dermatology); Rutledge Fourney, MD (dermatology); Andrea Gelzer, MD, MS, FACP (health plan); Robert T. Gilson, MD (dermatology); Stephen E. Helms, MD (dermatology); Abrar Qureshi, MD (dermatology); Todd Schlessinger, MD (dermatology); John Schneider, MD, PhD (family medicine); Arthur Joel Sober, MD (dermatology); Steven W. Strode, MD, MEd, MPH (family medicine); Janet (Jessie) Sullivan, MD (dermatology); William Wooden, MD (plastic surgery)</p>
+<p><em>American Academy of Dermatology</em>: Sandra Peters, MHA; Alison Shippy, MPH; Carol Sieck, RN, MSN </p>
+<p><em>American Medical Association</em>: Mark Antman, DDS, MBA; Kendra Hanley, MS; Diedra Gray, MPH; Karen S. Kmetik, PhD; Kimberly Smuk, RHIA </p>
+<p><em>National Committee for Quality Assurance</em>: Benjamin N. Hamlin, MPH; Phil Renner, MBA</p>
+<p><em>Centers for Medicare &amp;amp; Medicaid Services</em>: Susan Nedza, MD, MBA, FACEP; Sylvia Publ, MBA, RHIA </p>
+<p><em>Facilitators</em>: Timothy F. Kresowik, MD; Rebecca A. Kresowik</p></div>"/>
+    </field>
+    <field fieldid="81" ordby="690" id="625" name="Financial Disclosures/Other Potential Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Conflicts, if any, are disclosed in accordance with the Physician Consortium for Performance Improvement&amp;#174; conflict of interest policy.</p></div>"/>
+    </field>
+    <field fieldid="3083" ordby="720" id="628" name="Measure Initiative(s)" type="picklist-many">
+      <fieldvalue value="Physician Quality Reporting System"/>
+    </field>
+    <field fieldid="19" ordby="730" id="629" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="3086" ordby="740" id="630" name="Date of Most Current Version in NQMC" type="date">
+      <fieldvalue value="2016 Nov"/>
+    </field>
+    <field fieldid="3511" ordby="750" id="631" name="Measure Maintenance" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3512" ordby="760" id="632" name="Date of Next Anticipated Revision" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="20" ordby="770" id="633" name="Measure Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: American Academy of Dermatology, American Medical Association (AMA)-convened Physician Consortium for Performance Improvement&amp;reg;, National Committee for Quality Assurance. Melanoma II physician performance measurement set. Chicago (IL): American Medical Association (AMA); 2012 Nov. 28 p. </p></div>"/>
+    </field>
+    <field fieldid="14" ordby="780" id="634" name="Measure Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Source available from the <a href=&quot;https://www.aad.org/practicecenter/quality/quality-measures/2017-measures#undefined&quot; title=&quot;American Academy of Dermatology (AAD) Web site&quot;>American Academy of Dermatology (AAD) Web site</a>.</p>
+<p>For more information, contact the AAD at 930 E. Woodfield Road Schaumburg, IL 60173; Phone: 847-240-3376; Fax: 847-240-1859; Web site: <a href=&quot;https://www.aad.org/&quot; title=&quot;AAD Web site&quot;>www.aad.org</a>.</p></div>"/>
+    </field>
+    <field fieldid="87" ordby="800" id="636" name="NQMC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary was completed by ECRI Institute on October 2, 2007. The information was verified by the measure developer on November 21, 2007. </p>
+<p>This NQMC summary was edited by ECRI Institute on September 1, 2009. </p>
+<p>This NQMC summary was retrofitted into the new template on June 7, 2011. </p>
+<p>This NQMC summary was edited again by ECRI Institute on April 27, 2012. </p>
+<p>This NQMC summary was updated by ECRI Institute on September 3, 2013.</p>
+<p>Stewardship for this measure was transferred from the PCPI to the American Academy of Dermatology. The American Academy of Dermatology informed NQMC that this measure was updated. This NQMC summary was updated again by ECRI Institute on March 15, 2017. The information was verified by the measure developer on April 5, 2017. </p></div>"/>
+    </field>
+    <field fieldid="88" ordby="810" id="637" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary is based on the original measure, which is subject to the measure developer's copyright restrictions.</p>
+<p>The Measure, while copyrighted, can be reproduced and distributed, without modification, <strong>for noncommercial purposes</strong>, e.g., use by health care providers in connection with their practices. Commercial use is defined as the sale, license, or distribution of the Measures for commercial gain, or incorporation of the Measures into a product or service that is sold, licensed or distributed for commercial gain.</p>
+<p>Commercial uses of the Measure requires a license agreement between the user and the American Medical Association (AMA), [on behalf of the Physician Consortium for Performance Improvement&amp;reg; (PCPI&amp;reg;)] or American Academy of Dermatology (AAD). Neither the AMA, AAD, PCPI, nor its members shall be responsible for any use of the Measure.</p>
+<p>The AMA's, PCPI's and National Committee for Quality Assurance's significant past efforts and contributions to the development and updating of the Measure is acknowledged. AAD is solely responsible for the review and enhancement (&quot;Maintenance&quot;) of the Measure as of June 30, 2014.</p>
+<p>AAD encourages use of the Measure by other health care professionals, where appropriate. </p>
+<p><strong>The Measures and Specifications are provided &quot;as is&quot; without warranty of any kind</strong>.</p></div>"/>
+    </field>
+  </section>
+  <section secid="641" ordby="850" name="Production">
+    <field fieldid="1" ordby="1366" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>American Academy of Dermatology. Melanoma: coordination of care. Schaumburg (IL): American Academy of Dermatology; 2016 Nov 15. 12 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NQMC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 18:19:01 Jun 24, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 23:52:05 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 1014.847 (3)
+  esindex: 0.015
+  captures_list: 1038.455
+  CDXLines.iter: 13.969 (3)
+  PetaboxLoader3.datanode: 38.345 (4)
+  exclusion.robots: 0.369
+  exclusion.robots.policy: 0.349
+  RedisCDXSource: 5.033
+  PetaboxLoader3.resolve: 1079.211 (3)
+  load_resource: 132.673
+-->

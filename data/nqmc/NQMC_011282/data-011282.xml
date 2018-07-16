@@ -1,0 +1,338 @@
+<version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlsource>
+  <section secid="560" ordby="10" name="General">
+    <field fieldid="11" ordby="20" id="561" name="Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Hospital inpatients' experiences: percentage of adult inpatients who reported how often their doctors communicated well.</div>"/>
+    </field>
+    <field fieldid="1" ordby="30" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Centers for Medicare &amp; Medicaid Services (CMS). HCAHPS survey. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Mar. 18 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="563" ordby="40" name="Measure Domain">
+    <field fieldid="3025" ordby="50" id="564" name="Primary Measure Domain" type="picklist-one">
+      <fieldvalue value="Clinical Quality Measures: Patient Experience"/>
+    </field>
+    <field fieldid="3026" ordby="60" id="565" name="Secondary Measure Domain" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+  </section>
+  <section secid="566" ordby="70" name="Brief Abstract">
+    <field fieldid="34" ordby="80" id="567" name="Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is used to assess the percentage of adult inpatients who reported how often (&quot;Never,&quot; &quot;Sometimes,&quot; &quot;Usually,&quot; &quot;Always&quot;) their doctors communicated well. </p>
+<p>The &quot;Communication with Doctors&quot; composite measure is based on three questions on the CAHPS Hospital Survey that ask patients: </p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>During this hospital stay, how often did doctors treat you with <span style=&quot;text-decoration: underline;&quot;>courtesy and respect</span>? </li>
+    <li>During this hospital stay, how often did doctors <span style=&quot;text-decoration: underline;&quot;>listen carefully to you</span>? </li>
+    <li>During this hospital stay, how often did doctors <span style=&quot;text-decoration: underline;&quot;>explain things</span> in a way you could understand? </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: A composite score is calculated in which a higher score indicates better quality. Composite scores are intended for consumer-level reporting.</p></div>"/>
+    </field>
+    <field fieldid="21" ordby="90" id="568" name="Rationale" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Hospital Consumer Assessment of Healthcare Providers and Systems Survey, better known as HCAHPS, is part of a larger Consumer Assessment of Healthcare Providers and Systems (CAHPS) program sponsored by the Agency for Healthcare Research and Quality (AHRQ). CAHPS was initiated by AHRQ in 1995 to establish survey and reporting products that provide consumers with information on health plan and provider performance. Since 1995, the initiative has grown to include a range of health care services at multiple levels of the delivery system. HCAHPS was developed by AHRQ in response to the Centers for Medicare &amp;amp; Medicaid Services' (CMS) request for a survey that supports the assessment of patients' perspectives on hospital care. </p>
+<p>The purpose of HCAHPS is to uniformly measure and publicly report patients' perspectives on their inpatient care. While many hospitals collected information on patients' satisfaction with care, there was no national standard for collecting this information that would yield valid comparisons across all hospitals. HCAHPS represents the first national standard for the collection of information on patients' perspectives about their inpatient care. </p>
+<p>Three broad goals have shaped the HCAHPS Survey. First, the survey is designed to produce comparable data on patients' perspectives of care that allows objective and meaningful comparisons between hospitals on domains that are important to consumers. Second, public reporting of the survey results is designed to create incentives for hospitals to improve their quality of care. Third, public reporting will serve to enhance public accountability in health care by increasing the transparency of the quality of hospital care provided in return for the public investment. With these goals in mind, the HCAHPS project has taken substantial steps to assure that the survey is credible, useful and practical. This methodology and the information it generates is made available to the public.</p></div>"/>
+    </field>
+    <field fieldid="3500" ordby="100" id="569" name="Evidence for Rationale" type="citation">
+      <fieldvalue value="<table><tr><td>Centers for Medicare &amp; Medicaid Services (CMS). CAHPS® Hospital Survey (HCAHPS). Quality assurance guidelines. Version 12.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Mar. Various p. </td></tr></table>"/>
+    </field>
+    <field fieldid="3022" ordby="110" id="570" name="Primary Health Components" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Inpatient care; patient experience; communication with doctors</p></div>"/>
+    </field>
+    <field fieldid="23" ordby="120" id="571" name="Denominator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Hospital inpatients with an admission during the reporting period who answered the &quot;Communication with Doctors&quot; questions on the CAHPS Hospital Survey (see the related &quot;Denominator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+    <field fieldid="24" ordby="130" id="572" name="Numerator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The number of &quot;Never,&quot; &quot;Sometimes,&quot; &quot;Usually,&quot; or &quot;Always&quot; responses on the &quot;Communication with Doctors&quot; questions (see the related &quot;Numerator Inclusions/Exclusions&quot; field)</p></div>"/>
+    </field>
+  </section>
+  <section secid="573" ordby="140" name="Evidence Supporting the Measure">
+    <field fieldid="3027" ordby="150" id="574" name="Type of Evidence Supporting the Criterion of Quality for the Measure" type="picklist-choice">
+      <fieldvalue value="A formal consensus procedure, involving experts in relevant clinical, methodological,  public health and organizational sciences"/>
+      <fieldvalue value="Focus groups"/>
+    </field>
+    <field fieldid="3501" ordby="160" id="575" name="Additional Information Supporting Need for the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3072" ordby="180" id="577" name="Extent of Measure Testing" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Agency for Healthcare Research and Quality (AHRQ) developed a draft CAHPS Hospital Survey (HCAHPS) instrument and submitted it to the Centers for Medicare &amp;amp; Medicaid Services (CMS) on January 15, 2003. The draft instrument was subsequently refined based on a multi-step process that included consumer testing, additional stakeholder and public input, a CMS directed three state pilot test, and additional field testing. </p>
+<p><em>HCAHPS Three State Pilot Test</em></p>
+<p>CMS pilot tested the January 15, 2003 version of the HCAHPS instrument through a contract with the Quality Improvement Organizations (QIOs) in three states (Arizona, Maryland, and New York) (CAHPS II Investigators &amp;amp; AHRQ, 2003). The pilot test included 132 hospitals and resulted in over 19,000 completed surveys. Testing began in June 2003 and ended in August 2003. The results of the CMS pilot test were utilized to refine the survey instrument (Westat, 2005). Following the pilot in these three states, the survey instrument was tested in Connecticut as an additional test state.</p>
+<p><em>Focus Groups</em></p>
+<p>AHRQ and CMS conducted six focus groups with consumers in October 2003 and another 10 in March 2004. These focus groups, conducted in four cities, included adults who had a recent experience in a hospital or were a caregiver for someone who had been in the hospital. Information obtained from the focus groups was used to further refine the survey instrument.</p>
+<p><em>Additional Field Testing</em></p>
+<p>Over a 6-month period beginning in fall 2003, AHRQ tested the instrument in five volunteer sites encompassing over 375 hospitals:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Calgary Health Region </li>
+    <li>California Institute for Health System Performance </li>
+    <li>California Regions of Kaiser Permanente </li>
+    <li>Massachusetts General Hospital, and </li>
+    <li>Premier Incorporated </li>
+</ul>
+<p>The CAHPS team used these field tests to learn more about the hospital survey implementation process, including the survey instrument, sampling processes, data collection processes, and other related issues (AHRQ, 2004).</p>
+<p><em>Pre-implementation Testing</em></p>
+<p>In the summer of 2004, AHRQ provided an opportunity for hospitals and survey vendors to test the current instrument on their own. The purpose of this test was to help identify ways to minimize the potential burden and disruption posed by the integration of the HCAHPS survey into existing survey efforts. Through these test sites, researchers formally and scientifically investigated various approaches to integrating the survey items with existing questionnaires, as well as alternative protocols for administering the survey.</p></div>"/>
+    </field>
+    <field fieldid="3007" ordby="190" id="578" name="Evidence for Extent of Measure Testing" type="citation">
+      <fieldvalue value="<table><tr><td>Agency for Healthcare Research and Quality (AHRQ). AHRQ Web site: voluntary testing of HCAHPS. [internet]. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2004 Dec.&amp;nbsp;</td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>CAHPS® II Investigators, Agency for Healthcare Research and Quality (AHRQ). HCAHPS three-state pilot study analysis results. Rockville (MD): Agency for Healthcare Research and Quality (AHRQ); 2003 Dec 22. 120 p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Centers for Medicare &amp; Medicaid Services (CMS). CAHPS® Hospital Survey (HCAHPS). Quality assurance guidelines. Version 12.0. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Mar. Various p. </td></tr></table>"/>
+      <fieldvalue value="<table><tr><td>Westat. CAHPS-SUN web site: development and testing of the CAHPS Hospital Survey. [internet]. Rockville (MD): Westat; 2005 Apr 20.&amp;nbsp;</td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="580" ordby="210" name="State of Use of the Measure">
+    <field fieldid="3029" ordby="220" id="581" name="State of Use" type="picklist-one">
+      <fieldvalue value="Current routine use"/>
+    </field>
+    <field fieldid="3030" ordby="230" id="582" name="Current Use" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="583" ordby="240" name="Application of the Measure in its Current Use">
+    <field fieldid="3031" ordby="250" id="584" name="Measurement Setting" type="picklist-choice">
+      <fieldvalue value="Hospital Inpatient"/>
+    </field>
+    <field fieldid="3032" ordby="260" id="585" name="Professionals Involved in Delivery of Health Services" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3033" ordby="270" id="586" name="Least Aggregated Level of Services Delivery Addressed" type="picklist-one">
+      <fieldvalue value="Single Health Care Delivery or Public Health Organizations"/>
+    </field>
+    <field fieldid="3505" ordby="280" id="587" name="Statement of Acceptable Minimum Sample Size" type="picklist-one">
+      <fieldvalue value="Specified"/>
+    </field>
+    <field fieldid="41" ordby="290" id="588" name="Target Population Age" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Age greater than or equal to 18 years</p></div>"/>
+    </field>
+    <field fieldid="42" ordby="300" id="589" name="Target Population Gender" type="picklist-one">
+      <fieldvalue value="Either male or female"/>
+    </field>
+  </section>
+  <section secid="660" ordby="310" name="National Strategy for Quality Improvement in Health Care">
+    <field fieldid="3522" ordby="320" id="661" name="National Quality Strategy Aim" type="text">
+      <fieldvalue value="<ul><li>Better Care</li></ul>"/>
+    </field>
+    <field fieldid="3525" ordby="330" id="662" name="National Quality Strategy Priority" type="text">
+      <fieldvalue value="<ul><li>Person- and Family-centered Care</li></ul>"/>
+    </field>
+  </section>
+  <section secid="590" ordby="340" name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <field fieldid="3163" ordby="350" id="591" name="IOM Care Need" type="picklist-choice">
+      <fieldvalue value="Getting Better"/>
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="3164" ordby="360" id="592" name="IOM Domain" type="picklist-choice">
+      <fieldvalue value="Patient-centeredness"/>
+    </field>
+  </section>
+  <section secid="593" ordby="370" name="Data Collection for the Measure">
+    <field fieldid="3506" ordby="380" id="594" name="Case Finding Period" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>One month</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: The basic sampling procedure for the CAHPS Hospital Survey (HCAHPS) requires the drawing of a random sample of eligible monthly discharges. Data will be collected from patients in each monthly sample over the 12-month reporting period, and will be aggregated on a quarterly basis to create a rolling 4-quarter data file for each hospital.</p></div>"/>
+    </field>
+    <field fieldid="3054" ordby="390" id="595" name="Denominator Sampling Frame" type="picklist-one">
+      <fieldvalue value="Patients associated with provider"/>
+    </field>
+    <field fieldid="3057" ordby="400" id="598" name="Denominator (Index) Event or Characteristic" type="picklist-choice">
+      <fieldvalue value="Clinical Condition"/>
+      <fieldvalue value="Institutionalization"/>
+      <fieldvalue value="Patient/Individual (Consumer) Characteristic"/>
+    </field>
+    <field fieldid="3058" ordby="410" id="599" name="Denominator Time Window" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="55" ordby="420" id="596" name="Denominator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Hospital inpatients with an admission during the reporting period who meet the following eligibility criteria and answered the &quot;Communication with Doctors&quot; questions on the CAHPS Hospital Survey (HCAHPS):</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>18 years or older at the time of admission </li>
+    <li>Admission includes at least one overnight stay in the hospital
+    <ul style=&quot;list-style-type: disc;&quot;>
+        <li>An overnight stay is defined as an inpatient admission in which the patient's admission date is different from the patient's discharge date. The admission need not be 24 hours in length. For example, a patient had an overnight stay if he or she was admitted at 11:00 PM on Day 1, and discharged at 10:00 AM on Day 2. Patients who did not have an overnight stay should not be included in the sample frame (e.g., patients who were admitted for a short period of time solely for observation; patients admitted for same day diagnostic tests as part of outpatient care). </li>
+    </ul>
+    </li>
+    <li>Non-psychiatric Medicare Severity-Diagnosis Related Group (MS-DRG)/principal diagnosis at discharge
+    <p class=&quot;Note&quot;><strong>Note</strong>: Patients whose principal diagnosis falls within the Maternity Care, Medical, or Surgical service lines and who also have a secondary psychiatric diagnosis are still eligible for the survey.</p>
+    </li>
+    <li>Alive at the time of discharge </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: The basic sampling procedure for HCAHPS entails drawing a random sample of all eligible discharges from a hospital on a monthly basis. Sampling may be conducted either continuously throughout the month or at the end of the month, as long as a random sample is generated from the entire month. If the hospital/survey vendor chooses to sample continuously, each sample must be drawn using the same sampling ratio (for instance 25 percent of eligible discharges or every fourth eligible discharge) and the same sampling timeframe (for instance, every 24 hours, 48 hours, week, etc.) throughout the month. Refer to the &quot;CAHPS&amp;reg; Hospital Survey (HCAHPS). Quality Assurance Guidelines. Version 12.0&quot; for additional information (see the &quot;Companion Documents&quot; field).</p>
+<p><strong>Exclusions</strong></p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>&quot;No-Publicity&quot; patients &amp;ndash; Patients who request that they not be contacted </li>
+    <li>Court/Law enforcement patients (i.e., prisoners); this does not include patients residing in halfway houses </li>
+    <li>Patients with a foreign home address (the United States [U.S.] territories &amp;ndash; Virgin Islands, Puerto Rico, Guam, American Samoa, and Northern Mariana Islands &amp;ndash; are not considered foreign addresses and therefore are not excluded) </li>
+    <li>Patients discharged to hospice care (hospice-home or hospice-medical facility) </li>
+    <li>Patients who are excluded because of state regulations </li>
+    <li>Patients discharged to nursing home and skilled nursing facilities </li>
+    <li>Pediatric patients (under 18 years old at admission) and patients with a primary psychiatric or substance abuse diagnosis are ineligible because the current HCAHPS instrument is not designed to address the unique situation of pediatric patients and their families, or the behavioral health issues pertinent to psychiatric patients.&amp;nbsp; </li>
+</ul>
+<p class=&quot;Note&quot;><strong>Note</strong>: Patients must be included in the HCAHPS Survey sample frame unless the hospital/survey vendor has positive evidence that a patient is ineligible or fits within an excluded category. If information is missing on <em>any </em>variable that affects survey eligibility when the sample frame is constructed, the patient must be included in the sample frame.</p></div>"/>
+    </field>
+    <field fieldid="3507" ordby="430" id="597" name="Exclusions/Exceptions" type="picklist-choice-4">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="59" ordby="440" id="600" name="Numerator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+The number of &quot;Never,&quot; &quot;Sometimes,&quot; &quot;Usually,&quot; or &quot;Always&quot; responses on the &quot;Communication with Doctors&quot; questions</p>
+<p>From the responses, a composite score is calculated in which a higher score indicates better quality.</p>
+<p class=&quot;Note&quot;><strong>Note</strong>: To produce composite scores, the proportion of cases in each response category for each question is calculated. Once the proportions are calculated for each response category, the average proportion of those responding to each category is then calculated across all the questions that make up a specific composite. Only the questions answered by the patient are included in the composite calculation.</p>
+<p><strong>Exclusions</strong><br />
+Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3061" ordby="450" id="601" name="Numerator Search Strategy" type="picklist-one">
+      <fieldvalue value="Fixed time period or point in time"/>
+    </field>
+    <field fieldid="3062" ordby="460" id="602" name="Data Source" type="picklist-many">
+      <fieldvalue value="Administrative clinical data"/>
+      <fieldvalue value="Patient/Individual survey"/>
+    </field>
+    <field fieldid="3065" ordby="470" id="603" name="Type of Health State" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3066" ordby="480" id="604" name="Instruments Used and/or Associated with the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>CAHPS Hospital Survey (HCAHPS)</p></div>"/>
+    </field>
+  </section>
+  <section secid="605" ordby="490" name="Computation of the Measure">
+    <field fieldid="3508" ordby="500" id="606" name="Measure Specifies Disaggregation" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3067" ordby="520" id="608" name="Scoring" type="picklist-many">
+      <fieldvalue value="Composite/Scale"/>
+      <fieldvalue value="Mean/Median"/>
+    </field>
+    <field fieldid="3068" ordby="530" id="609" name="Interpretation of Score" type="picklist-one">
+      <fieldvalue value="Desired value is a higher score"/>
+    </field>
+    <field fieldid="3090" ordby="540" id="610" name="Allowance for Patient or Population Factors" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3069" ordby="550" id="611" name="Description of Allowance for Patient or Population Factors" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>One of the methodological issues associated with making comparisons between hospitals is the need to adjust appropriately for patient-mix differences, survey mode, and non-response. Patient-mix refers to patient characteristics that are not under the control of the hospital that may affect measures of patient experiences, such as demographic characteristics and health status. The basic goal of adjusting for patient-mix is to estimate how different hospitals would be rated if they all provided care to comparable groups of patients.</p>
+<p>Before public reporting hospital results, the&amp;nbsp;Centers for Medicare &amp;amp; Medicaid Services (CMS) adjusts for patient characteristics that affect ratings and are differentially distributed across hospitals. Most of the patient-mix items are included in the &quot;About You&quot; section of the instrument, while others are from administrative records. Based on the CAHPS Hospital Survey (HCAHPS) mode experiment and pilot data, and consistent with previous studies of patient-mix adjustment in CAHPS and in previous hospital patient surveys, we use the following variables in the patient-mix adjustment model:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Type of service (medical, surgical, maternity care) </li>
+    <li>Age (specified as a categorical variable) </li>
+    <li>Education (specified as a linear variable) </li>
+    <li>Self-reported general health status (specified as a linear variable) </li>
+    <li>Response percentile (length of time between discharge and completion of survey) </li>
+    <li>Language spoken at home (English, Spanish, Chinese, or Russian/Vietnamese/Other) </li>
+    <li>Interaction of age by service </li>
+</ul>
+<p>Once the data are adjusted for patient-mix, there is a fixed adjustment for each of the reported measures for mode of administration (mail, telephone, mail with telephone follow-up, and active Interactive Voice Recognition). The patient-mix adjustment uses a regression methodology also referred to as covariance adjustment.</p>
+<p>For more information on survey mode and patient-mix adjustments of publicly reported HCAHPS scores, see &quot;Mode and Patient-mix Adjustment of the CAHPS Hospital Survey (HCAHPS),&quot; on the HCAHPS Web site at <a href=&quot;http://www.hcahpsonline.org/modeadjustment.aspx&quot; title=&quot;HCAHPS Web site&quot; target=&quot;_self&quot;>www.hcahpsonline.org/modeadjustment.aspx</a>.</p></div>"/>
+    </field>
+    <field fieldid="3070" ordby="560" id="612" name="Standard of Comparison" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="615" ordby="590" name="Identifying Information">
+    <field fieldid="73" ordby="600" id="616" name="Original Title" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Communication with doctors.</p></div>"/>
+    </field>
+    <field fieldid="74" ordby="610" id="617" name="Measure Collection Name" type="text">
+      <fieldvalue value="CAHPS Hospital Survey"/>
+    </field>
+    <field fieldid="16" ordby="650" id="621" name="Submitter" type="orglist">
+      <fieldvalue value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]"/>
+    </field>
+    <field fieldid="17" ordby="660" id="622" name="Developer" type="orglist-p">
+      <fieldvalue value="Agency for Healthcare Research and Quality - Federal Government Agency [U.S.]"/>
+      <fieldvalue value="CAHPS Consortium - Health Care Quality Collaboration"/>
+      <fieldvalue value="Centers for Medicare &amp; Medicaid Services - Federal Government Agency [U.S.]"/>
+    </field>
+    <field fieldid="79" ordby="670" id="623" name="Funding Source(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Centers for Medicare &amp; Medicaid Services</p></div>"/>
+    </field>
+    <field fieldid="80" ordby="680" id="624" name="Composition of the Group that Developed the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Agency for Healthcare Research and Quality (AHRQ), CAHPS Grantees, and the Division of Consumer Assessment &amp;amp; Plan Performance, Centers for Medicare &amp;amp; Medicaid Services</p></div>"/>
+    </field>
+    <field fieldid="81" ordby="690" id="625" name="Financial Disclosures/Other Potential Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>None</p></div>"/>
+    </field>
+    <field fieldid="82" ordby="700" id="626" name="Endorser" type="orglist">
+      <fieldvalue value="National Quality Forum - None"/>
+    </field>
+    <field fieldid="3091" ordby="705" id="696" name="NQF Number" type="plain-text">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3510" ordby="710" id="627" name="Date of Endorsement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>2015 Jan 7</p></div>"/>
+    </field>
+    <field fieldid="3083" ordby="720" id="628" name="Measure Initiative(s)" type="picklist-many">
+      <fieldvalue value="Hospital Compare"/>
+      <fieldvalue value="Hospital Inpatient Quality Reporting Program"/>
+    </field>
+    <field fieldid="19" ordby="730" id="629" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="3086" ordby="740" id="630" name="Date of Most Current Version in NQMC" type="date">
+      <fieldvalue value="2017 Mar"/>
+    </field>
+    <field fieldid="3511" ordby="750" id="631" name="Measure Maintenance" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3512" ordby="760" id="632" name="Date of Next Anticipated Revision" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="20" ordby="770" id="633" name="Measure Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: Centers for Medicare &amp;amp; Medicaid Services (CMS). HCAHPS survey. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS); 2014 Mar. 18 p. </p></div>"/>
+    </field>
+    <field fieldid="14" ordby="780" id="634" name="Measure Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Source available from the <a href=&quot;http://www.hcahpsonline.org/surveyinstrument.aspx&quot; title=&quot;HCAHPS Web site&quot;>HCAHPS Web site</a>.</p>
+<p>For more information, contact the Centers for Medicare &amp;amp; Medicaid Services (CMS) at <a href=&quot;mailto:Hospitalcahps@cms.hhs.gov&quot;>Hospitalcahps@cms.hhs.gov</a>. </p></div>"/>
+    </field>
+    <field fieldid="15" ordby="790" id="635" name="Companion Documents" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The following is available:</p>
+<ul style=&quot;list-style-type: disc;&quot;>
+    <li>Centers for Medicare &amp;amp; Medicaid Services (CMS). CAHPS&amp;reg; Hospital Survey (HCAHPS). Quality assurance guidelines. Version 12.0. Baltimore (MD): Centers for Medicare &amp;amp; Medicaid Services (CMS); 2017 Mar. 572 p. This document is available from the <a title=&quot;HCAHPS Web site&quot; href=&quot;http://www.hcahpsonline.org/Files/QAG_V12.0_2017.pdf&quot;>HCAHPS Web site</a>. </li>
+</ul></div>"/>
+    </field>
+    <field fieldid="87" ordby="800" id="636" name="NQMC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary was completed by ECRI on June 20, 2006. The information was verified by the measure developer on September 19, 2006. </p>
+<p>This NQMC summary was reviewed by the measure developer on August 4, 2010 and updated accordingly by ECRI Institute on September 1, 2010. </p>
+<p>This NQMC summary was retrofitted into the new template on May 3, 2011. </p>
+<p>This NQMC summary was updated by ECRI Institute on July 18, 2013. The information was verified by the measure developer on September 5, 2013.</p>
+<p>This NQMC summary was updated by ECRI Institute on November 11, 2014. The information was verified by the measure developer on December 16, 2014.</p>
+<p>This NQMC summary was updated again by ECRI Institute on October 4, 2017. The information was verified by the measure developer on October 31, 2017.</p></div>"/>
+    </field>
+    <field fieldid="88" ordby="810" id="637" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>No copyright restrictions apply.</p></div>"/>
+    </field>
+  </section>
+  <section secid="641" ordby="850" name="Production">
+    <field fieldid="1" ordby="1366" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Centers for Medicare &amp; Medicaid Services (CMS). HCAHPS survey. Baltimore (MD): Centers for Medicare &amp; Medicaid Services (CMS); 2017 Mar. 18 p. </td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NQMC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 20:56:01 Jun 24, 2018 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 00:50:27 Jul 16, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 275.854 (3)
+  esindex: 0.009
+  captures_list: 295.615
+  CDXLines.iter: 15.398 (3)
+  PetaboxLoader3.datanode: 100.969 (4)
+  exclusion.robots: 0.236
+  exclusion.robots.policy: 0.221
+  RedisCDXSource: 0.779
+  PetaboxLoader3.resolve: 327.882 (2)
+  load_resource: 194.712
+-->

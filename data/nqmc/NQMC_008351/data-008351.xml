@@ -1,0 +1,298 @@
+<version>
+  <xmlsource>This XML content was developed by AHRQ's contractor ECRI Institute for the National Quality Measures Clearinghouse (NQMC).</xmlsource>
+  <section secid="560" ordby="10" name="General">
+    <field fieldid="11" ordby="20" id="561" name="Title" type="text">
+      <fieldvalue value="<div class=&quot;content_title&quot;>Venous thromboembolism (VTE) diagnosis and treatment: percentage of patients with VTE who are initially prescribed warfarin therapy with documentation in the medical record indicating a baseline INR was obtained.</div>"/>
+    </field>
+    <field fieldid="1" ordby="30" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Dupras D, Bluhm J, Felty C, Hansen C, Johnson T, Lim K, Maddali S, Marshall P, Messner P, Skeik N. Venous thromboembolism diagnosis and treatment. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 Jan. 90 p.  [216 references]</td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="563" ordby="40" name="Measure Domain">
+    <field fieldid="3025" ordby="50" id="564" name="Primary Measure Domain" type="picklist-one">
+      <fieldvalue value="Clinical Quality Measures: Process"/>
+    </field>
+    <field fieldid="3026" ordby="60" id="565" name="Secondary Measure Domain" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+  </section>
+  <section secid="566" ordby="70" name="Brief Abstract">
+    <field fieldid="34" ordby="80" id="567" name="Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure is used to assess the percentage of patients age 18 years and older with venous thromboembolism (VTE) who are initially prescribed warfarin therapy with documentation in the medical record indicating a baseline international normalized ratio (INR) was obtained.</p></div>"/>
+    </field>
+    <field fieldid="21" ordby="90" id="568" name="Rationale" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The priority aim addressed by this measure is to safely use anticoagulants to reduce the likelihood of patient harm and complications of anticoagulation therapy.</p>
+<p>It is estimated that over one million patients are identified as having an acute venous thrombotic event in the United States annually. This includes patients with deep vein thrombosis and pulmonary embolism and is estimated to result in more than 100,000 deaths each year.</p></div>"/>
+    </field>
+    <field fieldid="3500" ordby="100" id="569" name="Evidence for Rationale" type="citation">
+      <fieldvalue value="<table><tr><td>Dupras D, Bluhm J, Felty C, Hansen C, Johnson T, Lim K, Maddali S, Marshall P, Messner P, Skeik N. Venous thromboembolism diagnosis and treatment. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 Jan. 90 p.  [216 references]</td></tr></table>"/>
+    </field>
+    <field fieldid="3022" ordby="110" id="570" name="Primary Health Components" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Venous thromboembolism (VTE); baseline international normalized ratio (INR); warfarin therapy </p></div>"/>
+    </field>
+    <field fieldid="23" ordby="120" id="571" name="Denominator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Number of patients age 18 years and older and diagnosed with venous thromboembolism (VTE) and initially prescribed warfarin</p></div>"/>
+    </field>
+    <field fieldid="24" ordby="130" id="572" name="Numerator Description" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Number of patients age 18 years and older and diagnosed with venous thromboembolism (VTE) who are initially prescribed warfarin therapy with documentation in the medical record indicating a baseline international normalized ratio (INR) was obtained</p></div>"/>
+    </field>
+  </section>
+  <section secid="573" ordby="140" name="Evidence Supporting the Measure">
+    <field fieldid="3027" ordby="150" id="574" name="Type of Evidence Supporting the Criterion of Quality for the Measure" type="picklist-choice">
+      <fieldvalue value="A clinical practice guideline or other peer-reviewed synthesis of the clinical research evidence"/>
+    </field>
+    <field fieldid="3501" ordby="160" id="575" name="Additional Information Supporting Need for the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3072" ordby="180" id="577" name="Extent of Measure Testing" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+  </section>
+  <section secid="580" ordby="210" name="State of Use of the Measure">
+    <field fieldid="3029" ordby="220" id="581" name="State of Use" type="picklist-one">
+      <fieldvalue value="Current routine use"/>
+    </field>
+    <field fieldid="3030" ordby="230" id="582" name="Current Use" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="583" ordby="240" name="Application of the Measure in its Current Use">
+    <field fieldid="3031" ordby="250" id="584" name="Measurement Setting" type="picklist-choice">
+      <fieldvalue value="Ambulatory/Office-based Care"/>
+      <fieldvalue value="Hospital Inpatient"/>
+      <fieldvalue value="Hospital Outpatient"/>
+    </field>
+    <field fieldid="3032" ordby="260" id="585" name="Professionals Involved in Delivery of Health Services" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3033" ordby="270" id="586" name="Least Aggregated Level of Services Delivery Addressed" type="picklist-one">
+      <fieldvalue value="Clinical Practice or Public Health Sites"/>
+    </field>
+    <field fieldid="3505" ordby="280" id="587" name="Statement of Acceptable Minimum Sample Size" type="picklist-one">
+      <fieldvalue value="Unspecified"/>
+    </field>
+    <field fieldid="41" ordby="290" id="588" name="Target Population Age" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Age greater than or equal to 18 years</p></div>"/>
+    </field>
+    <field fieldid="42" ordby="300" id="589" name="Target Population Gender" type="picklist-one">
+      <fieldvalue value="Either male or female"/>
+    </field>
+  </section>
+  <section secid="660" ordby="310" name="National Strategy for Quality Improvement in Health Care">
+    <field fieldid="3522" ordby="320" id="661" name="National Quality Strategy Aim" type="text">
+      <fieldvalue value="<ul><li>Better Care</li></ul>"/>
+    </field>
+    <field fieldid="3525" ordby="330" id="662" name="National Quality Strategy Priority" type="text">
+      <fieldvalue value="<ul><li>Prevention and Treatment of Leading Causes of Mortality</li></ul>"/>
+    </field>
+  </section>
+  <section secid="590" ordby="340" name="Institute of Medicine (IOM) National Health Care Quality Report Categories">
+    <field fieldid="3163" ordby="350" id="591" name="IOM Care Need" type="picklist-choice">
+      <fieldvalue value="Living with Illness"/>
+    </field>
+    <field fieldid="3164" ordby="360" id="592" name="IOM Domain" type="picklist-choice">
+      <fieldvalue value="Effectiveness"/>
+    </field>
+  </section>
+  <section secid="593" ordby="370" name="Data Collection for the Measure">
+    <field fieldid="3506" ordby="380" id="594" name="Case Finding Period" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The time frame pertaining to data collection is monthly.</p></div>"/>
+    </field>
+    <field fieldid="3054" ordby="390" id="595" name="Denominator Sampling Frame" type="picklist-one">
+      <fieldvalue value="Patients associated with provider"/>
+    </field>
+    <field fieldid="3057" ordby="400" id="598" name="Denominator (Index) Event or Characteristic" type="picklist-choice">
+      <fieldvalue value="Clinical Condition"/>
+      <fieldvalue value="Patient/Individual (Consumer) Characteristic"/>
+      <fieldvalue value="Therapeutic Intervention"/>
+    </field>
+    <field fieldid="3058" ordby="410" id="599" name="Denominator Time Window" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="55" ordby="420" id="596" name="Denominator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Number of patients age 18 years and older and diagnosed with venous thromboembolism (VTE) and initially prescribed warfarin</p>
+<p><strong>Exclusions</strong><br />
+Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3507" ordby="430" id="597" name="Exclusions/Exceptions" type="picklist-choice-4">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="59" ordby="440" id="600" name="Numerator Inclusions/Exclusions" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><strong>Inclusions</strong><br />
+Number of patients age 18 years and older and diagnosed with venous thromboembolism (VTE) who are initially prescribed warfarin therapy with documentation in the medical record indicating a baseline international normalized ratio (INR) was obtained</p>
+<p><strong>Exclusions</strong><br />
+Unspecified</p></div>"/>
+    </field>
+    <field fieldid="3061" ordby="450" id="601" name="Numerator Search Strategy" type="picklist-one">
+      <fieldvalue value="Fixed time period or point in time"/>
+    </field>
+    <field fieldid="3062" ordby="460" id="602" name="Data Source" type="picklist-many">
+      <fieldvalue value="Electronic health/medical record"/>
+    </field>
+    <field fieldid="3065" ordby="470" id="603" name="Type of Health State" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3066" ordby="480" id="604" name="Instruments Used and/or Associated with the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Unspecified</p></div>"/>
+    </field>
+  </section>
+  <section secid="605" ordby="490" name="Computation of the Measure">
+    <field fieldid="3508" ordby="500" id="606" name="Measure Specifies Disaggregation" type="picklist-one">
+      <fieldvalue value="Does not apply to this measure"/>
+    </field>
+    <field fieldid="3067" ordby="520" id="608" name="Scoring" type="picklist-many">
+      <fieldvalue value="Rate/Proportion"/>
+    </field>
+    <field fieldid="3068" ordby="530" id="609" name="Interpretation of Score" type="picklist-one">
+      <fieldvalue value="Desired value is a higher score"/>
+    </field>
+    <field fieldid="3090" ordby="540" id="610" name="Allowance for Patient or Population Factors" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+    <field fieldid="3070" ordby="560" id="612" name="Standard of Comparison" type="picklist-choice-3">
+      <fieldvalue value="not defined yet"/>
+    </field>
+  </section>
+  <section secid="615" ordby="590" name="Identifying Information">
+    <field fieldid="73" ordby="600" id="616" name="Original Title" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Percentage of patients with venous thromboembolism (VTE) who are initially prescribed warfarin therapy with documentation in the medical record, indicating a baseline international normalized ratio (INR) was obtained.</p></div>"/>
+    </field>
+    <field fieldid="74" ordby="610" id="617" name="Measure Collection Name" type="text">
+      <fieldvalue value="Venous Thromboembolism Diagnosis and Treatment"/>
+    </field>
+    <field fieldid="16" ordby="650" id="621" name="Submitter" type="orglist">
+      <fieldvalue value="Institute for Clinical Systems Improvement - Nonprofit Organization"/>
+    </field>
+    <field fieldid="17" ordby="660" id="622" name="Developer" type="orglist-p">
+      <fieldvalue value="Institute for Clinical Systems Improvement - Nonprofit Organization"/>
+    </field>
+    <field fieldid="79" ordby="670" id="623" name="Funding Source(s)" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Institute for Clinical Systems Improvement's (ICSI's) work is funded by the annual dues of the member medical groups and five sponsoring health plans in Minnesota and Wisconsin. </p></div>"/>
+    </field>
+    <field fieldid="80" ordby="680" id="624" name="Composition of the Group that Developed the Measure" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p><em>Work Group Members</em>: Denise Dupras, MD (<em>Work Group Leader</em>) (Mayo Clinic) (Internal Medicine); Terry A. Johnson, MD (Allina Medical Clinic) (Family Medicine); Nedaa Skeik, MD, FACP, FSVM, RPVI (Allina Medical Clinic) (Vascular Medicine); Seema Maddali, MD, MHA (HealthEast Care System) (Internal Medicine); Peter Marshall, PharmD (HealthPartners Health Plan) (Pharmacy); Cindy Felty, NP (Mayo Clinic) (Internal Medicine); Kaiser Lim, MD (Mayo Clinic) (Pulmonology); Penny Messner, DNP, RN, ACNS-BC (Mayo Clinic) (Vascular Medicine); Jim Bluhm, MPH (Institute for Clinical Systems Improvement) (Team Director); Carmen Hansen, BSN (Institute for Clinical Systems Improvement) (Project Manager)</p></div>"/>
+    </field>
+    <field fieldid="81" ordby="690" id="625" name="Financial Disclosures/Other Potential Conflicts of Interest" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The Institute for Clinical Systems Improvement (ICSI) has long had a policy of transparency in declaring potential conflicting and competing interests of all individuals who participate in the development, revision and approval of ICSI guidelines and protocols. </p>
+<p>In 2010, the ICSI Conflict of Interest Review Committee was established by the Board of Directors to review all disclosures and make recommendations to the board when steps should be taken to mitigate potential conflicts of interest, including recommendations regarding removal of work group members. This committee has adopted the Institute of Medicine Conflict of Interest standards as outlined in the report Clinical Practice Guidelines We Can Trust (2011). </p>
+<p>Where there are work group members with identified potential conflicts, these are disclosed and discussed at the initial work group meeting. These members are expected to recuse themselves from related discussions or authorship of related recommendations, as directed by the Conflict of Interest committee or requested by the work group.</p>
+<p>The complete ICSI policy regarding Conflicts of Interest is available at the <a href=&quot;https://www.icsi.org/_asset/fwsfmi/coi_policyletter.pdf&quot; title=&quot;ICSI Web site&quot;>ICSI Web site</a>. </p>
+<p><strong>Disclosure of Potential Conflicts of Interest</strong></p>
+<p><strong>Denise Dupras, MD (Work Group Leader)</strong> <br />
+Internal Medicine, Mayo Clinic <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline-Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: None </p>
+<p><strong>Cindy Felty, NP (Work Group Member)</strong> <br />
+Health Education, Mayo Clinic <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline-Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Terry A. Johnson, MD (Work Group Member)</strong> <br />
+Family Medicine, Allina <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline-Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Kaiser G. Lim, MD (Work Group Member)</strong> <br />
+Pulmonology, Mayo Clinic <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline-Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Seema Maddali, MD (Work Group Member)</strong> <br />
+Internal Medicine, Health East <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline-Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Peter S. Marshall, PharmD (Work Group Member)</strong> <br />
+Pharmacy, Health Partners <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline-Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial conflicts of Interest: None</p>
+<p><strong>Penny K. Messner, DNP, RN, ACNS-BC (Work Group Member)</strong> <br />
+Vascular Medicine, Mayo Clinic <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline-Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: None</p>
+<p><strong>Nedaa Skeik, MD, FACP, FSVM, RPVI (Work Group Member)</strong> <br />
+Vascular Medicine, Allina <br />
+National, Regional, Local Committee Affiliations: None <br />
+Guideline-Related Activities: None <br />
+Research Grants: None <br />
+Financial/Non-Financial Conflicts of Interest: None</p></div>"/>
+    </field>
+    <field fieldid="19" ordby="730" id="629" name="Adaptation" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This measure was not adapted from another source.</p></div>"/>
+    </field>
+    <field fieldid="3086" ordby="740" id="630" name="Date of Most Current Version in NQMC" type="date">
+      <fieldvalue value="2013 Jan"/>
+    </field>
+    <field fieldid="3511" ordby="750" id="631" name="Measure Maintenance" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Scientific documents are revised every 12 to 24 months as indicated by changes in clinical practice and literature.</p></div>"/>
+    </field>
+    <field fieldid="3512" ordby="760" id="632" name="Date of Next Anticipated Revision" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>The next scheduled revision will occur within 24 months.</p></div>"/>
+    </field>
+    <field fieldid="20" ordby="770" id="633" name="Measure Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This is the current release of the measure.</p>
+<p>This measure updates a previous version: Institute for Clinical Systems Improvement (ICSI). Venous thromboembolism diagnosis and treatment. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2012 Jan. 96 p.</p>
+<p>The measure developer reaffirmed the currency of this measure in January 2016.</p></div>"/>
+    </field>
+    <field fieldid="14" ordby="780" id="634" name="Measure Availability" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>Source available from the <a href=&quot;https://www.icsi.org/guidelines__more/catalog_guidelines_and_more/catalog_guidelines/catalog_cardiovascular_guidelines/vte_treatment/&quot; title=&quot;ICSI Web site&quot;>Institute for Clinical Systems Improvement (ICSI) Web site</a>.</p>
+<p>For more information, contact ICSI at 8009 34th Avenue South, Suite 1200, Bloomington, MN 55425; Phone: 952-814-7060; Fax: 952-858-9675; Web site: <a href=&quot;http://www.icsi.org&quot; title=&quot;ICSI Web site&quot;>www.icsi.org</a>; E-mail: <a href=&quot;mailto:icsi.info@icsi.org&quot;>icsi.info@icsi.org</a>.</p></div>"/>
+    </field>
+    <field fieldid="87" ordby="800" id="636" name="NQMC Status" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary was completed by ECRI Institute on August 1, 2012. </p>
+<p>This NQMC summary was updated by ECRI Institute on August 5, 2013.</p>
+<p>The information was reaffirmed by the measure developer on January 13, 2016.</p></div>"/>
+    </field>
+    <field fieldid="88" ordby="810" id="637" name="Copyright Statement" type="text">
+      <fieldvalue value="<div class=&quot;content_para&quot;><p>This NQMC summary (abstracted Institute for Clinical Systems Improvement [ICSI] Measure) is based on the original measure, which is subject to the measure developer's copyright restrictions.</p>
+<p>The abstracted ICSI Measures contained in this Web site may be downloaded by any individual or organization. If the abstracted ICSI Measures are downloaded by an individual, the individual may not distribute copies to third parties.</p>
+<p>If the abstracted ICSI Measures are downloaded by an organization, copies may be distributed to the organization's employees but may not be distributed outside of the organization without the prior written consent of the Institute for Clinical Systems Improvement, Inc.</p>
+<p>All other copyright rights in the abstracted ICSI Measures are reserved by the Institute for Clinical Systems Improvement, Inc. The Institute for Clinical Systems Improvement, Inc. assumes no liability for any adaptations or revisions or modifications made to the abstracts of the ICSI Measures.</p></div>"/>
+    </field>
+  </section>
+  <section secid="641" ordby="850" name="Production">
+    <field fieldid="1" ordby="1366" id="562" name="Source(s)" type="citation">
+      <fieldvalue value="<table><tr><td>Dupras D, Bluhm J, Felty C, Hansen C, Johnson T, Lim K, Maddali S, Marshall P, Messner P, Skeik N. Venous thromboembolism diagnosis and treatment. Bloomington (MN): Institute for Clinical Systems Improvement (ICSI); 2013 Jan. 90 p.  [216 references]</td></tr></table>"/>
+    </field>
+  </section>
+  <section secid="99999" ordby="99999" name="Disclaimer">
+    <field fieldid="99999" ordby="99999" id="99999" name="NQMC Disclaimer" type="text">
+      <fieldvalue value="<p>The National Quality Measures Clearinghouse™ (NQMC) does not develop, produce, approve, or endorse the measures represented on this site.</p> 
+<p>All measures summarized by NQMC and hosted on our site are produced under the auspices of medical specialty societies, relevant professional associations, public and private organizations, other government agencies, health care organizations or plans, individuals, and similar entities.</p> 
+<p>Measures represented on the NQMC Web site are submitted by measure developers, and are screened solely to determine that they meet the <a href=&quot;/help-and-about/summaries/inclusion-criteria&quot;>NQMC Inclusion Criteria</a>.</p> 
+<p>NQMC, AHRQ, and its contractor ECRI Institute make no warranties concerning the content or its reliability and/or validity of the quality measures and related materials represented on this site. Moreover, the views and opinions of developers or authors of measures represented on this site do not necessarily state or reflect those of NQMC, AHRQ, or its contractor, ECRI Institute, and inclusion or hosting of measures in NQMC may not be used for advertising or commercial endorsement purposes.</p> 
+<p>Readers with questions regarding measure content are directed to contact the measure developer.</p>"/>
+    </field>
+  </section>
+</version><!--
+     FILE ARCHIVED ON 02:03:08 Jul 06, 2017 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 22:37:20 Jul 15, 2018.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  LoadShardBlock: 98.494 (3)
+  esindex: 0.01
+  captures_list: 120.713
+  CDXLines.iter: 12.996 (3)
+  PetaboxLoader3.datanode: 46.376 (4)
+  exclusion.robots: 0.178
+  exclusion.robots.policy: 0.159
+  RedisCDXSource: 5.439
+  PetaboxLoader3.resolve: 132.705
+  load_resource: 157.964
+-->
